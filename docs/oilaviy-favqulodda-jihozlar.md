@@ -46,19 +46,19 @@ Xalqaro maʼlumot sifatida Xitoy Favqulodda vaziyatlar vazirligining «Oila favq
 
 Yongʻinda asosiy oʻldiruvchi omil — tutun. Qochish harakati 13-bob 25-bandda, datchiklar 1-bob 3-bandda; bularning ikkalasi ushbu uch buyumdan koʻra muhimroq.
 
-## Uch. Tez yordam qutisiga nima solinadi
+## Uch. Birinchi yordam qutisiga nima solinadi
 
-Universal tez yordam qutisining maqbul tarkibi (harakatlar 13-bobda tekshirilgan):
+Universal birinchi yordam qutisining maqbul tarkibi (harakatlar 13-bobda tekshirilgan):
 
 - Qon toʻxtatish: buramali jgut (turniket) bitta, steril doka va boʻgʻlov, uchburchak roʻmol, tibbiy leykoplastir. Jgutning ishlatilishi, taqiqlari va «boʻshatib qon oqizmaslik» qoidasi — 13-bob 11-bandda
 - Yarani tozalash: yod (yoki antiseptik) tamponlar, fiziologik eritma, plastir, steril salfetka, bir martalik qoʻlqop, qaychi va pinset
 - Kuyish: hech qanday malham kerak emas — sovuq oqar suv ostida 20 daqiqa ushlash butun choraning oʻzi, 13-bob 13-bandda
-- Yozuv: oila aʼzolarining allergiyasi, surunkali kasalligi va doimiy ichadigan dorilari yozilgan karta — tez yordam xodimlari kelganda toʻgʻridan-toʻgʻri beriladi
+- Yozuv: oila aʼzolarining allergiyasi, surunkali kasalligi va doimiy ichadigan dorilari yozilgan karta — birinchi yordam xodimlari kelganda toʻgʻridan-toʻgʻri beriladi
 
 Ogʻir allergiyasi maʼlum boʻlgan odam alohida adrenalin avtoinyektori (qalam) tayyorlab qoʻysin — u retsept boʻyicha, shifokordan olinadi, 13-bob 14-bandda.
 
 - Dalil darajasi: C
-- Izoh: Rasmiy roʻyxatda faqat «tashqi dori vositalari» deb yozilgan; aniq buyumlar kitobda tekshirilgan tez yordam harakatlaridan kelib chiqib toʻldirilgan, bevosita hujjat yoʻq.
+- Izoh: Rasmiy roʻyxatda faqat «tashqi dori vositalari» deb yozilgan; aniq buyumlar kitobda tekshirilgan birinchi yordam harakatlaridan kelib chiqib toʻldirilgan, bevosita hujjat yoʻq.
 
 ## Toʻrt. Yoritish, aloqa va yordam soʻrash
 
@@ -69,7 +69,7 @@ Qoʻl fonarini suvga chidamli, portlamaydigan turidan oling, muntazam quvvatlab 
 - Oʻt oʻchirgich: manometr strelkasi yashil zonadami, korpusdagi ishlab chiqarilgan sana xizmat muddatidan oshmadimi
 - Tutun datchigi va is gazi datchigi: test tugmasini bosing, batareyani yiliga bir marta almashtiring, 1-bob 3-bandda
 - Nafas niqobi: qadogʻi shikastlanmaganmi, muddati oʻtmaganmi
-- Tez yordam qutisi: dori va boʻgʻlovlar muddati, jgut qulfi hali ishlaydimi
+- Birinchi yordam qutisi: dori va boʻgʻlovlar muddati, jgut qulfi hali ishlaydimi
 - Fonar va quvvat banki: quvvati bormi
 
 Buni datchik batareyasini almashtiradigan kun bilan birga, yiliga bir marta bir yoʻla bajaring.
@@ -78,7 +78,7 @@ Buni datchik batareyasini almashtiradigan kun bilan birga, yiliga bir marta bir 
 
 - **Uy uchun AED (defibrillyator).** Narxi juda qimmat, uy sharoiti uchun oʻzini sotib olishni tasdiqlaydigan dalil yoʻq. Yurak toʻxtaganda toʻgʻri harakat — darhol koʻkrak qafasini bosish, birovni 103 ga qoʻngʻiroq qilishga va eng yaqin jamoat joyidan AED olib kelishga yuborish, 13-bob 1-bandda
 - **Sertifikatsiz «yongʻin niqobi», «gazniqob».** Yongʻin mahsulotlari qonun boʻyicha muvofiqlik/sertifikatdan oʻtishi shart; sanoat gazniqobi tutundagi zaharga emas, boshqa moddalarga moʻljallangan — yongʻinda ishlamaydi
-- **Tayyor «favqulodda toʻplam»lar.** Bunday toʻplamda odatda arzon fonar va niqob boʻladi; oʻt oʻchirgich, adyol, niqob va tez yordam qutisini alohida olish arzonroq va sertifikatini tekshirish osonroq
+- **Tayyor «favqulodda toʻplam»lar.** Bunday toʻplamda odatda arzon fonar va niqob boʻladi; oʻt oʻchirgich, adyol, niqob va birinchi yordam qutisini alohida olish arzonroq va sertifikatini tekshirish osonroq
 - **Uch kundan ortiq oziq-ovqat va suv gʻamlash.** Meʼyor har bir kishiga 3 kunlik; ortiqchasi muddati oʻtib nobud boʻladi, 5-bob 24-bandda
 
 - Dalil darajasi: C
