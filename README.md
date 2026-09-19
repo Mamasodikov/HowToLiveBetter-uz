@@ -195,4 +195,4 @@ Asosiy matn imkon qadar oddiy tilda yozilgan, lekin tadqiqotlarga murojaat qilga
 
 Bu asar — [eternity4719/HowToLiveBetter](https://github.com/eternity4719/HowToLiveBetter) loyihasining hosilasi. Asl asar [Unlicense](https://unlicense.org/) (public domain) shartlari asosida tarqatilgan; ushbu oʻzbekcha nashr ham xuddi shu shartlarda — istagan odam erkin nusxa koʻchirishi, oʻzgartirishi va tarqatishi mumkin.
 
-Boshqa tildagi nashrlar: [xitoycha (asl)](https://github.com/eternity4719/HowToLiveBetter) · [ruscha](https://github.com/dlgrv/HowToLiveBetter).
+Boshqa tildagi nashrlar: [xitoycha (asl)](https://github.com/eternity4719/HowToLiveBetter) · [ruscha](https://dlgrv.github.io/HowToLiveBetter/ru/) va [inglizcha](https://dlgrv.github.io/HowToLiveBetter/en/) — [dlgrv/HowToLiveBetter](https://github.com/dlgrv/HowToLiveBetter) reposida ruscha, inglizcha va xitoycha versiyalar bor.
