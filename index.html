@@ -3,6 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="icon" href="yinyang.svg" type="image/svg+xml">
 <title>Samarali hayot qoʻllanmasi · Eng kam pul, vaqt va kuch evaziga eng koʻp umr, pul va shaxsiy erkinlik</title>
 <meta name="description" content="Foyda-sarf nisbati boʻyicha tartiblangan hayot qoʻllanmasi: uzoq umr va kasallikning oldini olish, ilk yordam, pulni tejash, firibgarlik va qonun chegaralari, ishsizlik davri, tadbirkorlik xavflari, oila, chet el va koʻnikmalar. Har bandda sarf, qaytim, dalil darajasi va manba koʻrsatilgan; pul, vaqt va iroda boʻyicha filtrlash mumkin.">
 <meta name="keywords" content="uzoq umr,sogʻliq,dalilga asoslangan,oʻlim,tejash,moliya,firibgarlik,ilk yordam,huquqiy savodxonlik,ishsizlik nafaqasi,mehnat nizolari,tadbirkorlik xavfi,foyda-sarf">
@@ -77,6 +78,7 @@ mark{background:var(--mark);color:inherit;border-radius:2px;padding:0 1px}
 .title{display:flex;align-items:center;gap:10px;font-weight:600;font-size:16px;color:var(--t1);white-space:nowrap}
 .title:hover{text-decoration:none;color:var(--t1)}
 .logo{width:24px;height:24px;border-radius:6px;background:linear-gradient(135deg,var(--brand-3),var(--brand-1));display:grid;place-items:center;color:#fff;font-size:12px;font-weight:700}
+.brand-logo{width:24px;height:24px;border-radius:50%;display:block;background:#fff;flex:none}
 .logo svg{width:15px;height:15px}
 .search{flex:1;max-width:520px;margin-left:auto;position:relative}
 .search input{width:100%;height:40px;padding:0 44px 0 40px;border-radius:8px;border:1px solid transparent;background:var(--bg-alt);color:var(--t1);font:inherit;font-size:14px;transition:border-color .25s,background .25s}
@@ -268,7 +270,7 @@ abbr.term:hover{border-bottom-color:var(--brand-1);color:var(--brand-1)}
 <header class="nav">
   <div class="nav-in">
     <button class="icon-btn menu-btn" id="menu" aria-label="Filtrlarni ochish" aria-expanded="false"><svg viewBox="0 0 24 24"><path d="M4 6h16v2H4zm0 5h16v2H4zm0 5h16v2H4z"/></svg></button>
-    <a class="title" href="./"><span class="logo" aria-hidden="true"><svg viewBox="0 0 24 24"><path d="M6 12.5l4 4 8-9.5" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/></svg></span><span>Samarali hayot qoʻllanmasi</span></a>
+    <a class="title" href="./"><img class="brand-logo" src="yinyang.svg" alt="" width="24" height="24"><span>Samarali hayot qoʻllanmasi</span></a>
     <label class="search">
       <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5" stroke-linecap="round"/></svg>
       <input id="q" type="search" placeholder="Bandlardan qidirish" autocomplete="off" aria-label="Bandlardan qidirish">

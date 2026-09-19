@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="yinyang.svg" alt="" width="96" height="96">
+
 # Samarali hayot qoʻllanmasi
 
 Eng kam pul, vaqt va kuch evaziga eng koʻp umr, pul va shaxsiy erkinlik.

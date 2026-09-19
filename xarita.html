@@ -5,6 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Xarita · Samarali hayot qoʻllanmasi</title>
 <meta name="description" content="Samarali hayot qoʻllanmasining interaktiv xaritasi: 32 bob beshta yoʻnalishga guruhlangan, har biri bosiladigan. Bobni bosing — oʻsha bob filtrlangan holda ochiladi.">
+<link rel="icon" href="yinyang.svg" type="image/svg+xml">
 <link rel="canonical" href="https://mamasodikov.github.io/HowToLiveBetter-uz/xarita.html">
 <style>
 :root{
@@ -26,6 +27,7 @@ button{font:inherit;color:inherit;background:none;border:0;cursor:pointer}
   padding:0 18px;background:rgba(27,27,31,.9);backdrop-filter:blur(8px);border-bottom:1px solid var(--divider)}
 .nav .brand{display:flex;align-items:center;gap:9px;font-weight:600;font-size:15px}
 .nav .logo{width:22px;height:22px;border-radius:6px;background:linear-gradient(135deg,#3e63dd,#a8b1ff);display:grid;place-items:center;color:#fff;font-weight:700;font-size:11px}
+.nav .logo-img{width:22px;height:22px;border-radius:50%;display:block;background:#fff;flex:none}
 .nav .sp{flex:1}
 .nav a.btn{padding:7px 12px;border:1px solid var(--divider);border-radius:8px;color:var(--t2);font-size:13px;white-space:nowrap}
 .nav a.btn:hover{color:var(--t1);border-color:var(--brand-2)}
@@ -81,7 +83,7 @@ button{font:inherit;color:inherit;background:none;border:0;cursor:pointer}
 </head>
 <body>
 <nav class="nav">
-  <a class="brand" href="./"><span class="logo">✦</span><span>Samarali hayot qoʻllanmasi</span></a>
+  <a class="brand" href="./"><img class="logo-img" src="yinyang.svg" alt="" width="22" height="22"><span>Samarali hayot qoʻllanmasi</span></a>
   <span class="sp"></span>
   <input id="q" type="search" placeholder="Xaritadan qidirish…" aria-label="Xaritadan qidirish" autocomplete="off">
   <a class="btn" href="./">Qidiruv sahifasi →</a>
