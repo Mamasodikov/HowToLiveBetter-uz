@@ -7,7 +7,7 @@ Eng kam pul, vaqt va kuch evaziga eng koʻp umr, pul va shaxsiy erkinlik.
 Uzoq umr va kasallikning oldini olish, baxtsiz hodisa va tez yordam, pulni tejash va moliya, firibgarlik va qonun chegaralari, ishsizlik davri, tadbirkorlik xavflari, oila, chet el va koʻnikmalar.<br>
 522 ta maslahat — har birida nima sarflanishi, nima qaytishi va dalili qanchalik kuchli ekani yozilgan. Manba sifatida faqat ilmiy jurnal maqolalari va rasmiy hujjatlar keltirilgan.
 
-**[Onlayn qidiruv sahifasini oching](https://mamasodikov.github.io/HowToLiveBetter-uz/)** · [Mundarija](#bu-kitob-qanday-savollarga-javob-beradi) · [Atamalar](#raqamlarni-tushunish)
+**[Onlayn qidiruv sahifasini oching](https://mamasodikov.github.io/HowToLiveBetter-uz/)** · [Interaktiv xarita](https://mamasodikov.github.io/HowToLiveBetter-uz/xarita.html) · [Mundarija](#bu-kitob-qanday-savollarga-javob-beradi) · [Atamalar](#raqamlarni-tushunish)
 
 </div>
 

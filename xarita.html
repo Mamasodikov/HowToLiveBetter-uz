@@ -1,0 +1,212 @@
+<!doctype html>
+<html lang="uz">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Xarita · Samarali hayot qoʻllanmasi</title>
+<meta name="description" content="Samarali hayot qoʻllanmasining interaktiv xaritasi: 32 bob beshta yoʻnalishga guruhlangan, har biri bosiladigan. Bobni bosing — oʻsha bob filtrlangan holda ochiladi.">
+<link rel="canonical" href="https://mamasodikov.github.io/HowToLiveBetter-uz/xarita.html">
+<style>
+:root{
+  --bg:#1b1b1f; --bg-alt:#161618; --bg-soft:#202127; --bg-elv:#202127;
+  --divider:#2e2e32;
+  --t1:rgba(255,255,245,.86); --t2:rgba(235,235,245,.6); --t3:rgba(235,235,245,.38);
+  --brand-1:#a8b1ff; --brand-2:#5c73e7;
+  --font:"Inter",ui-sans-serif,system-ui,-apple-system,"Segoe UI",Roboto,"Noto Sans",sans-serif;
+  --nav-h:56px;
+}
+*{box-sizing:border-box}
+html{scroll-padding-top:calc(var(--nav-h) + 12px)}
+body{margin:0;background:var(--bg);color:var(--t1);font:14px/1.6 var(--font);-webkit-font-smoothing:antialiased}
+a{color:inherit;text-decoration:none}
+button{font:inherit;color:inherit;background:none;border:0;cursor:pointer}
+:focus-visible{outline:2px solid var(--brand-1);outline-offset:2px;border-radius:6px}
+
+.nav{position:sticky;top:0;z-index:20;height:var(--nav-h);display:flex;align-items:center;gap:14px;
+  padding:0 18px;background:rgba(27,27,31,.9);backdrop-filter:blur(8px);border-bottom:1px solid var(--divider)}
+.nav .brand{display:flex;align-items:center;gap:9px;font-weight:600;font-size:15px}
+.nav .logo{width:22px;height:22px;border-radius:6px;background:linear-gradient(135deg,#3e63dd,#a8b1ff);display:grid;place-items:center;color:#fff;font-weight:700;font-size:11px}
+.nav .sp{flex:1}
+.nav a.btn{padding:7px 12px;border:1px solid var(--divider);border-radius:8px;color:var(--t2);font-size:13px;white-space:nowrap}
+.nav a.btn:hover{color:var(--t1);border-color:var(--brand-2)}
+.nav input{height:36px;width:min(260px,42vw);padding:0 12px;border-radius:8px;border:1px solid var(--divider);
+  background:var(--bg-alt);color:var(--t1);font:inherit;font-size:13px}
+.nav input:focus{outline:0;border-color:var(--brand-1)}
+
+.wrap{max-width:1400px;margin:0 auto;padding:26px 18px 80px}
+.root{max-width:560px;margin:0 auto 6px;background:var(--bg-elv);border:1px solid var(--divider);border-radius:12px;
+  padding:14px 18px;text-align:center;box-shadow:0 1px 2px rgba(0,0,0,.3)}
+.root h1{margin:0 0 4px;font-size:17px;font-weight:650}
+.root p{margin:0;color:var(--t2);font-size:13px}
+.root b{color:var(--t1)}
+.trunk{width:2px;height:22px;background:var(--divider);margin:0 auto}
+
+.cats{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:16px;align-items:start}
+@media(max-width:1080px){.cats{grid-template-columns:repeat(2,1fr)}}
+@media(max-width:640px){.cats{grid-template-columns:1fr}}
+
+.cat{position:relative;min-width:0}
+.cat::before{content:"";position:absolute;top:-12px;left:50%;width:2px;height:12px;background:var(--divider)}
+.cat-h{width:100%;text-align:left;display:flex;align-items:center;gap:8px;
+  background:var(--bg-elv);border:1px solid var(--divider);border-top:3px solid var(--c);border-radius:10px;
+  padding:11px 13px;font-weight:650;font-size:14px;position:sticky;top:calc(var(--nav-h) + 8px);z-index:2}
+.cat-h .chev{margin-left:auto;color:var(--t3);transition:transform .2s}
+.cat.closed .chev{transform:rotate(-90deg)}
+.cat-h .cnt{color:var(--t3);font-weight:500;font-size:12px}
+.cat-body{display:flex;flex-direction:column;gap:10px;padding-top:10px}
+.cat.closed .cat-body{display:none}
+
+.ch{display:block;background:var(--bg-soft);border:1px solid var(--divider);border-left:3px solid var(--c);
+  border-radius:9px;padding:11px 13px;transition:border-color .18s,transform .18s,background .18s}
+.ch:hover{border-color:var(--c);background:var(--bg-elv);transform:translateY(-1px)}
+.ch-t{font-weight:600;font-size:13.5px;color:var(--t1);display:flex;gap:7px;align-items:baseline}
+.ch-t .num{color:var(--c);font-variant-numeric:tabular-nums}
+.ch-res{margin:4px 0 0;color:var(--t3);font-size:12px}
+.ch-topics{margin:8px 0 0;padding:0;list-style:none;display:flex;flex-direction:column;gap:3px}
+.ch-topics li{color:var(--t2);font-size:12.5px;padding-left:12px;position:relative;line-height:1.45}
+.ch-topics li::before{content:"";position:absolute;left:2px;top:8px;width:4px;height:4px;border-radius:50%;background:var(--c);opacity:.7}
+.ch .go{margin-top:8px;font-size:11.5px;color:var(--c);opacity:0;transition:opacity .18s}
+.ch:hover .go{opacity:.9}
+
+.docs{margin:34px auto 0;max-width:900px;border-top:1px solid var(--divider);padding-top:20px}
+.docs h2{font-size:14px;color:var(--t2);font-weight:600;margin:0 0 12px}
+.docs .row{display:flex;flex-wrap:wrap;gap:10px}
+.docs a{background:var(--bg-soft);border:1px solid var(--divider);border-radius:8px;padding:9px 13px;font-size:13px;color:var(--t1)}
+.docs a:hover{border-color:var(--brand-2)}
+.status{text-align:center;color:var(--t3);padding:40px}
+.empty{text-align:center;color:var(--t3);padding:24px;display:none}
+.foot{max-width:900px;margin:40px auto 0;color:var(--t3);font-size:12px;text-align:center;line-height:1.7}
+.foot a{color:var(--brand-1)}
+</style>
+</head>
+<body>
+<nav class="nav">
+  <a class="brand" href="./"><span class="logo">✦</span><span>Samarali hayot qoʻllanmasi</span></a>
+  <span class="sp"></span>
+  <input id="q" type="search" placeholder="Xaritadan qidirish…" aria-label="Xaritadan qidirish" autocomplete="off">
+  <a class="btn" href="./">Qidiruv sahifasi →</a>
+</nav>
+
+<div class="wrap">
+  <div class="root">
+    <h1>Samarali hayot qoʻllanmasi</h1>
+    <p><b id="secN">32</b> bob · <b id="itemN">522</b> band — eng kam pul, vaqt va kuch evaziga eng koʻp umr, pul va erkinlik</p>
+  </div>
+  <div class="trunk"></div>
+  <div id="status" class="status">Xarita yuklanmoqda…</div>
+  <div id="cats" class="cats" hidden></div>
+  <div id="empty" class="empty">Hech narsa topilmadi. Boshqa soʻz bilan urinib koʻring.</div>
+
+  <div class="docs" id="docs" hidden>
+    <h2>Uzun maqolalar</h2>
+    <div class="row" id="docRow"></div>
+  </div>
+
+  <div class="foot">
+    Bobni bosing — u <a href="./">qidiruv sahifasida</a> filtrlangan holda ochiladi.
+    Manba: <a href="https://github.com/eternity4719/HowToLiveBetter">eternity4719/HowToLiveBetter</a> (Unlicense, public domain).
+  </div>
+</div>
+
+<script>
+// Yoʻnalishlar (kategoriyalar) — bob raqamlari boʻyicha guruhlangan
+const CATS = [
+  {name:'Sogʻliq va omon qolish',       c:'#3dd68c', ch:[1,2,13,16,24,28]},
+  {name:'Vaqt va kuch',                 c:'#5c9cff', ch:[3,4,22,23]},
+  {name:'Pul, ish va uy-joy',           c:'#f9b44e', ch:[5,6,7,12,15,19,26]},
+  {name:'Qonun va shaxsiy erkinlik',    c:'#4bd6c7', ch:[8,9,11,14,21,25]},
+  {name:'Oila va hayot bosqichlari',    c:'#c98bdb', ch:[10,17,18,20,27,29,30,31,32]},
+];
+const LENS = {umr:'umr', pul:'pul', vaqt:'vaqt va kuch', erkinlik:'shaxsiy erkinlik'};
+const DOCS = [
+  ['docs/nikoh-foydasi-va-xarajati.md','Nikoh: xarajati va qaytimi'],
+  ['docs/oilaviy-favqulodda-jihozlar.md','Oilaviy favqulodda jihozlar'],
+  ['docs/notanish-odamga-yordam.md','Notanish odamga yordam berish'],
+  ['docs/platforma-uchun-ruxsatnomalar.md','Platforma uchun ruxsatnomalar'],
+];
+
+function shorten(title){
+  // "5. Sarlavha — izoh" -> "Sarlavha"
+  let s = title.replace(/^\d+\.\s*/,'').trim();
+  s = s.split(/\s+[—–-]\s+|[:;]/)[0].trim();
+  if (s.length > 46){ s = s.slice(0,46).replace(/\s+\S*$/,'') + '…'; }
+  return s;
+}
+
+async function main(){
+  const status = document.getElementById('status');
+  try{
+    const md = await (await fetch('README.md',{cache:'no-cache'})).text();
+    // bob raqami -> fayl yoʻli
+    const paths = [...new Set(Array.from(md.matchAll(/\]\((book\/(\d+)[^)]+\.md)\)/g), m => m[1]))];
+    const byNum = {};
+    for (const p of paths){ const n = +p.match(/book\/(\d+)/)[1]; byNum[n] = p; }
+    const texts = await Promise.all(paths.map(async p => [p, await (await fetch(p,{cache:'no-cache'})).text()]));
+    const data = {}; let totalItems = 0, totalSecs = 0;
+    for (const [p,t] of texts){
+      const n = +p.match(/book\/(\d+)/)[1];
+      const title = (t.match(/^#\s+\d+\.\s+(.+)$/m)||[])[1] || p;
+      const items = [...t.matchAll(/^###\s+\d+\.\s+(.+)$/gm)].map(m=>m[1]);
+      const lenses = [...t.matchAll(/olcham=(\w+)/g)].map(m=>m[1]);
+      const freq = {}; lenses.forEach(l=>freq[l]=(freq[l]||0)+1);
+      const top = Object.entries(freq).sort((a,b)=>b[1]-a[1]).slice(0,2).map(x=>LENS[x[0]]||x[0]);
+      data[n] = {title, items, res: top.join(', '), count: items.length};
+      totalItems += items.length; totalSecs++;
+    }
+    document.getElementById('secN').textContent = totalSecs;
+    document.getElementById('itemN').textContent = totalItems;
+
+    const cats = document.getElementById('cats');
+    for (const cat of CATS){
+      const col = document.createElement('div'); col.className='cat'; col.style.setProperty('--c',cat.c);
+      const chapters = cat.ch.filter(n=>data[n]);
+      const cnt = chapters.reduce((s,n)=>s+data[n].count,0);
+      const head = document.createElement('button'); head.className='cat-h'; head.style.setProperty('--c',cat.c);
+      head.innerHTML = `<span>${cat.name}</span><span class="cnt">${chapters.length} bob · ${cnt} band</span><span class="chev">▾</span>`;
+      head.addEventListener('click',()=>col.classList.toggle('closed'));
+      col.appendChild(head);
+      const body = document.createElement('div'); body.className='cat-body';
+      for (const n of chapters){
+        const d = data[n];
+        const a = document.createElement('a'); a.className='ch'; a.style.setProperty('--c',cat.c);
+        a.href = `index.html?sec=${n}`;
+        a.dataset.text = (d.title + ' ' + d.items.join(' ')).toLowerCase();
+        const topics = d.items.slice(0,5).map(shorten);
+        a.innerHTML = `<div class="ch-t"><span class="num">${n}.</span><span>${d.title}</span></div>`
+          + (d.res?`<p class="ch-res">Resurs: ${d.res}</p>`:'')
+          + `<ul class="ch-topics">${topics.map(t=>`<li>${t}</li>`).join('')}</ul>`
+          + `<div class="go">Ochish →</div>`;
+        body.appendChild(a);
+      }
+      col.appendChild(body); cats.appendChild(col);
+    }
+    status.hidden = true; cats.hidden = false;
+
+    // docs
+    const dr = document.getElementById('docRow');
+    for (const [p,t] of DOCS){ const a=document.createElement('a'); a.href=p; a.textContent=t; dr.appendChild(a); }
+    document.getElementById('docs').hidden = false;
+
+    // qidiruv filtri
+    const q = document.getElementById('q'), empty = document.getElementById('empty');
+    q.addEventListener('input', ()=>{
+      const v = q.value.trim().toLowerCase(); let shown = 0;
+      document.querySelectorAll('.cat').forEach(col=>{
+        let any = false;
+        col.querySelectorAll('.ch').forEach(ch=>{
+          const hit = !v || ch.dataset.text.includes(v);
+          ch.style.display = hit ? '' : 'none'; if (hit){any=true; shown++;}
+        });
+        col.style.display = any ? '' : 'none';
+        if (v) col.classList.remove('closed');
+      });
+      empty.style.display = shown ? 'none' : 'block';
+    });
+  }catch(err){
+    status.textContent = 'Xaritani yuklab boʻlmadi. Sahifani http orqali oching (GitHub Pages manzili) — ' + err.message;
+  }
+}
+main();
+</script>
+</body>
+</html>
