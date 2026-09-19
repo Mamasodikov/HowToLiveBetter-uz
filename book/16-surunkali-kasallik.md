@@ -24,7 +24,7 @@ Oʻlcham: umumiy oʻlim va pul. Tashxis — nuqta emas. Undan keyingi oʻn yilli
 
 ### 3. Qayta tekshiruvni shifokor bergan oraliqda oʻtkazing, har safargi koʻrsatkichni bitta daftarga yozib boring
 <!-- teglar: pul=kam vaqt=kam iroda=biroz qaytim=orta olcham=umr -->
-- Sarf: har safar bir necha oʻn mingdan bir necha yuz ming soʻmgacha
+- Sarf: Har safar bir necha oʻn mingdan bir necha yuz ming soʻmgacha
 - Oddiy tilda: Surunkali kasallikda muhimi — bitta oʻlchov emas, tendensiya chizigʻi. Sana, koʻrsatkich, oʻsha paytda ichayotgan dorilar va dozalarni bir joyga yozib boring; shifoxona almashtirganingizda tekshiruvlarni qaytadan qilib, qaytadan pul toʻlashingizga hojat qolmaydi.
 - Qaytimi: Surunkali kasallikning qiymati bitta oʻlchovda emas, tendensiyada. Bir joyga jamlangan yozuv shifoxona almashtirganda takroriy tekshiruv va takroriy xarajatning oldini oladi
 - Dalil darajasi: C
@@ -54,7 +54,7 @@ _Manbadagi bu band Xitoyning oila shifokori bilan «bazaviy/individual xizmat pa
 
 ### 7. Qandli diabet tashxisi qoʻyilsa koʻz tubini bir marta tekshiring, keyin shifokor bergan oraliqda; oyoqni yiliga bir marta
 <!-- teglar: pul=kam vaqt=kam iroda=biroz qaytim=katta olcham=umr -->
-- Sarf: koʻz qorachigʻini kengaytirib koʻz tubi tekshiruvi bir necha oʻn mingdan bir necha yuz ming soʻmgacha; oyoq tekshiruvi odatda qabulga kiradi
+- Sarf: Koʻz qorachigʻini kengaytirib koʻz tubi tekshiruvi bir necha oʻn mingdan bir necha yuz ming soʻmgacha; oyoq tekshiruvi odatda qabulga kiradi
 - Oddiy tilda: Diabetik retinopatiya (koʻz tomiri shikasti) va diabetik oyoq — koʻrmay qolguningizcha yoki yara chuqurlashguncha deyarli sezilmaydi, lekin erta aniqlansa aralashib boʻladi. 2-tur diabet tashxisi qoʻyilgan paytniyoq koʻz qorachigʻini kengaytirib koʻz tubini bir marta tekshiring; 1-tur diabetda kasallik boshlangandan 5 yil oʻtib boshlanadi. Bir-ikki marta tekshirib normada boʻlsa va qand ham meʼyorda boʻlsa, oraliqni 1–2 yilga uzaytirsa boʻladi; oyoqni yiliga bir marta.
 - Qaytimi: Diabetik retinopatiya va diabetik oyoq muammoga aylanmaguncha deyarli belgi bermaydi; erta aniqlansa aralashib boʻladi, koʻrmay qolgan yoki yara chuqurlashgan boʻlsa — kech
 - Dalil darajasi: A

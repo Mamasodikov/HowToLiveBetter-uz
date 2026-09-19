@@ -64,7 +64,7 @@ Chet elda boshingizga ish tushganda elchixona yoki konsullikni qanday topish va 
 
 ### 7. Avstraliya: OSHC butun muddatni qamrasin va oʻrtada uzilmasin — kirishda sugʻurtangizni koʻrsata olmasangiz, chegaradan qaytarilishingiz mumkin
 <!-- teglar: pul=kop vaqt=kam iroda=yoq qaytim=orta olcham=pul -->
-- Sarf: viza muddatiga bir yoʻla toʻlanadi, necha yil oʻqisangiz shuncha; joriy kurs boʻyicha million soʻmlar hisobida, koʻpincha oʻn million soʻmdan oshadi
+- Sarf: Viza muddatiga bir yoʻla toʻlanadi, necha yil oʻqisangiz shuncha; joriy kurs boʻyicha million soʻmlar hisobida, koʻpincha oʻn million soʻmdan oshadi
 - Oddiy tilda: Avstraliya talabaning tibbiy sugʻurtasini viza sharti qilib qoʻygan, ixtiyoriy emas. Sugʻurta butun turar muddatni qoplashi, vizani uzaytirish va polisni almashtirish orasida boʻshliq boʻlmasligi kerak; chegarada sugʻurta dalilini koʻrsata olmasangiz, oʻsha zahoti kiritmasliklari mumkin. Keyin oila aʼzolaringiz yoningizga kelsa, har biriga alohida sugʻurta boʻlishi shart.
 - Qaytimi: Avstraliya Ichki ishlar departamenti talab qiladiki, talaba vizasi arizachisi va uning oila aʼzolari Avstraliyada boʻlgan butun muddat davomida tan olingan tashkilotning xalqaro talabalar tibbiy sugʻurtasiga (OSHC) ega boʻlishi va uni uzluksiz saqlashi shart (imtiyozli hollar bundan mustasno); avvalgi viza sugʻurtasi bilan orada boʻshliq boʻlmasligi kerak; kirishda sugʻurta dalilini koʻrsata olmagan yoʻlovchi chegaradan qaytarilishi mumkin; kurs boshlanishidan oldin kirsangiz, sugʻurta amalga kirgan sana Avstraliyaga haqiqiy kelgan kuningiz boʻlishi lozim
 - Dalil darajasi: A
@@ -73,7 +73,7 @@ Chet elda boshingizga ish tushganda elchixona yoki konsullikni qanday topish va 
 
 ### 8. Buyuk Britaniya: viza toʻlovidan tashqari yiliga hisoblanadigan sogʻliqni saqlash yigʻimi bor — talabaga yiliga 776 funt, ariza berishda bir yoʻla
 <!-- teglar: pul=kop vaqt=kam iroda=yoq qaytim=orta olcham=pul -->
-- Sarf: viza toʻlovi 558 funt, sogʻliqni saqlash yigʻimi yiliga 776 funt, ariza berishda bir yoʻla toʻlanadi
+- Sarf: Viza toʻlovi 558 funt, sogʻliqni saqlash yigʻimi yiliga 776 funt, ariza berishda bir yoʻla toʻlanadi
 - Oddiy tilda: Buyuk Britaniyada xarajat faqat viza toʻlovi emas — viza necha yilga boʻlsa, shunga sogʻliqni saqlash yigʻimini oldindan bir yoʻla toʻlash kerak; toʻlagachgina milliy tibbiyot xizmatidan foydalanasiz. Ikki yillik viza — bir toʻlovda 1552 funt, ustiga viza toʻlovi; joʻnashdan oldingi bu xarajat joriy kursda oʻn millionlab soʻm boʻladi, budjetda tushirib qoldirmang.
 - Qaytimi: Buyuk Britaniya talaba vizasi mamlakat tashqarisidan berilganda va mamlakat ichida uzaytirilganda yoki almashtirilganda 558 funt turadi; sogʻliqni saqlash yigʻimi talabaning oʻzi va oila aʼzolari uchun yiliga 776 funt (masalan, 2 yillik viza — 1552 funt), boshqa toifadagi arizachilar uchun yiliga 1035 funt; 6 oydan koʻp, bir yildan kam viza toʻliq yil hisobida olinadi
 - Dalil darajasi: A
@@ -82,7 +82,7 @@ Chet elda boshingizga ish tushganda elchixona yoki konsullikni qanday topish va 
 
 ### 9. Qaytishdan oldin tan olishga vaqt qoldiring: nostrifikatsiya 15 ish kuni
 <!-- teglar: pul=kam vaqt=orta iroda=yoq qaytim=orta olcham=vaqt -->
-- Sarf: onlayn ariza va davlat boji; hujjat tayyorlash bilan qoʻshib, rasmiy koʻrib chiqish muddati 15 ish kuni
+- Sarf: Onlayn ariza va davlat boji; hujjat tayyorlash bilan qoʻshib, rasmiy koʻrib chiqish muddati 15 ish kuni
 - Oddiy tilda: xorijiy diplom vatanda ishlashi uchun avval nostrifikatsiyadan (tan olishdan) oʻtishi kerak. Rasmiy muddat — 15 ish kuni; hujjat qaytarilsa yoki maxsus sinov kerak boʻlsa, koʻproq choʻziladi. Kuzgi ishga qabul, davlat idorasiga hujjat topshirish, tanlovlarning oxirgi muddatlari bor — kerak boʻlib qolganda emas, oldindan boshlang.
 - Qaytimi: xorijiy davlatlarda taʼlim olganlik toʻgʻrisidagi hujjatlarni tan olish va nostrifikatsiya qilish davlat xizmati Yagona interaktiv davlat xizmatlari portali orqali rasmiylashtiriladi; xizmatni koʻrsatish muddati 15 ish kuni
 - Dalil darajasi: A

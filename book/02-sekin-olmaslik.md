@@ -6,7 +6,7 @@ Bu bobga faqat umumiy oʻlim koʻrsatkichiga taʼsiri katta va dalili mustahkam 
 
 ### 1. Chekishni tashlang — qanchalik erta boʻlsa, shuncha yaxshi
 <!-- teglar: pul=0 vaqt=kam iroda=katta qaytim=katta olcham=umr -->
-- Sarf: tashlash davridagi iroda (bir necha haftadan bir necha oygacha); pul tomondan bu manfiy sarf — kuniga bir quti sigaret bir necha oʻn ming soʻm turadi, tashlasangiz, oyiga yuz minglab soʻm qoʻlingizda qoladi.
+- Sarf: Tashlash davridagi iroda (bir necha haftadan bir necha oygacha); pul tomondan bu manfiy sarf — kuniga bir quti sigaret bir necha oʻn ming soʻm turadi, tashlasangiz, oyiga yuz minglab soʻm qoʻlingizda qoladi.
 - Oddiy tilda: chekadigan odam chekmaydiganga qaraganda oʻrtacha oʻn yildan koʻproq kam yashaydi; 40 yoshgacha tashlagan odam chekishda davom etishdan keladigan oʻlim xavfining qariyb toʻqson foizini yoʻqqa chiqaradi. Qancha erta tashlasangiz, shuncha koʻp yilni qaytarib olasiz.
 - Qaytimi: AQSh kogortasi (kuzatuv): hozir chekuvchilarning kutilayotgan umri hech qachon chekmaganlarnikidan 10 yildan koʻproq qisqa; 40 yoshgacha tashlash chekishda davom etish keltiradigan oʻlim xavfining taxminan 90% ini yoʻqotadi; 25–34, 35–44 va 45–54 yoshda tashlaganlar mos ravishda taxminan 10, 9 va 6 yil koʻproq yashaydi (asl maqolada umr yillari bilan berilgan). Xitoy kogortasi (kuzatuv): 2010-yillarda shahardagi chekuvchi erkaklarda umumiy oʻlim RR 1.65, qishloqdagi erkaklarda RR 1.22; oʻz ixtiyori bilan tashlaganlarda 10 yil oʻtgach, chekishga bogʻlangan xavf deyarli yoʻqoladi.
 - Dalil darajasi: A
@@ -24,7 +24,7 @@ Bu bobga faqat umumiy oʻlim koʻrsatkichiga taʼsiri katta va dalili mustahkam 
 
 ### 3. Shakarli ichimliklar ichmang
 <!-- teglar: pul=0 vaqt=kam iroda=biroz qaytim=katta olcham=umr -->
-- Sarf: nol; oddiy suv yoki shakarsiz choyga oʻtsangiz, ustiga pul ham tejaladi.
+- Sarf: Nol; oddiy suv yoki shakarsiz choyga oʻtsangiz, ustiga pul ham tejaladi.
 - Oddiy tilda: kuniga ikki shishadan koʻp shirin ichimlik ichadigan odamning kuzatuv davrida vafot etish ehtimoli deyarli ichmaydiganlarnikidan taxminan 20% yuqori; kuniga bir-ikki shisha ichadiganlarda ham 10% dan ortiq yuqori.
 - Qaytimi: AQShning ikkita yirik kogortasi (kuzatuv; taxminan 118 000 kishi, 36 000 oʻlim): kuniga ≥2 portsiya vs oyiga <1 portsiya — umumiy oʻlim HR 1.21; kuniga 1–2 portsiya HR 1.14. Yevropaning EPIC kogortasi (kuzatuv, 450 000 kishi): kuniga ≥2 stakan vs oyiga <1 stakan — shakarli gazli ichimlik uchun HR 1.08, barcha gazli ichimliklar birga olinganda HR 1.17.
 - Dalil darajasi: A
@@ -42,7 +42,7 @@ Bu bobga faqat umumiy oʻlim koʻrsatkichiga taʼsiri katta va dalili mustahkam 
 
 ### 5. Uydagi osh tuzini past natriyli (kaliyli) tuzga almashtiring
 <!-- teglar: pul=kam vaqt=kam iroda=yoq qaytim=orta olcham=umr -->
-- Sarf: har bir paketi oddiy tuzdan bir necha ming soʻm qimmat; taʼmi deyarli oʻzgarmaydi, iroda talab qilmaydi.
+- Sarf: Har bir paketi oddiy tuzdan bir necha ming soʻm qimmat; taʼmi deyarli oʻzgarmaydi, iroda talab qilmaydi.
 - Oddiy tilda: yigirma ming kishi ishtirok etgan tasodifiy tanlovli sinovda uydagi tuzni past natriyli tuzga almashtirganlarning besh yil ichida vafot etish ehtimoli taxminan 12%, insult ehtimoli esa taxminan 14% past chiqqan. Bu — tasodifiy guruhlash orqali olingan natija, yaʼni oddiy kuzatuv maʼlumotidan ishonchliroq.
 - Qaytimi: tasodifiy tanlovli sinov (Xitoy qishloqlarida; 20 995 nafar insultni boshidan kechirgan yoki 60 yoshdan oshgan, qon bosimi yuqori kishi; kuzatuv 4.74 yil): past natriyli tuz guruhi vs oddiy tuz guruhi — umumiy oʻlim RR 0.88, insult RR 0.86, asosiy yurak-qon tomir hodisalari RR 0.87; qonda kaliy oshib ketish holatlarida ikki guruh orasida sezilarli farq boʻlmagan.
 - Dalil darajasi: A
@@ -51,7 +51,7 @@ Bu bobga faqat umumiy oʻlim koʻrsatkichiga taʼsiri katta va dalili mustahkam 
 
 ### 6. Tishni puxta yuvlang, kuniga bir marta tish oraligʻini tozalang, tushgan tishni oʻz vaqtida qoʻydiring
 <!-- teglar: pul=kam vaqt=kam iroda=biroz qaytim=orta olcham=umr -->
-- Sarf: tish ipi yoki tish oraligʻi choʻtkasiga yiliga bir necha oʻn ming soʻm, kuniga qoʻshimcha ikki-uch daqiqa; tish toshini professional tozalatish bir marta bir necha yuz ming soʻm.
+- Sarf: Tish ipi yoki tish oraligʻi choʻtkasiga yiliga bir necha oʻn ming soʻm, kuniga qoʻshimcha ikki-uch daqiqa; tish toshini professional tozalatish bir marta bir necha yuz ming soʻm.
 - Oddiy tilda: har kuni tish ipi yoki tish oraligʻi choʻtkasidan foydalanadigan odamning kuzatuv davrida vafot etish ehtimoli taxminan 10% past; tishi butunlay tushgan keksalarda bu ehtimol qariyb 90% yuqori, 20 tadan kam tishi qolganlarda esa deyarli ikki barobar.
 - Qaytimi: Yaponiyada 9676 kishi ustidan 6 yil olib borilgan kogorta: tish oraligʻini tozalash vositalaridan foydalanadiganlarda umumiy oʻlim xavf nisbati 0.89, til tozalagich ishlatadiganlarda 0.77; jamoada yashovchi keksalar boʻyicha meta-tahlil: butunlay tishsizlarda oʻlim nisbati OR 1.87 (95% CI 1.35–2.59), tishi 20 tadan kam boʻlganlarda 2.04 (1.67–2.49).
 - Dalil darajasi: B
@@ -60,7 +60,7 @@ Bu bobga faqat umumiy oʻlim koʻrsatkichiga taʼsiri katta va dalili mustahkam 
 
 ### 7. Har kuni 7000–8000 qadam yuring
 <!-- teglar: pul=0 vaqt=kop iroda=biroz qaytim=katta olcham=umr -->
-- Sarf: taxminan 60–90 daqiqalik yurish; uni ishga borish va xarid qilish bilan qoʻshib yuborsa ham boʻladi; pul ketmaydi.
+- Sarf: Taxminan 60–90 daqiqalik yurish; uni ishga borish va xarid qilish bilan qoʻshib yuborsa ham boʻladi; pul ketmaydi.
 - Oddiy tilda: kuniga 5800 qadam yuradigan odamning kuzatuv davrida vafot etish ehtimoli atigi 3500 qadam yuradiganlarnikidan qariyb 40% past; 7800 qadamda bu 45% ga yetadi, undan keyin oʻsish deyarli toʻxtaydi. Keksalarga 6000–8000 qadam kifoya.
 - Qaytimi: 15 ta kogortani qamragan meta-tahlil (kuzatuv; 47 471 kishi, 3013 oʻlim): qadam soni boʻyicha choraklarga boʻlinganda — mediana 5801, 7842 va 10 901 qadam/kun vs 3553 qadam/kun — umumiy oʻlim HR mos ravishda 0.60, 0.55 va 0.47; 60 yoshdan oshganlarda foyda 6000–8000 qadamdan keyin, 60 yoshgacha boʻlganlarda 8000–10 000 qadamdan keyin tekislanadi. Boshqa bir meta-tahlil: taʼsir taxminan 3867 qadam/kundan boshlanadi, har qoʻshimcha 1000 qadam/kun umumiy oʻlimni qariyb 15% ga kamaytiradi.
 - Dalil darajasi: A
@@ -69,7 +69,7 @@ Bu bobga faqat umumiy oʻlim koʻrsatkichiga taʼsiri katta va dalili mustahkam 
 
 ### 8. Qon bosimi yoki xolesterin yuqori boʻlsa, dorini shifokor aytganidek muntazam iching, oʻzicha toʻxtatmang
 <!-- teglar: pul=kam vaqt=kam iroda=biroz qaytim=katta olcham=umr -->
-- Sarf: generik qon bosimi dorilari va statinlar oyiga bir necha oʻn ming soʻm; kuniga bir marta ichish odati.
+- Sarf: Generik qon bosimi dorilari va statinlar oyiga bir necha oʻn ming soʻm; kuniga bir marta ichish odati.
 - Oddiy tilda: qon bosimi har 10 mmHg ga tushganda vafot etish ehtimoli taxminan 13% ga, insult ehtimoli 27% ga kamayadi; statin past zichlikdagi xolesterinni 1 birlikka tushirsa, oʻlim ehtimoli 10% ga yaqin pasayadi. Dorini vaqtida ichadigan odamda, tez-tez qoldirib ketadiganga qaraganda, oʻlim ehtimoli 30–45% past.
 - Qaytimi: tasodifiy tanlovli sinovlar meta-tahlili: sistolik bosim har 10 mmHg ga pasayganda umumiy oʻlim RR 0.87, asosiy yurak-qon tomir hodisalari RR 0.80, insult RR 0.73, yurak yetishmovchiligi RR 0.72; statin LDL ni 1.0 mmol/L ga tushirganda umumiy oʻlim RR 0.90, asosiy tomir hodisalari RR 0.78. Dori qabuliga rioya qilish boʻyicha meta-tahlil (kuzatuv): statin va qon bosimi dorilarini ≥80% rioya bilan ichganlar vs yomon ichganlar — umumiy oʻlim RR mos ravishda 0.55 va 0.71.
 - Dalil darajasi: A
@@ -78,7 +78,7 @@ Bu bobga faqat umumiy oʻlim koʻrsatkichiga taʼsiri katta va dalili mustahkam 
 
 ### 9. Har kecha 7 soatcha uxlang, uygʻonish-uxlash vaqti oʻzgarmasin
 <!-- teglar: pul=0 vaqt=kop iroda=biroz qaytim=orta olcham=umr -->
-- Sarf: vaqt (koʻpchilik uchun bu — telefon titkilashga ketadigan vaqtni uyquga berish); tartibni saqlash esa bir oz intizom talab qiladi.
+- Sarf: Vaqt (koʻpchilik uchun bu — telefon titkilashga ketadigan vaqtni uyquga berish); tartibni saqlash esa bir oz intizom talab qiladi.
 - Oddiy tilda: uzoq vaqt 7 soatdan kam uxlaydigan odamning kuzatuv davrida vafot etish ehtimoli 10% ga yaqin yuqori; tartib qanchalik chalkash boʻlsa, xavf shuncha ortadi — eng muntazam uxlaydiganlarda bu ehtimol eng tartibsizlarnikidan 20% dan 50% gacha past. Yaʼni muntazamlik davomiylikdan ham muhimroq.
 - Qaytimi: meta-tahlil (kuzatuv; 16 ta tadqiqot, 1,38 million kishi, 113 000 oʻlim): kam uxlaydiganlarda umumiy oʻlim RR 1.12, koʻp uxlaydiganlarda RR 1.30. Doza-javob meta-tahlili: eng past nuqta — 7 soat; 7 soatdan kam uxlaganda har bir soat uchun RR 1.06, 7 soatdan koʻp uxlaganda har bir soat uchun RR 1.13. UK Biobank doirasida taxminan 61 000 kishining bilaguzuk maʼlumoti (kuzatuv): uyqusi eng muntazam boʻlgan toʻrt beshlik vs eng tartibsiz beshlik — umumiy oʻlim 20%–48% past; muntazamlik oʻlimni davomiylikdan kuchliroq bashorat qilgan.
 - Dalil darajasi: A
@@ -87,7 +87,7 @@ Bu bobga faqat umumiy oʻlim koʻrsatkichiga taʼsiri katta va dalili mustahkam 
 
 ### 10. Haftasiga jami 150–300 daqiqa oʻrtacha shiddatli harakat qiling — tez yurish ham boʻladi
 <!-- teglar: pul=0 vaqt=kop iroda=biroz qaytim=katta olcham=umr -->
-- Sarf: kuniga 20–45 daqiqa; pul ketmaydi.
+- Sarf: Kuniga 20–45 daqiqa; pul ketmaydi.
 - Oddiy tilda: haftasiga 150–300 daqiqa tez yuradigan odamning shu davrda oʻlim ehtimoli umuman harakat qilmaydiganga qaraganda taxminan 30% past; bu meʼyorga yetmasa ham, taxminan 20% past boʻladi. Meʼyordan 3–5 baravar koʻp harakat qilganda foyda eng yuqori nuqtaga chiqadi (taxminan 40% past), undan ortigʻi qoʻshimcha foyda bermaydi, lekin zarar ham qilmaydi.
 - Qaytimi: koʻp kogortali umumlashtirilgan tahlil (kuzatuv): tavsiyanomaning quyi chegarasidan 1–2 baravar (haftasiga 7,5–15 MET·soat, taxminan haftasiga 150–300 daqiqa tez yurish) harakat qilganlar vs harakat qilmaganlar — umumiy oʻlim HR 0,69; quyi chegaraga yetmaganlarda ham HR 0,80; 3–5 baravarda HR 0,61 bilan eng yuqori nuqtaga chiqadi, undan ortigʻi pasaytirmaydi, lekin zarari ham yoʻq (≥10 baravar HR 0,69). Akselerometr bilan oʻlchangan meta-tahlil: oʻrta va yuqori shiddatli faollikning eng yuqori choragi vs eng quyi choragi — HR 0,52.
 - Dalil darajasi: A
@@ -96,7 +96,7 @@ Bu bobga faqat umumiy oʻlim koʻrsatkichiga taʼsiri katta va dalili mustahkam 
 
 ### 11. Haftasiga uch marta, har gal 45 daqiqa raketkali oʻyin oʻynang
 <!-- teglar: pul=kam vaqt=orta iroda=biroz qaytim=katta olcham=umr -->
-- Sarf: har gal maydon haqi bir necha oʻn ming soʻm; haftasiga taxminan 2 soat
+- Sarf: Har gal maydon haqi bir necha oʻn ming soʻm; haftasiga taxminan 2 soat
 - Oddiy tilda: tennis, badminton, stol tennisi bilan muntazam shugʻullanadigan odamning shu davrda oʻlim ehtimoli oʻynamaydiganga qaraganda taxminan ikki baravar past, yurak-qon tomir kasalliklaridan oʻlim esa qariyb 56% past; suzishda 28% ga yaqin past; bu maʼlumotlarda yugurish va futbol boʻyicha farq koʻrinmagan.
 - Qaytimi: Buyuk Britaniyada 80 306 kishilik kogorta: shu tur bilan shugʻullanmaydiganlarga nisbatan raketkali sport turlarida (tennis, badminton, stol tennisi) umumiy oʻlim xavf nisbati 0,53 (95% CI 0,40–0,69), yurak-qon tomir kasalliklaridan oʻlim 0,44 (0,24–0,83); suzish 0,72 va 0,59; aerobika 0,73 va 0,64; velosiped 0,85; yugurish va futbolda statistik ahamiyatli bogʻliqlik topilmagan
 - Dalil darajasi: A
@@ -114,7 +114,7 @@ Bu bobga faqat umumiy oʻlim koʻrsatkichiga taʼsiri katta va dalili mustahkam 
 
 ### 13. Haftasiga 30–60 daqiqa kuch mashqlari bajaring
 <!-- teglar: pul=0 vaqt=orta iroda=biroz qaytim=orta olcham=umr -->
-- Sarf: haftasiga 1–2 marta, har gal 20–30 daqiqa; oʻz vazni bilan choʻkkalash va gavda koʻtarish pul talab qilmaydi.
+- Sarf: Haftasiga 1–2 marta, har gal 20–30 daqiqa; oʻz vazni bilan choʻkkalash va gavda koʻtarish pul talab qilmaydi.
 - Oddiy tilda: haftasiga 30–60 daqiqa kuch mashqi qiladigan odamning shu davrda oʻlim ehtimoli qilmaydiganga qaraganda 10–20% past; bundan koʻpi qoʻshimcha foyda bermaydi; aerob mashq bilan birga qilinsa, natija eng yaxshi boʻladi.
 - Qaytimi: kogortalar meta-tahlili (kuzatuv): kuch mashqi qiladiganlar vs qilmaydiganlar — umumiy oʻlim 10%–17% past; doza-javob egri chizigʻi J shaklida, taxminan haftasiga 30–60 daqiqada pasayish eng katta (taxminan 10%–20%), bundan koʻpi qoʻshimcha foyda bermaydi; kuch va aerob mashqning ikkalasini ham qiladiganlarda ikkalasini ham qilmaydiganlarga nisbatan umumiy oʻlim yanada past.
 - Dalil darajasi: A
@@ -123,7 +123,7 @@ Bu bobga faqat umumiy oʻlim koʻrsatkichiga taʼsiri katta va dalili mustahkam 
 
 ### 14. Uzluksiz koʻp oʻtirmang, vaqti-vaqti bilan turib harakat qiling
 <!-- teglar: pul=0 vaqt=kam iroda=biroz qaytim=katta olcham=umr -->
-- Sarf: nol; eslatma qoʻyib qoʻying.
+- Sarf: Nol; eslatma qoʻyib qoʻying.
 - Oddiy tilda: eng koʻp oʻtiradigan odamning shu davrda oʻlim ehtimoli eng kam oʻtiradiganga qaraganda 2,6 baravar yuqori; bir joyda uzluksiz uzoq oʻtirish esa alohida hisoblanadi. Lekin kuniga 60–75 daqiqa oʻrtacha shiddatli harakat qilinsa, koʻp oʻtirishdan kelib chiqqan ortiqcha xavf deyarli toʻliq qoplanadi.
 - Qaytimi: AQSH kogortasi (kuzatuv, akselerometr): oʻtirishning umumiy davomiyligi boʻyicha eng yuqori chorak vs eng quyi chorak — umumiy oʻlim HR 2,63; turmasdan uzluksiz oʻtirilgan eng uzun chorak vs eng qisqa chorak — HR 1,96; umumiy hajm va uzluksiz davomiylik bir-biridan mustaqil ravishda bogʻliq. Bir millionlik umumlashtirilgan tahlil (kuzatuv): kuniga >8 soat oʻtirib deyarli harakat qilmaydiganlar vs <4 soat oʻtirib eng faol boʻlganlar — HR 1,59; kuniga taxminan 60–75 daqiqa oʻrtacha shiddatli harakat koʻp oʻtirishning ortiqcha xavfini qoplaydi (eng faol guruhda >8 soat oʻtirish HR 1,04, statistik ahamiyatsiz).
 - Dalil darajasi: A
@@ -132,7 +132,7 @@ Bu bobga faqat umumiy oʻlim koʻrsatkichiga taʼsiri katta va dalili mustahkam 
 
 ### 15. Qayta ishlangan goʻshtni (vetchina, bekon, kolbasa, konserva goʻsht) kam yeng
 <!-- teglar: pul=0 vaqt=kam iroda=biroz qaytim=katta olcham=umr -->
-- Sarf: nol, hatto tejaladi; faqat taʼm boʻyicha biroz voz kechish.
+- Sarf: Nol, hatto tejaladi; faqat taʼm boʻyicha biroz voz kechish.
 - Oddiy tilda: vetchina, bekon, kolbasani eng koʻp yeydigan odamning shu davrda oʻlim ehtimoli eng kam yeydiganga qaraganda taxminan 20% yuqori; kuniga bir ulush qoʻshimcha qayta ishlangan goʻsht ham shu darajada koʻtaradi.
 - Qaytimi: meta-tahlil (kuzatuv): qayta ishlangan goʻshtni eng koʻp vs eng kam isteʼmol qilganlar guruhi — umumiy oʻlim RR 1,23, umumiy qizil goʻsht RR 1,29, qayta ishlanmagan qizil goʻsht RR 1,10 (ahamiyatsiz); boshqa meta-tahlilda doza boʻyicha: qayta ishlangan goʻsht kuniga har 1 ulush ortganda RR 1,23, qizil goʻsht kuniga har 1 ulush ortganda RR 1,10.
 - Dalil darajasi: A
@@ -141,7 +141,7 @@ Bu bobga faqat umumiy oʻlim koʻrsatkichiga taʼsiri katta va dalili mustahkam 
 
 ### 16. Spirtli ichimlikni kam iching yoki umuman ichmang
 <!-- teglar: pul=0 vaqt=kam iroda=biroz qaytim=katta olcham=umr -->
-- Sarf: davra oʻrtasida bir oz noqulaylik; pul tejaladi.
+- Sarf: Davra oʻrtasida bir oz noqulaylik; pul tejaladi.
 - Oddiy tilda: haftasiga 100 g sof spirtdan (taxminan 2,5 l pivo) oshgach, qancha koʻp ichsangiz, shuncha erta oʻlasiz: 40 yoshda haftasiga 100–200 g ichadigan odam taxminan yarim yil kam yashaydi, 200–350 g ichadigan bir-ikki yil, 350 g dan oshiradigan esa toʻrt-besh yil kam yashaydi. Umumiy sogʻliq nuqtayi nazaridan eng foydali meʼyor — 0.
 - Qaytimi: 83 ta prospektiv tadqiqot, 599 912 nafar hozirgi ichuvchining umumlashtirilgan tahlili (kuzatuv): umumiy oʻlim eng past nuqtada haftasiga ≤100 g sof spirtda (taxminan 5% li pivoning 2,5 l yoki 40 graduslik kuchli ichimlikning 300 ml); 40 yoshda haftasiga 100–200 g ichadiganlarda kutilayotgan umr taxminan 6 oy kam, 200–350 g da 1–2 yil kam, >350 g da 4–5 yil kam (asl maqolada umr yillari bilan berilgan). GBD 2016: turli sogʻliq yoʻqotishlari qoʻshib hisoblanganda, xavfi eng past isteʼmol miqdori — haftasiga 0 qadah. Tadqiqot dizayni nuqsonlarini tuzatgan meta-tahlil: oz miqdorda ichish (kuniga 1,3–24 g) vs umr boʻyi ichmaganlar — RR 0,93 (ahamiyatsiz), kuniga 45–64 g — RR 1,19, kuniga ≥65 g — RR 1,35.
 - Dalil darajasi: A
@@ -150,7 +150,7 @@ Bu bobga faqat umumiy oʻlim koʻrsatkichiga taʼsiri katta va dalili mustahkam 
 
 ### 17. Kuniga bir hovuch yongʻoq-mevasi yeng
 <!-- teglar: pul=kam vaqt=kam iroda=yoq qaytim=katta olcham=umr -->
-- Sarf: kuniga 28 gramm, yiliga taxminan bir necha yuz ming soʻm
+- Sarf: Kuniga 28 gramm, yiliga taxminan bir necha yuz ming soʻm
 - Oddiy tilda: yongʻoq, bodom, pista kabi mevalarni muntazam yeydigan odamning shu davrda oʻlim ehtimoli yemaydiganga qaraganda taxminan 20% past; haftasiga bir marta yesangiz ham farq koʻrinadi (taxminan 10% past), har kuni yesangiz — eng sezilarli.
 - Qaytimi: AQSHdagi ikkita kogorta, 119 000 kishi, 3 milliondan ortiq odam-yil: yongʻoq-mevasini umuman yemaydiganlarga nisbatan haftasiga 1 martadan kam yeydiganlarda umumiy oʻlim xavf nisbati 0,93 (95% CI 0,90–0,96), haftasiga 1 marta 0,89 (0,86–0,93), haftasiga 2–4 marta 0,87 (0,83–0,90), haftasiga 5–6 marta 0,85 (0,79–0,91), haftasiga 7 martadan koʻp 0,80 (0,73–0,86)
 - Dalil darajasi: A
@@ -168,7 +168,7 @@ Bu bobga faqat umumiy oʻlim koʻrsatkichiga taʼsiri katta va dalili mustahkam 
 
 ### 19. Oq un va oqlangan guruchning bir qismini butun donli mahsulotga almashtiring
 <!-- teglar: pul=kam vaqt=kam iroda=biroz qaytim=katta olcham=umr -->
-- Sarf: qoʻngʻir guruch, suli, butun bugʻdoy uni biroz qimmatroq; taʼmiga koʻnikish kerak.
+- Sarf: Qoʻngʻir guruch, suli, butun bugʻdoy uni biroz qimmatroq; taʼmiga koʻnikish kerak.
 - Oddiy tilda: kuniga 90 g (taxminan uch ulush) koʻproq butun donli mahsulot yeydigan odamning shu davrda oʻlim ehtimoli taxminan 17% past; kuniga 200 g atrofigacha foyda ortib boraveradi.
 - Qaytimi: meta-tahlil (kuzatuv): butun donli mahsulot kuniga har 90 g (taxminan 3 ulush) ortganda umumiy oʻlim RR 0,83; foyda kuniga 210–225 g gacha davom etadi; boshqa meta-tahlilda kuniga har 1 ulush uchun RR 0,92.
 - Dalil darajasi: A
@@ -177,7 +177,7 @@ Bu bobga faqat umumiy oʻlim koʻrsatkichiga taʼsiri katta va dalili mustahkam 
 
 ### 20. Haftasiga uch martadan koʻp choy iching
 <!-- teglar: pul=kam vaqt=kam iroda=yoq qaytim=orta olcham=umr -->
-- Sarf: yiliga bir necha oʻn mingdan bir necha yuz ming soʻmgacha
+- Sarf: Yiliga bir necha oʻn mingdan bir necha yuz ming soʻmgacha
 - Oddiy tilda: choy ichish odati bor odamning shu davrda oʻlim ehtimoli taxminan 15% past; 50 yoshdan hisoblaganda, oʻrtacha 1,26 yil koʻp umr va yurak-qon tomir kasalligisiz 1,41 yil koʻp vaqt beradi.
 - Qaytimi: Xitoyda oʻtkazilgan 100 900 kishilik kogorta, mediana kuzatuv muddati 7,3 yil (China-PAR): choyni odat qilganlarda umumiy oʻlim xavf nisbati 0,85 (95% CI 0,79–0,90); 50 yosh boshlangʻich nuqta qilib olinganda, choy ichadiganlarda aterosklerotik yurak-qon tomir kasalligisiz oʻtgan yillar 1,41 yilga, kutilayotgan umr esa 1,26 yilga koʻp boʻlgan
 - Dalil darajasi: A
@@ -186,7 +186,7 @@ Bu bobga faqat umumiy oʻlim koʻrsatkichiga taʼsiri katta va dalili mustahkam 
 
 ### 21. Kuniga uch-toʻrt chashka qahva iching — shakarsiz va qaymoqsiz
 <!-- teglar: pul=kam vaqt=kam iroda=yoq qaytim=katta olcham=umr -->
-- Sarf: oʻzingiz damlasangiz, kuniga bir necha ming soʻm.
+- Sarf: Oʻzingiz damlasangiz, kuniga bir necha ming soʻm.
 - Oddiy tilda: kuniga uch-toʻrt chashka qahva ichadigan odamning shu davr ichida oʻlish ehtimoli umuman ichmaydiganga qaraganda taxminan 17% past.
 - Qaytimi: 201 ta kuzatuv tadqiqotining metatahlillarini qamrab olgan soyabon sharh: kuniga 3–4 chashka ichganlarda, umuman ichmaydiganlarga nisbatan umumiy oʻlim boʻyicha nisbiy xavf 0.83 (95% CI 0.79–0.88), yaʼni 17% past.
 - Dalil darajasi: A
@@ -195,7 +195,7 @@ Bu bobga faqat umumiy oʻlim koʻrsatkichiga taʼsiri katta va dalili mustahkam 
 
 ### 22. Kuniga 5 ulush (taxminan 400 g) meva va sabzavot yeng
 <!-- teglar: pul=kam vaqt=orta iroda=biroz qaytim=orta olcham=umr -->
-- Sarf: kuniga bir necha ming soʻmdan bir necha oʻn ming soʻmgacha; ustiga yuvish va toʻgʻrash vaqti.
+- Sarf: Kuniga bir necha ming soʻmdan bir necha oʻn ming soʻmgacha; ustiga yuvish va toʻgʻrash vaqti.
 - Oddiy tilda: kuniga qoʻshimcha 200 g meva-sabzavot yesangiz, shu davrdagi oʻlim ehtimoli taxminan oʻndan bir past boʻladi; kuniga 5 ulush yeydiganlar bor-yoʻgʻi 2 ulush yeydiganlardan taxminan 13% past. Undan ortigʻi qoʻshimcha foyda bermaydi.
 - Qaytimi: metatahlil (kuzatuv): har qoʻshimcha 200 g/kun uchun umumiy oʻlim RR 0.90, foyda 800 g/kungacha davom etadi; AQShning ikki yirik kohorti hamda 26 ta kohort metatahlili: kuniga 5 ulush vs 2 ulush uchun umumiy oʻlim HR 0.87, eng yaxshi nisbat — 2 ulush meva + 3 ulush sabzavot, bundan ortigʻi koʻrsatkichni pasaytirmaydi.
 - Dalil darajasi: A
@@ -204,7 +204,7 @@ Bu bobga faqat umumiy oʻlim koʻrsatkichiga taʼsiri katta va dalili mustahkam 
 
 ### 23. Oʻta qayta ishlangan oziq-ovqatni kamaytiring (chipsi, tez pishar lagʻmon, shirinliklar, yarim tayyor taomlar)
 <!-- teglar: pul=0 vaqt=kop iroda=katta qaytim=katta olcham=umr -->
-- Sarf: oʻzingiz ovqat pishirishingiz yoki xom mahsulot tanlashingiz kerak — vaqt va iroda sarfi oʻrtacha.
+- Sarf: Oʻzingiz ovqat pishirishingiz yoki xom mahsulot tanlashingiz kerak — vaqt va iroda sarfi oʻrtacha.
 - Oddiy tilda: oʻta qayta ishlangan oziq-ovqatni eng koʻp isteʼmol qiladiganlarda shu davrdagi oʻlim ehtimoli eng kam isteʼmol qiladiganlarga qaraganda taxminan beshdan bir, yurak-qon tomir kasalliklaridan oʻlim esa ellik foizga yuqori. Ammo bu dalillarning ishonchliligi past deb baholangan, shuning uchun raqamlarni biroz chegirma bilan oʻqing.
 - Qaytimi: soyabon sharh (kuzatuv metatahlillari umumlashtirilgan): oʻta qayta ishlangan oziq-ovqat isteʼmoli yuqori vs past — umumiy oʻlim RR 1.21, yurak-qon tomir kasalliklaridan oʻlim RR 1.50; dalil darajasi mos ravishda "kuchli ishora" va "ishonarli", lekin GRADE boʻyicha ishonchlilik past/juda past.
 - Dalil darajasi: A
@@ -222,7 +222,7 @@ Bu bobga faqat umumiy oʻlim koʻrsatkichiga taʼsiri katta va dalili mustahkam 
 
 ### 25. Ovqat pishirish va isitishda koʻmir va oʻtin yoqmang — elektr yoki gazga oʻting
 <!-- teglar: pul=kop vaqt=kam iroda=yoq qaytim=katta olcham=umr -->
-- Sarf: qishloq xonadonida oʻchoq/plita almashtirish va yoqilgʻi puli — yiliga sezilarli xarajat; shahar aholisining koʻpchiligida bu masala allaqachon hal boʻlgan.
+- Sarf: Qishloq xonadonida oʻchoq/plita almashtirish va yoqilgʻi puli — yiliga sezilarli xarajat; shahar aholisining koʻpchiligida bu masala allaqachon hal boʻlgan.
 - Oddiy tilda: ovqatni koʻmir yoki oʻtinda pishiradiganlarda shu davrdagi oʻlim ehtimoli taxminan oʻndan bir, isitish uchun yoqadiganlarda taxminan 14% yuqori; qattiq yoqilgʻidan elektr yoki gazga oʻtganlarda esa oʻlim ehtimoli davom etayotganlarga qaraganda 13%–33% past.
 - Qaytimi: Xitoydagi surunkali kasalliklar boʻyicha prospektiv kohort (kuzatuv, yurak-qon tomir kasalligi boʻlmagan 271 000 katta yoshli kishi): ovqat pishirishda qattiq yoqilgʻi vs toza yoqilgʻi — umumiy oʻlim HR 1.11, isitishda qattiq yoqilgʻi HR 1.14; qattiq yoqilgʻidan toza yoqilgʻiga oʻtganlarda davom etganlarga nisbatan ovqat pishirish boʻyicha HR 0.87, isitish boʻyicha HR 0.67. Tashqi havodagi PM2.5: 104 ta kohort metatahlili — uzoq muddatli taʼsir har 10 µg/m³ ortganda tabiiy sabablardan oʻlim RR 1.08.
 - Dalil darajasi: A
@@ -249,7 +249,7 @@ Bu bobga faqat umumiy oʻlim koʻrsatkichiga taʼsiri katta va dalili mustahkam 
 
 ### 28. BMI ni 20–25 oraligʻida ushlang, ortiqcha vazn boʻlsa kamaytiring
 <!-- teglar: pul=0 vaqt=kop iroda=katta qaytim=katta olcham=umr -->
-- Sarf: iroda talab qiladigan eng ogʻir band: ovqatlanish va harakatni uzoq muddat izchil ushlash, vazn tushgandan keyin uni saqlab qolish esa yanada qiyin.
+- Sarf: Iroda talab qiladigan eng ogʻir band: ovqatlanish va harakatni uzoq muddat izchil ushlash, vazn tushgandan keyin uni saqlab qolish esa yanada qiyin.
 - Oddiy tilda: oʻlim ehtimoli BMI 20–25 oraligʻida eng past; BMI 27,5–30 boʻlganda taxminan beshdan bir, 30–35 da qariyb qirq besh foiz, 35–40 da esa deyarli ikki barobar yuqori. Sharqiy Osiyo aholisi ortiqcha vaznga sezgirroq: BMI har 5 birlikka oshganda xavf taxminan qirq foizga koʻtariladi.
 - Qaytimi: 239 ta prospektiv tadqiqotning individual maʼlumotlari boʻyicha metatahlil (kuzatuv; faqat hech qachon chekmaganlar, boshlangʻich nuqtada surunkali kasalligi boʻlmaganlar va kamida 5 yil yashaganlar hisobga olingan): umumiy oʻlim BMI 20–25 da eng past, 25–27.5 da HR 1.07, 27.5–30 da HR 1.20, 30–35 da HR 1.45, 35–40 da HR 1.94, 40–60 da HR 2.76; BMI 25 dan yuqorida har 5 kg/m² ortishi uchun Sharqiy Osiyo aholisida HR 1.39.
 - Dalil darajasi: A
@@ -266,7 +266,7 @@ Bu bobga faqat umumiy oʻlim koʻrsatkichiga taʼsiri katta va dalili mustahkam 
 
 ### 30. Kuniga bir-ikki ulush sut yoki qatiq iching
 <!-- teglar: pul=kam vaqt=kam iroda=yoq qaytim=katta olcham=umr -->
-- Sarf: kuniga bir necha ming soʻm.
+- Sarf: Kuniga bir necha ming soʻm.
 - Oddiy tilda: kuniga ikki ulushdan koʻp sut yoki qatiq isteʼmol qiladiganlarda shu davrdagi oʻlim ehtimoli umuman isteʼmol qilmaydiganlarnikidan taxminan 17% past.
 - Qaytimi: 21 mamlakatni qamragan PURE kohorti — 136 000 kishi, oʻrtacha 9,1 yillik kuzatuv, 6 796 oʻlim holati: kuniga ikki ulushdan koʻp sut mahsuloti isteʼmol qilish umuman isteʼmol qilmaslikka nisbatan — umumiy oʻlim xavf nisbati 0.83 (95% CI 0.72–0.96, trend P=0.0052).
 - Dalil darajasi: B
@@ -284,7 +284,7 @@ Bu bobga faqat umumiy oʻlim koʻrsatkichiga taʼsiri katta va dalili mustahkam 
 
 ### 32. Imkon boʻlsa vannada choʻmiling, faqat dush bilan cheklanmang
 <!-- teglar: pul=kam vaqt=orta iroda=yoq qaytim=katta olcham=umr -->
-- Sarf: suv va isitish puli; har safar yarim soat.
+- Sarf: Suv va isitish puli; har safar yarim soat.
 - Oddiy tilda: deyarli har kuni vannada choʻmiladiganlarda yurak-qon tomir hodisalari xavfi haftasiga ikki martadan kam choʻmiladiganlarnikidan taxminan 28% past, miya qon quyilishi esa taxminan 46% past.
 - Qaytimi: Yaponiyada 30 000 kishi, 19 yillik kuzatuv, 2 097 yurak-qon tomir hodisasi: deyarli har kuni vannada choʻmilish haftasiga ikki martadan oshmasligiga nisbatan — yurak-qon tomir hodisalari xavf nisbati 0.72 (95% CI 0.62–0.84), yurakning ishemik kasalligi 0.65 (0.45–0.94), insult 0.74 (0.62–0.87), miya qon quyilishi 0.54 (0.40–0.73).
 - Dalil darajasi: B

@@ -6,7 +6,7 @@ Bu bobda faqat kuch va vaqt hisobi yuritiladi: kun davomida ishlatsa boʻladigan
 
 ### 1. Keraksiz bildirishnomalarni oʻchiring, ishlayotganda telefonni koʻz oʻngidan olib qoʻying
 <!-- teglar: pul=0 vaqt=kam iroda=yoq qaytim=orta olcham=vaqt -->
-- Sarf: bir necha daqiqalik sozlash; deyarli iroda talab qilmaydi
+- Sarf: Bir necha daqiqalik sozlash; deyarli iroda talab qilmaydi
 - Oddiy tilda: telefon bir marta jiringlasa, siz unga qaramasangiz ham, qoʻl tegizmasangiz ham diqqat talab qiladigan ishdagi natijangiz pasayadi — xuddi haqiqatan qoʻngʻiroqqa javob bergan yoki xabar yozgandek. Undan ham qizigʻi: telefon shunchaki stol ustida yotsa va siz unga qaramaslikka chidasangiz ham, miyaning boʻsh quvvati kamayadi. Telefonga qanchalik bogʻlangan boʻlsangiz, pasayish shunchalik katta.
 - Qaytimi: shunchaki bildirishnoma kelishi (qaramasdan, tegmasdan) diqqat topshiriqlaridagi natijani sezilarli darajada pasaytiradi; taʼsir kuchi haqiqatan qoʻngʻiroqqa javob berish yoki xabar yozish bilan tengdosh (laboratoriya, talabalar). Ikki tajribada koʻrsatilishicha, telefonga qaramaslikka muvaffaqiyat bilan chidalganda ham, oʻz telefoningizning shundoq yonda turishining oʻzi mavjud kognitiv quvvatni kamaytiradi; telefonga qaramligi kuchli odamlarda pasayish eng katta
 - Dalil darajasi: B
@@ -15,7 +15,7 @@ Bu bobda faqat kuch va vaqt hisobi yuritiladi: kun davomida ishlatsa boʻladigan
 
 ### 2. Uygʻonish vaqtini qatʼiy belgilang — dam olish kunlari ham
 <!-- teglar: pul=0 vaqt=kam iroda=biroz qaytim=orta olcham=vaqt -->
-- Sarf: pul ketmaydi; dam olish kunlari uzoq uxlamaslik uchun ozgina iroda kerak
+- Sarf: Pul ketmaydi; dam olish kunlari uzoq uxlamaslik uchun ozgina iroda kerak
 - Oddiy tilda: kun tartibi eng chalkash beshdan bir qism odamning biologik soati eng tartibli beshdan bir qismnikidan taxminan 2,5 soat kechikadi — bu doimiy ravishda soat mintaqalari farqi ichida yashash bilan barobar. Kun tartibi qanchalik muntazam boʻlsa, talabaning oʻqishdagi natijasi ham shunchalik yaxshi.
 - Qaytimi: 61 nafar talaba 30 kun davomida kuzatildi; kun tartibi eng betartib beshdan bir qismda sirkad ritm eng tartibli beshdan bir qismga nisbatan taxminan 2,5 soat kech (melatonin chiqishi 00:08 va 21:32), uyquga moyillikning eng yuqori nuqtasi taxminan 1,8 soat kech edi; kun tartibining muntazamligi oʻqish natijalari bilan musbat bogʻlangan (r = 0,37)
 - Dalil darajasi: B
@@ -24,7 +24,7 @@ Bu bobda faqat kuch va vaqt hisobi yuritiladi: kun davomida ishlatsa boʻladigan
 
 ### 3. Har kecha 7–8 soat uxlang, 6 soatni «yetarli» deb hisoblamang
 <!-- teglar: pul=0 vaqt=kop iroda=biroz qaytim=katta olcham=vaqt -->
-- Sarf: har kuni uyquga 1–2 soat koʻproq ajratish
+- Sarf: Har kuni uyquga 1–2 soat koʻproq ajratish
 - Oddiy tilda: ketma-ket ikki hafta har kecha atigi 6 soat uxlasangiz, miyaning ish qobiliyati ikki kecha-kunduz mutlaqo uxlamagan odamnikiga tushib qoladi. Eng yomoni — buni oʻzingiz sezmaysiz: subyektiv uyquchanlik dastlabki bir necha kunda koʻtarilib, keyin toʻxtaydi; 6 soat uxlaydigan odam ham, 4 soat uxlaydigan odam ham oʻzini bir xil darajada uyquchan deb baholaydi. Demak, «menga 6 soat yetadi» degan gapning oʻzi uyqusizlik alomati.
 - Qaytimi: 21–38 yoshdagi 48 nafar sogʻlom kattalar 14 kun ketma-ket har kecha atigi 6 soatdan uxlaganda kognitiv koʻrsatkichlar toʻplanib borib, 2 kecha mutlaqo uxlamaganlik darajasiga tushdi; subyektiv uyquchanlik bahosi esa faqat dastlabki kunlarda koʻtarilib, keyin deyarli oʻsmadi — 6 soatlik va 4 soatlik guruhlarning subyektiv uyquchanligi orasida farq boʻlmadi (RCT). Oʻtkir uyqusizlikning (48 soatdan oshmagan) oddiy diqqat uzilishlariga taʼsir kuchi g = -0,776, mulohaza yuritish aniqligiga g = -0,125 (70 ta tadqiqot metatahlili)
 - Dalil darajasi: A
@@ -33,7 +33,7 @@ Bu bobda faqat kuch va vaqt hisobi yuritiladi: kun davomida ishlatsa boʻladigan
 
 ### 4. Kunduzi soat ikkidan keyin kofeinga tegmang
 <!-- teglar: pul=0 vaqt=kam iroda=biroz qaytim=katta olcham=vaqt -->
-- Sarf: yoʻq; kunduzi qahva ichishga oʻrgangan odamga ozgina iroda kerak
+- Sarf: Yoʻq; kunduzi qahva ichishga oʻrgangan odamga ozgina iroda kerak
 - Oddiy tilda: uxlashdan 6 soat oldin katta bir chashka qahva (400 mg) ichsangiz, oʻsha kecha asbob bilan oʻlchangan uyqu bir soatdan koʻproq qisqaradi — oʻzingiz yozgan uyqu kundaligida esa hech qanday farq koʻrinmaydi. Oddiy bir chashka qahvani (107 mg) uyquga yotishdan kamida 8,8 soat oldin ichib boʻlish kerak; soat 23:00 da yotadigan odam uchun bu chegara — kunduzi soat ikki.
 - Qaytimi: uxlashdan 6 soat oldin 400 mg kofein ichilganda obyektiv oʻlchangan umumiy uyqu vaqti platseboga nisbatan 1,1–1,2 soatga qisqardi, ishtirokchilarning uyqu kundaligida esa farq qayd etilmadi — yaʼni odam buni sezmaydi. Metatahlil: kofein umumiy uyqu vaqtini oʻrtacha 45 daqiqaga qisqartiradi, uyqu samaradorligini 7% ga pasaytiradi; bir chashka qahvani (107 mg) uyquga yotishdan kamida 8,8 soat oldin ichib boʻlish kerak
 - Dalil darajasi: A
@@ -42,7 +42,7 @@ Bu bobda faqat kuch va vaqt hisobi yuritiladi: kun davomida ishlatsa boʻladigan
 
 ### 5. Xat va xabarlarni kuniga bir necha marta, belgilangan vaqtda bir yoʻla koʻrib chiqing
 <!-- teglar: pul=0 vaqt=kam iroda=biroz qaytim=orta olcham=vaqt -->
-- Sarf: pul ketmaydi; hamkasblarga javob berish tartibingizni tushuntirib qoʻyish kerak; iroda oʻrtacha
+- Sarf: Pul ketmaydi; hamkasblarga javob berish tartibingizni tushuntirib qoʻyish kerak; iroda oʻrtacha
 - Oddiy tilda: bir xil odamlar ikki hafta taqqoslandi: xatlarni kuniga atigi 3 marta koʻrishga cheklangan haftada kundalik stress sezilarli past boʻldi, olingan va yuborilgan xatlar soni esa oʻzgarmadi. Cheklov boʻlmaganda odam kuniga oʻrtacha 15,5 marta pochtasiga qaragan.
 - Qaytimi: 124 nafar kattalarda ikki hafta davomida oʻz-oʻzini nazorat qilish sxemasi qoʻllandi; kuniga 3 martalik cheklov boʻlgan haftada kundalik stress cheklovsiz haftaga nisbatan sezilarli past boʻldi (Cohenʼs d = 0,37), qabul qilingan va javob berilgan xatlar soni ikki haftada farq qilmadi; boshlangʻich holatda odamlar kuniga oʻrtacha 15,5 marta pochtani tekshirgan
 - Dalil darajasi: B
@@ -51,7 +51,7 @@ Bu bobda faqat kuch va vaqt hisobi yuritiladi: kun davomida ishlatsa boʻladigan
 
 ### 6. Uzluksiz fikrlash talab qiladigan ishni qilayotganda hatto bir necha soniyalik uzilishni ham toʻsib qoʻying
 <!-- teglar: pul=0 vaqt=kam iroda=yoq qaytim=katta olcham=vaqt -->
-- Sarf: eshikni yopish, quloqchin taqish yoki «bezovta qilmang» yozuvini osib qoʻyish; pul ketmaydi
+- Sarf: Eshikni yopish, quloqchin taqish yoki «bezovta qilmang» yozuvini osib qoʻyish; pul ketmaydi
 - Oddiy tilda: oʻrtacha 2,8 soniyalik bitta uzilish keyingi harakatda xato qilish ehtimolini ikki barobar oshiradi; 4,4 soniyalik uzilish — uch barobar. Jonli kuzatuvlar esa shuni koʻrsatadi: uzilib qolgan ishga odam oʻrtacha 25 daqiqadan keyin qaytadi va oraliqda yana ikkita boshqa ish suqilib kiradi. Uzilib turgan odam ishni tezroq bajaradi, lekin stress, asabiylik va sarflangan kuch — hammasi yuqori boʻladi.
 - Qaytimi: oʻrtacha 2,8 soniyalik uzilish ketma-ket bajariladigan topshiriqda qadam xatolari darajasini ikki barobar, 4,4 soniyalik uzilish uch barobar oshiradi (laboratoriya). 24 nafar axborot sohasi xodimini jonli kuzatish: ish mavzusi oʻrtacha har 11 daqiqada almashadi, ish mavzularining 57% i uzilib qoladi, uzilgan ishga oʻsha kuni qaytish oʻrtacha 25 daqiqa 26 soniya vaqt oladi va oraliqda 2,26 ta boshqa ish suqilib kiradi. Uzilib turgan odamlar tezroq ishlagan, ammo stress, asabiylik, vaqt tanqisligi va sarflangan kuchni yuqoriroq baholagan (48 kishilik tajriba)
 - Dalil darajasi: B
@@ -60,7 +60,7 @@ Bu bobda faqat kuch va vaqt hisobi yuritiladi: kun davomida ishlatsa boʻladigan
 
 ### 7. Bir vaqtda bitta ish qiling — majlisda oʻtirib xabarlarga javob bermang
 <!-- teglar: pul=0 vaqt=kam iroda=biroz qaytim=orta olcham=vaqt -->
-- Sarf: yoʻq; ozgina iroda kerak
+- Sarf: Yoʻq; ozgina iroda kerak
 - Oddiy tilda: topshiriq almashgan zahoti javob berish sekinlashadi va xato koʻpayadi. Bir vaqtning oʻzida bir necha ekran ochib oʻtirishga oʻrgangan odamlar koʻp vazifani uddalash mahoratini orttirmaydi — aksincha, topshiriq almashtirish sinovlarida yomonroq natija koʻrsatadi.
 - Qaytimi: topshiriq almashganidan keyin javob sezilarli sekinlashadi va xato koʻpayadi (sharh maqola); ogʻir darajadagi media-koʻpvazifachilar begona qoʻzgʻatuvchilar va aloqasiz xotiralardan koʻproq chalgʻiydi hamda topshiriq almashtirish sinovida yomonroq natija koʻrsatadi (laboratoriya, talabalar)
 - Dalil darajasi: B
@@ -69,7 +69,7 @@ Bu bobda faqat kuch va vaqt hisobi yuritiladi: kun davomida ishlatsa boʻladigan
 
 ### 8. Uxlashdan bir soat oldin yorugʻ ekranga qaramang; oʻqisangiz — qogʻoz kitob yoki elektron siyoh ekrani
 <!-- teglar: pul=0 vaqt=kam iroda=katta qaytim=orta olcham=vaqt -->
-- Sarf: pul ketmaydi; iroda kerak
+- Sarf: Pul ketmaydi; iroda kerak
 - Oddiy tilda: uxlash oldidan yorugʻ ekrandan oʻqisangiz, qogʻoz kitob oʻqigandagiga nisbatan taxminan 10 daqiqa kech uxlab qolasiz, melatonin 55% ga pasayadi, ertasi kuni biologik soat 1,5 soatdan koʻproqqa orqaga suriladi — ertalab koʻproq uyquchan boʻlasiz va oʻzingizga kelish uchun koʻproq vaqt ketadi.
 - Qaytimi: laboratoriyada oʻtkazilgan kesishuvchi sinov: uxlash oldidan yorugʻ elektron kitob oʻqiganlar qogʻoz kitob oʻqiganlarga nisbatan taxminan 10 daqiqa kech uxlab qolgan (25,7 va 15,8 daqiqa), kechki melatonin 55% ga pasaygan, ertasi kungi sirkad ritm 1,5 soatdan koʻproqqa kechikkan (melatonin chiqishi 22:31 va 21:01), ertalab uyquchanlik kuchliroq boʻlgan va toʻliq oʻziga kelish uchun koʻproq vaqt ketgan
 - Dalil darajasi: B
@@ -78,7 +78,7 @@ Bu bobda faqat kuch va vaqt hisobi yuritiladi: kun davomida ishlatsa boʻladigan
 
 ### 9. Vaqtida uxlang: oʻyin, qisqa video yoki pornografiya uchun tunni oʻtkazmang
 <!-- teglar: pul=0 vaqt=kam iroda=katta qaytim=katta olcham=vaqt -->
-- Sarf: pul ketmaydi; «yana bitta qism» inersiyasiga uzoq vaqt qarshi turish kerak; eng oson yoʻli — telefonni yotoqxonaga olib kirmaslik
+- Sarf: Pul ketmaydi; «yana bitta qism» inersiyasiga uzoq vaqt qarshi turish kerak; eng oson yoʻli — telefonni yotoqxonaga olib kirmaslik
 - Oddiy tilda: uxlashdan oldin telefon yoki planshet ishlatadigan odamning uyqusi yetmasligi ehtimoli ikki barobardan koʻproq, kunduzi uyqusirash ehtimoli esa 2,7 barobar. Qurilma shunchaki yotoqxonada turgan, ishlatilmagan holatda ham raqamlar deyarli shunday — demak eng oson yechim telefonni yotoqxonaga kiritmaslik.
 - Qaytimi: uxlashdan oldin koʻchma qurilma ishlatish uyquning yetmasligi (OR 2,17), uyqu sifatining yomonligi (OR 1,46) va kunduzgi uyquchanlik (OR 2,72) bilan bogʻlangan; qurilma faqat yotoqxonada turgan, ishlatilmagan holatda ham xuddi shunday (OR 1,79 / 1,53 / 2,27) (20 ta kesma tadqiqot, 125 198 nafar bola va oʻsmir metatahlili). 18–94 yoshdagi 844 nafar kattalar orasida chiroq oʻchgandan keyin ham telefon ishlatadiganlar kechroq uxlab qolgan, uyqu samaradorligi past va kunduzi charchoq kuchliroq boʻlgan (kesma tadqiqot). Taqqoslash uchun: Xitoyda 2025-yilda aholining tungi uyqusi oʻrtacha 6,97 soatni tashkil etgan, uxlab qolish vaqti oʻrtacha 00:10 boʻlgan (Xitoy uyqu tadqiqotlari jamiyati) — bu Xitoyga oid koʻrsatkich, Oʻzbekiston uchun shunga oʻxshash milliy oʻlchov topilmadi
 - Dalil darajasi: B
@@ -87,7 +87,7 @@ Bu bobda faqat kuch va vaqt hisobi yuritiladi: kun davomida ishlatsa boʻladigan
 
 ### 10. Chuqur tunda muhim qaror qabul qilmang, jiddiy xabar yubormang
 <!-- teglar: pul=0 vaqt=kam iroda=biroz qaytim=kichik olcham=vaqt -->
-- Sarf: pul ketmaydi; ishni uygʻonganingizdan keyinga suryapsiz, xolos
+- Sarf: Pul ketmaydi; ishni uygʻonganingizdan keyinga suryapsiz, xolos
 - Oddiy tilda: 49,5 soat uxlamagan odamlar xavfli qaror qabul qilish tajribasida qatnashdi: uyquga toʻygan holatda ular yuqori xavfli variantlardan qochishni tez oʻrgangan, uyqusiz qolgach esa aksincha, qayta-qayta yuqori xavfli variantni tanlagan; yosh ulgʻaygan sari taʼsir sezilarliroq. Tunda yuborilgan xabar va qabul qilingan qaror ham xuddi shunday.
 - Qaytimi: 34 nafar sogʻlom odam 49,5 soat uxlamagach Ayova qimor topshirigʻini (xavfli qaror qabul qilishni oʻlchaydigan tajriba) bajardi: yetarli dam olgan holatda ular yuqori xavfli variantlardan qochishni tez oʻrgangan, uyqusizlikdan keyin esa yuqori xavfli variantlarni koʻproq tanlagan; yoshi kattaroq ishtirokchilarga taʼsir kuchliroq boʻlgan (tajriba, yagona tadqiqot)
 - Dalil darajasi: B
@@ -105,7 +105,7 @@ Bu bobda faqat kuch va vaqt hisobi yuritiladi: kun davomida ishlatsa boʻladigan
 
 ### 12. Ochiq ofisda ishlaganda quloq tiqinidan foydalaning yoki eslab qolish talab qiladigan ishni tinch xonada bajaring
 <!-- teglar: pul=kam vaqt=kam iroda=yoq qaytim=kichik olcham=vaqt -->
-- Sarf: quloq tiqini bir necha ming soʻm; majlis xonasini band qilish biroz vaqt oladi
+- Sarf: Quloq tiqini bir necha ming soʻm; majlis xonasini band qilish biroz vaqt oladi
 - Oddiy tilda: fon shovqini 39 detsibeldan 51 detsibelga koʻtarilsa, esda qoladigan soʻzlar kamayadi, odam koʻproq charchaydi va ishlash istagi susayadi. Tanaffusda ovozi bilan birga tabiat manzarasini koʻrish ofis shovqinini tinglashda davom etishdan koʻra kuchni yaxshiroq tiklaydi.
 - Qaytimi: talabalar ochiq ofis sharoiti modellashtirilgan joyda ishlaganda fon shovqini 39 dB dan 51 dB gacha (LAeq) koʻtarilishi bilan esda qolgan soʻzlar kamaygan, oʻz-oʻzini baholashda charchoq oshgan va ishga motivatsiya pasaygan; tanaffusda ovozli tabiat videosini koʻrish faqat daryo shovqinini yoki ofis shovqinini eshitishga qaraganda kuch tiklanishi bahosini yuqoriroq koʻtargan
 - Dalil darajasi: B
@@ -114,7 +114,7 @@ Bu bobda faqat kuch va vaqt hisobi yuritiladi: kun davomida ishlatsa boʻladigan
 
 ### 13. Haftasiga 49 soatdan ortiq ishlamang
 <!-- teglar: pul=kam vaqt=kam iroda=biroz qaytim=katta olcham=vaqt -->
-- Sarf: qoʻshimcha ish haqidan ayrilish yoki rahbar bilan kelishib olish mehnati
+- Sarf: Qoʻshimcha ish haqidan ayrilish yoki rahbar bilan kelishib olish mehnati
 - Oddiy tilda: Birinchi jahon urushi davridagi Britaniya harbiy zavodlarining ishlab chiqarish hisobotlari shuni koʻrsatadi: haftasiga 49 soatgacha — qancha ishlasangiz, shuncha mahsulot. 49 soatdan oshsa, oʻsish sekinlashadi; haftasiga 70 soat ishlaganning mahsuloti 56 soat ishlaganning mahsulotiga deyarli teng — ortiqcha ishlangan 14 soat behuda ketgan.
 - Qaytimi: Birinchi jahon urushi davrida Britaniya harbiy zavodlari ishchilarining ishlab chiqarish hisobotlari: haftasiga 49 soatgacha mahsulot ish soatiga toʻgʻri proporsional; 49 soatdan oshgach mahsulot oʻsishi susayadi, taxminan 63 soatda eng yuqori nuqtaga chiqadi, 70 soatlik mahsulot esa 56 soatlikdan deyarli farq qilmaydi — yaʼni ortiqcha ishlangan 14 soat behuda
 - Dalil darajasi: B
@@ -123,7 +123,7 @@ Bu bobda faqat kuch va vaqt hisobi yuritiladi: kun davomida ishlatsa boʻladigan
 
 ### 14. Bir xil alamli voqeani qayta-qayta oʻylayotganingizni sezsangiz, qoʻl bilan qilinadigan ishga oʻting
 <!-- teglar: pul=0 vaqt=kam iroda=biroz qaytim=orta olcham=vaqt -->
-- Sarf: pul ketmaydi; ammo oʻzingizning bir joyda aylanib qolganingizni sezish — buning oʻzi ham mashq talab qiladi
+- Sarf: Pul ketmaydi; ammo oʻzingizning bir joyda aylanib qolganingizni sezish — buning oʻzi ham mashq talab qiladi
 - Oddiy tilda: bir xil alamli voqeani qayta-qayta oʻylash javob topib bermaydi. Aksincha, u depressiyani ogʻirlashtiradi, salbiy fikrlarni yanada mahkam qoqadi, muammoni yechish qobiliyatini pasaytiradi, ish boshlashni qiyinlashtiradi va sizni tinglashga tayyor odamlarning sabrini tugatadi. Bir joyda aylanayotganingizni sezdingizmi — qoʻl bilan qilinadigan biror ishga oʻting.
 - Qaytimi: sharh maqolasi: takroriy chaynash (ruminatsiya) depressiyani ogʻirlashtiradi, salbiy fikrlashni kuchaytiradi, muammo yechish qobiliyatini buzadi, amaliy harakatga xalaqit beradi va atrofdagilarning qoʻllab-quvvatlashini yemiradi; xavotir, ortiqcha ovqatlanish, ichkilikka berilish va oʻzini jarohatlash bilan bogʻliq
 - Dalil darajasi: B
@@ -141,7 +141,7 @@ Bu bobda faqat kuch va vaqt hisobi yuritiladi: kun davomida ishlatsa boʻladigan
 
 ### 16. Sizni qoq quritadigan munosabatlarni kamaytiring, xohlamagan iltimosga «yoʻq» deyishni oʻrganing
 <!-- teglar: pul=0 vaqt=kam iroda=katta qaytim=orta olcham=vaqt -->
-- Sarf: qisqa muddatli noqulaylik, ayrim munosabatlardan ayrilish ehtimoli; anchagina iroda talab qiladi
+- Sarf: Qisqa muddatli noqulaylik, ayrim munosabatlardan ayrilish ehtimoli; anchagina iroda talab qiladi
 - Oddiy tilda: sizni qoq quritadigan bitta odam keltiradigan zarar, sizni qoʻllab-quvvatlaydigan bitta odam keltiradigan foydadan kattaroq va barqarorroq boʻladi. Shuning uchun avval ayirish amalini bajaring, qoʻshishni keyin qilasiz.
 - Qaytimi: 60 dan 89 yoshgacha boʻlgan 120 nafar beva ayol oʻrtasida oʻtkazilgan soʻrov: salbiy ijtimoiy muloqotning psixologik farovonlik bilan bogʻliqligi ijobiy muloqotnikiga qaraganda barqarorroq va kuchliroq chiqqan, yaʼni sizni qoq quritadigan bitta odamning zarari sizni qoʻllab-quvvatlaydigan bitta odamning foydasidan katta
 - Dalil darajasi: C
@@ -150,7 +150,7 @@ Bu bobda faqat kuch va vaqt hisobi yuritiladi: kun davomida ishlatsa boʻladigan
 
 ### 17. Nima kiyish, nima yeyish kabi arzimas qarorlarni bir marta hal qilib, qotirib qoʻying
 <!-- teglar: pul=0 vaqt=kam iroda=yoq qaytim=kichik olcham=vaqt -->
-- Sarf: pul ketmaydi; boshida standart variantlarni belgilab olishga bir oz vaqt ketadi
+- Sarf: Pul ketmaydi; boshida standart variantlarni belgilab olishga bir oz vaqt ketadi
 - Oddiy tilda: bu bandning qatʼiy dalili yoʻq. «Har bir tanlov irodani yeydi» degan dastlabki tajriba ikkita yirik takrorlashda ham chiqmadi (ikki ming va uch ming kishilik koʻp laboratoriyali takrorlashlarda taʼsir deyarli nolga teng). Nima kiyish va nima yeyishni qotirib qoʻyish baribir arziydi, lekin sababi — oʻsha bir necha daqiqa va bir necha ikkilanishni tejash, «irodani tejash» emas.
 - Qaytimi: oʻlchab boʻlmaydi. Dastlabki tajribada tanlov qilish va oʻzini tiyish umumiy cheklangan resursni sarflaydi («ego tanazzuli») deyilgan edi, ammo oldindan roʻyxatdan oʻtkazilgan ikkita yirik koʻp laboratoriyali takrorlash buni chiqara olmadi: 23 ta laboratoriya, 2141 kishi, d = 0,04, 95% CI [-0,07; 0,15]; 36 ta laboratoriya, 3531 kishi, d = 0,06, sezilarli emas
 - Dalil darajasi: C
@@ -159,7 +159,7 @@ Bu bobda faqat kuch va vaqt hisobi yuritiladi: kun davomida ishlatsa boʻladigan
 
 ### 18. Jahlingiz chiqqanda avval joydan uzoqlashing; qarshingizdagini dushman emas, ob-havo deb biling
 <!-- teglar: pul=0 vaqt=kam iroda=biroz qaytim=orta olcham=vaqt -->
-- Sarf: pul ketmaydi; oʻsha zahoti javob qaytarmay, burilib ketish va masalani keyinroq hal qilishga qaror qilish bir oz mashq talab qiladi
+- Sarf: Pul ketmaydi; oʻsha zahoti javob qaytarmay, burilib ketish va masalani keyinroq hal qilishga qaror qilish bir oz mashq talab qiladi
 - Oddiy tilda: endigina boʻlib oʻtgan voqeaga boshqa nuqtai nazardan qarash yoki qarshingizdagi odamning oʻrniga oʻzingizni qoʻyib koʻrish hissiyotni haqiqatan pasaytiradi (ikkinchisi kuchliroq ishlaydi); ichida qaynab, tashqariga chiqarmaslik esa hech narsa bermaydi. Yana bir narsa: xafa qilgan odamdan oʻch olganlar keyinchalik oʻsha voqeani uzoqroq vaqt qayta-qayta oʻylab yurishgan, oʻch olmaganlar esa tezroq unutgan — oʻch olishdan keladigan huzurni odamlar oldindan oshirib baholaydi.
 - Qaytimi: 306 ta tajriba taqqosini qamragan meta-tahlil: voqeani boshqacha izohlash (kognitiv qayta baholash) hissiyotga d = 0,36 taʼsir koʻrsatgan, qarshi tomonning oʻrniga oʻzini qoʻyib koʻrish d = 0,45, diqqatni boshqa narsaga burish d = 0,27, hissiyotni bosib turish esa samarasiz (d = -0,04); uchta tajriba shuni koʻrsatdiki, xafa qilgan odamni jazolaganlar keyin uni uzoqroq oʻylab yurgan, jazolamaganlar esa tezroq «varaqni agʻdargan», odamlar oʻch olish keltiradigan huzurni oldindan oshirib baholaydi
 - Dalil darajasi: B
@@ -168,7 +168,7 @@ Bu bobda faqat kuch va vaqt hisobi yuritiladi: kun davomida ishlatsa boʻladigan
 
 ### 19. Kayfiyat tushganda eng foydali ishlardan boshlang: harakat qiling, kunduzi quyoshga chiqing, oʻz vaqtida uxlang, odam bilan gaplashing, kerak boʻlsa 1146 ga qoʻngʻiroq qiling
 <!-- teglar: pul=0 vaqt=orta iroda=biroz qaytim=katta olcham=vaqt -->
-- Sarf: pul ketmaydi yoki juda oz ketadi; haftasiga bir necha marta tez yurish, yengil yugurish yoki kuch mashqlari, kunduzi koʻchaga chiqib quyosh nuri olish, uyquni bir xil vaqtga sozlash, bitta telefon qoʻngʻirogʻi
+- Sarf: Pul ketmaydi yoki juda oz ketadi; haftasiga bir necha marta tez yurish, yengil yugurish yoki kuch mashqlari, kunduzi koʻchaga chiqib quyosh nuri olish, uyquni bir xil vaqtga sozlash, bitta telefon qoʻngʻirogʻi
 - Oddiy tilda: depressiyaga qarshi 218 ta sinov qamrangan tahlilda eng yaxshi natijani tez yurish va yengil yugurish bergan, yoga va kuch mashqlari bir oz pastroq turadi, mashq qanchalik jadal boʻlsa, foyda shunchalik katta; yorugʻlik bilan davolash mavsumiy depressiyada juda kuchli, mavsumiy boʻlmaganida ham ishlaydi; internetdagi oʻz-oʻziga yordam kognitiv-xulqiy kurslari foyda beradi, alomatlar ogʻirroq boʻlganda esa mutaxassis kuzatuvida qilingani yaxshiroq. Ogʻir vaziyatda — qiyin hayotiy holat, tazyiq yoki zoʻravonlik boʻlsa — 1146 yoki 112 ga qoʻngʻiroq qiling; oʻzingizga zarar yetkazish fikri kelayotgan boʻlsa, darhol 103 ga qoʻngʻiroq qiling yoki eng yaqin shoshilinch tibbiy yordam markaziga boring.
 - Qaytimi: 218 ta tasodifiy nazorat sinovi, 14 170 kishini qamragan tarmoqli meta-tahlil: faol nazorat guruhi bilan taqqoslaganda yurish yoki yengil yugurishning depressiyaga taʼsiri g = -0,62 (95% ishonch oraligʻi -0,80 dan -0,45 gacha), yoga -0,55, kuch mashqlari -0,49, jadallik oshgani sayin samara ortadi; yorugʻlik bilan davolash meta-tahlili: mavsumiy depressiyada taʼsir kattaligi 0,84 (0,60 dan 1,08 gacha), mavsumiy boʻlmagan depressiyada 0,53 (0,18 dan 0,89 gacha); internet orqali kognitiv-xulqiy terapiyaning individual maʼlumotlarga asoslangan tarmoqli meta-tahlili: yoʻriqchi bilan ham, yoʻriqchisiz ham nazorat guruhidan ustun, oʻrta va ogʻir holatda (PHQ-9 bahosi 9 dan yuqori) yoʻriqchi bilan qilingani yaxshiroq; Oʻzbekistonda ayrim toifadagi shaxslar uchun psixologik yordam davlat hisobidan bepul kafolatlanadi, 1146 va 112 raqamlariga murojaat qilganda esa ijtimoiy, psixologik va huquqiy maslahat beriladi
 - Dalil darajasi: A

@@ -15,7 +15,7 @@ Bu bobga faqat tashqi sabablardan kelib chiqadigan oʻlim, dalili eng mustahkam 
 
 ### 2. Mototsikl va elektrovelosipedda dubulgʻa kiying, bogʻichini ham bogʻlang
 <!-- teglar: pul=kam vaqt=kam iroda=yoq qaytim=katta olcham=umr -->
-- Sarf: bitta dubulgʻa taxminan 200 ming — 600 ming soʻm, har safar kiyishga 5 soniya
+- Sarf: Bitta dubulgʻa taxminan 200 ming — 600 ming soʻm, har safar kiyishga 5 soniya
 - Oddiy tilda: Dubulgʻani kiyib, bogʻichini ham bogʻlab qoʻysangiz, hodisada halok boʻlish ehtimoli qariyb qirq foizga, bosh jarohati esa yetmish foizga kamayadi. Bogʻichi bogʻlanmagan dubulgʻa — kiyilmagan dubulgʻa.
 - Qaytimi: Cochrane meta-tahlili: mototsikl haydovchilarida dubulgʻa oʻlim xavfini 42% ga (OR 0,58, 95% CI 0,50 — 0,68), bosh jarohatini 69% ga (OR 0,31, 95% CI 0,25 — 0,38) kamaytiradi
 - Dalil darajasi: A
@@ -24,7 +24,7 @@ Bu bobga faqat tashqi sabablardan kelib chiqadigan oʻlim, dalili eng mustahkam 
 
 ### 3. Tutun datchigi oʻrnating; qishda uyda gaz yoki koʻmir bilan isinsangiz, is gazi datchigini ham qoʻying
 <!-- teglar: pul=kam vaqt=kam iroda=yoq qaytim=katta olcham=umr -->
-- Sarf: tutun datchigi taxminan 50 — 200 ming soʻm, is gazi datchigi 150 — 400 ming soʻm; oʻrnatgandan keyin yiliga bir marta batareyasini almashtirasiz
+- Sarf: Tutun datchigi taxminan 50 — 200 ming soʻm, is gazi datchigi 150 — 400 ming soʻm; oʻrnatgandan keyin yiliga bir marta batareyasini almashtirasiz
 - Oddiy tilda: Ishlab turgan bitta tutun datchigi turar joy yongʻinida halok boʻlish ehtimolini taxminan oltmish foizga kamaytiradi — yongʻin chiqqanda odamlarning qariyb yarmi uxlab yotgan boʻladi, burun esa odamni uygʻotmaydi. Qishda uyda gaz yoki koʻmirdan foydalansangiz, ustiga is gazi datchigini ham qoʻying: is gazi rangsiz va hidsiz, uni faqat asbob sezadi.
 - Qaytimi: Shimoliy Karolinadagi turar joy yongʻinlari boʻyicha holat-nazorat tadqiqoti: ishlab turgan tutun datchigi oʻlim xavfini pasaytiradi (OR 0,39, 95% CI 0,18 — 0,83). AQShda 2018 — 2020-yillarda odam yashaydigan uylardagi oʻlimli yongʻinlarning 24% ida tutun datchigi umuman boʻlmagan, 41% ida yongʻin chiqqan paytda odamlar uxlab yotgan. Xitoyda 2018-yilda is gazidan zaharlanish oqibatidagi 11 523 ta oʻlim qayd etilgan; dekabr, yanvar va fevral oylaridagi oʻlimlarning mos ravishda 72,59%, 67,42% va 66,48% i uy ichida sodir boʻlgan. Oʻzbekistonda Yongʻin xavfsizligi qoidalari oʻrnatilgan avtonom yongʻin xabarlagichini demontaj qilishni taqiqlaydi, quvvat manbai zaryadsizlanganda uni darhol almashtirishni va xabarlagichning ishga yaroqliligini kamida 3 oyda bir marta tekshirishni talab qiladi
 - Dalil darajasi: B
@@ -33,7 +33,7 @@ Bu bobga faqat tashqi sabablardan kelib chiqadigan oʻlim, dalili eng mustahkam 
 
 ### 4. Gaz jihozini muddatida texnik koʻrikdan oʻtkazing, quvurni oʻzingiz oʻzgartirmang
 <!-- teglar: pul=kam vaqt=kam iroda=yoq qaytim=katta olcham=umr -->
-- Sarf: shlang va gaz plitasiga oddiy xizmat koʻrsatish — bir necha oʻn ming soʻm; koʻrikni gaz taʼminoti tashkilotiga buyurtma qilasiz
+- Sarf: Shlang va gaz plitasiga oddiy xizmat koʻrsatish — bir necha oʻn ming soʻm; koʻrikni gaz taʼminoti tashkilotiga buyurtma qilasiz
 - Oddiy tilda: Bu sizning xohishingiz emas, qonun boʻyicha majburiyatingiz: koʻp kvartirali va turar joy binolaridagi gaz plitasi ikki yilda bir marta, boshqa gaz jihozlari esa yiliga bir marta texnik taftishdan oʻtkaziladi. Gaz jihozini oʻzingiz koʻchirish, almashtirish yoki taʼmirlash, xavfsizlik avtomatikasini oʻchirib qoʻyish taqiqlanadi. Gaz plitasi yoki ochiq olovli jihoz bilan xonani isitish ham, gaz jihozi turgan xonada uxlash ham taqiqlangan — aynan shu ikkitasi qishki oʻlimlarning eng koʻp uchraydigan sababi.
 - Qaytimi: Tabiiy gazdan foydalanish qoidalari maishiy isteʼmolchi zimmasiga koʻp kvartirali va turar joy binolaridagi gaz plitalarini ikki yilda bir marta, boshqa gazdan foydalanish uskunalarini yiliga bir marta texnik taftishdan oʻtkazish hamda dudburon va shamollatish tizimlarining holatini oʻz vaqtida tekshirtirish majburiyatini yuklaydi; oʻzboshimchalik bilan gazlashtirish, uskunani mustaqil koʻchirish, almashtirish va taʼmirlash, xavfsizlik avtomatikasini oʻzboshimchalik bilan oʻchirish, gaz plitasi va ochiq olovda ishlaydigan jihoz bilan xonani isitish, gazdan foydalanish uskunasi oʻrnatilgan xonada uxlash, gaz sizib chiqqan joyni ochiq olov bilan qidirish, uskunani oʻn ikki yoshgacha boʻlgan bolalarga ishonib topshirish va ishlab turgan uskunani qarovsiz qoldirish taqiqlanadi; gaz hidi sezilganda avariya xizmatiga «104» yoki «112» raqami orqali xabar berish, odamlarni gaz toʻplangan joydan olib chiqish, elektr yoritish tizimini yoqmaslik va oʻchirmaslik hamda ochiq olov yoki uchqun paydo boʻlishining oldini olish talab qilinadi. Isitish mavsumi boshlanishidan oldin uy-joylardagi dudburon va shamollatish kanallarini FVVning hududiy davlat yongʻin nazorati organlari va (yoki) gaz taʼminoti korxonalari har yili taftishdan oʻtkazadi
 - Dalil darajasi: A
@@ -60,7 +60,7 @@ Bu bobga faqat tashqi sabablardan kelib chiqadigan oʻlim, dalili eng mustahkam 
 
 ### 7. Qon bosimini oʻlchang; yuqori boʻlsa, dori bilan meʼyorga tushiring
 <!-- teglar: pul=kam vaqt=kam iroda=biroz qaytim=katta olcham=umr -->
-- Sarf: elektron tonometr taxminan 200 — 500 ming soʻm, bir marta oʻlchash 1 daqiqa; qon bosimi dorilarining koʻpchiligi oyiga bir necha oʻn ming soʻm
+- Sarf: Elektron tonometr taxminan 200 — 500 ming soʻm, bir marta oʻlchash 1 daqiqa; qon bosimi dorilarining koʻpchiligi oyiga bir necha oʻn ming soʻm
 - Oddiy tilda: Qon bosimi har 10 mmHg ga pasayganda yirik yurak-qon tomir hodisasi ehtimoli yigirma foizga, insult 27% ga, yurak yetishmovchiligi 28% ga, oʻlim ehtimoli esa 13% ga kamayadi. Oʻzbekistonda 18 — 69 yoshdagi kattalarning 38% ida gipertoniya bor, ammo kasallikning nazorat ostida boʻlganlari atigi 29,1% ni tashkil qiladi.
 - Qaytimi: Meta-tahlil (123 ta sinov, 610 mingdan ortiq ishtirokchi): sistolik bosim har 10 mmHg ga pasayganda asosiy yurak-qon tomir hodisalari RR 0,80 (95% CI 0,77 — 0,83), insult RR 0,73, yurak yetishmovchiligi RR 0,72, umumiy oʻlim 13% ga kamayadi (RR 0,87, 95% CI 0,84 — 0,91). JSST maʼlumotiga koʻra Oʻzbekistonda 18 — 69 yoshdagi aholining 38,0% ida (taxminan 8,0 mln kishi) gipertoniya bor: 45 — 69 yoshda 60,0%, 30 — 44 yoshda 35,6%, 18 — 29 yoshda 24,6%. Gipertoniyasi borlarning 53,4% i tashxisdan xabardor, 49,6% i davolanmoqda, atigi 29,1% ida bosim nazorat ostida
 - Dalil darajasi: A
@@ -69,7 +69,7 @@ Bu bobga faqat tashqi sabablardan kelib chiqadigan oʻlim, dalili eng mustahkam 
 
 ### 8. 35 yoshdan keyin ortiqcha vazningiz boʻlsa, ochlikdagi qon shakarini bir marta tekshiring; natija normal boʻlsa, har uch yilda takrorlang
 <!-- teglar: pul=kam vaqt=kam iroda=yoq qaytim=orta olcham=umr -->
-- Sarf: ochlikdagi qon shakari — bir necha oʻn ming soʻm, glikirlangan gemoglobin (HbA1c) — yuz ming soʻm atrofida; bir marta qon topshirasiz
+- Sarf: Ochlikdagi qon shakari — bir necha oʻn ming soʻm, glikirlangan gemoglobin (HbA1c) — yuz ming soʻm atrofida; bir marta qon topshirasiz
 - Oddiy tilda: Bir necha oʻn ming soʻmga bir probirka qon topshirib, hech qanday alomat yoʻq paytda preddiabetni aniqlab olish mumkin. AQShning rasmiy skrining tavsiyasi 35 — 70 yoshdagi ortiqcha vaznli yoki semiz odamlarni tekshirishni, natija normal chiqsa har uch yilda takrorlashni aytadi.
 - Qaytimi: AQSh Profilaktik xizmatlar ishchi guruhining (USPSTF) amaldagi tavsiyasi: 35 — 70 yoshdagi, ortiqcha vaznli yoki semiz (tana massasi indeksi mos ravishda ≥25 va ≥30) alomatsiz kattalarda preddiabet va 2-tip qandli diabetni skrining qilish, tavsiya darajasi B; «qon shakari normal boʻlgan kattalarda har 3 yilda bir marta skrining qilish oqilona amaliyot»
 - Dalil darajasi: A
@@ -87,7 +87,7 @@ Bu bobga faqat tashqi sabablardan kelib chiqadigan oʻlim, dalili eng mustahkam 
 
 ### 10. 4 yoshgacha boʻlgan bolaga bolalar oʻrindigʻini oling, quchoqda olib yurmang
 <!-- teglar: pul=kop vaqt=kam iroda=yoq qaytim=katta olcham=umr -->
-- Sarf: bittasi 500 ming — 3 mln soʻm, bir necha yil xizmat qiladi, har safar 1 daqiqa vaqt
+- Sarf: Bittasi 500 ming — 3 mln soʻm, bir necha yil xizmat qiladi, har safar 1 daqiqa vaqt
 - Oddiy tilda: Bir yoshgacha boʻlgan chaqaloq bolalar oʻrindigʻida oʻtirsa, yoʻl-transport hodisasida oʻlim bilan tugaydigan jarohat olish ehtimoli qariyb yetmish foizga, 1 — 4 yoshda esa taxminan ikki barobar kamayadi. Quchoqda olib yurish bu natijani bermaydi: keskin tormozlaganda siz bolani ushlab qololmaysiz.
 - Qaytimi: AQSh NHTSA hisob-kitobiga koʻra bolalar oʻrindigʻi yengil avtomobildagi bir yoshgacha boʻlgan chaqaloq uchun oʻlim bilan tugaydigan jarohat xavfini 71% ga, 1 — 4 yoshli bolalar uchun 54% ga kamaytiradi; JSST oʻlchovi boʻyicha chaqaloqlar oʻlimi 71% ga pasayadi
 - Dalil darajasi: A
@@ -96,7 +96,7 @@ Bu bobga faqat tashqi sabablardan kelib chiqadigan oʻlim, dalili eng mustahkam 
 
 ### 11. Uyda kichkina bola boʻlsa, deraza va balkonga cheklagich oʻrnating; chivin toʻri himoya hisoblanmaydi
 <!-- teglar: pul=kam vaqt=kam iroda=yoq qaytim=katta olcham=umr -->
-- Sarf: bir juft deraza cheklagichi yoki bolalar xavfsizlik qulfi bir necha oʻn ming soʻm, oʻrnatishga oʻn daqiqa
+- Sarf: Bir juft deraza cheklagichi yoki bolalar xavfsizlik qulfi bir necha oʻn ming soʻm, oʻrnatishga oʻn daqiqa
 - Oddiy tilda: Bir juft cheklagich bir necha oʻn ming soʻm turadi. Nyu-Yorkda xavf guruhidagi xonadonlarga bepul deraza panjarasi oʻrnatib, uyma-uy tushuntirish ishlari olib borilgandan soʻng bitta tumanda qayd etilgan bolalar yiqilishi uch yil ichida ikki barobarga kamaygan; keyinchalik shahar uy egalaridan bola yashaydigan uylarga panjara oʻrnatishni qonun bilan talab qila boshladi. Chivin toʻrini bir itarsa ochilib ketadi — u himoya emas.
 - Qaytimi: Nyu-Yorkda 1972-yildan boshlangan «Bolalar ucha olmaydi» dasturi doirasida xavf yuqori boʻlgan hududlarda bepul deraza panjaralari tarqatilgan va uyma-uy tushuntirish ishlari olib borilgan; Bronks tumanida qayd etilgan yiqilishlar soni 1973 — 1975-yillarda 50% ga kamaygan. Shundan soʻng Nyu-York sanitariya kodeksiga oʻzgartirish kiritilib, uy egalaridan 10 yosh va undan kichik bolalar yashaydigan kvartiralarga deraza panjarasi oʻrnatish majburiy qilingan
 - Dalil darajasi: B
@@ -105,7 +105,7 @@ Bu bobga faqat tashqi sabablardan kelib chiqadigan oʻlim, dalili eng mustahkam 
 
 ### 12. Bola suv yonida boʻlsa koʻzdan qoʻymang; qayiqda va ochiq suvda qutqaruv nimchasi kiying
 <!-- teglar: pul=kam vaqt=orta iroda=yoq qaytim=katta olcham=umr -->
-- Sarf: qutqaruv nimchasi — bir necha yuz ming soʻm; bolani kuzatib turishga sarflanadigan eʼtibor
+- Sarf: Qutqaruv nimchasi — bir necha yuz ming soʻm; bolani kuzatib turishga sarflanadigan eʼtibor
 - Oddiy tilda: Suvga tushib ketganda qutqaruv nimchasi kiygan odamning choʻkib ketish ehtimoli kiymagannikiga qaraganda taxminan ikki barobar kam. Xitoyda choʻkish hanuzgacha 1–14 yoshli bolalar oʻlimining birinchi sababi, qishloqlarda choʻkishdan oʻlim shaharga nisbatan ikki baravar koʻp.
 - Qaytimi: AQSh Sohil qoʻriqlash xizmati maʼlumotlari asosidagi juftlashtirilgan kogorta tadqiqoti: havaskor qayiqdan suvga tushganlarda qutqaruv nimchasi choʻkib oʻlish xavfini kamaytiradi — tuzatilgan RR 0,51 (95% CI 0,35–0,74). Xitoyda 20 yoshgacha boʻlganlar orasida choʻkishdan oʻlim 2013-yildagi 100 000 kishiga 6,60 dan 2021-yilda 3,28 ga tushgan; qishloqlarda shaharga nisbatan ~2 baravar yuqori, choʻkish 1–14 yoshli bolalar oʻlimining birinchi sababi boʻlib qolmoqda; 2021-yilda 0–19 yoshdagilarning jarohatdan oʻlimida choʻkish 31,1%, yoʻl-transport hodisalari 27,9% ni tashkil qilgan
 - Dalil darajasi: A
@@ -114,7 +114,7 @@ Bu bobga faqat tashqi sabablardan kelib chiqadigan oʻlim, dalili eng mustahkam 
 
 ### 13. 60 yoshdan oshganlar muvozanat va oyoq kuchini mashq qilsin, hammom bilan zinapoyani xavfsiz qilsin
 <!-- teglar: pul=kam vaqt=kop iroda=katta qaytim=katta olcham=umr -->
-- Sarf: haftasiga 2–3 marta 30 daqiqadan tai-chi yoki muvozanat mashqlari; sirpanmas gilamcha, tutqich, tungi chiroq — bir necha oʻn mingdan bir necha yuz ming soʻmgacha
+- Sarf: Haftasiga 2–3 marta 30 daqiqadan tai-chi yoki muvozanat mashqlari; sirpanmas gilamcha, tutqich, tungi chiroq — bir necha oʻn mingdan bir necha yuz ming soʻmgacha
 - Oddiy tilda: Haftasiga ikki-uch marta muvozanat mashqi qilgan (tai-chi kabi) keksalarda yiqilish soni taxminan 23% ga, yiqilgan odamlar soni 15% ga kamayadi; uyda sirpanmas qoplama va tutqich qoʻyilsa, yana ~20% kamayadi. Yiqilish — keksalarda jarohatdan oʻlimning yetakchi sababi, holatlarning yarmidan koʻpi esa oʻz uyida sodir boʻladi.
 - Qaytimi: Cochrane meta-tahlili (108 tadqiqot, 23 407 kishi): mashq keksalarda yiqilish tezligini 23% ga kamaytiradi (RaR 0,77, 95% CI 0,71–0,83), yiqilgan odamlar sonini 15% ga (RR 0,85); uy sharoitini baholash va qayta jihozlash yiqilish tezligini kamaytiradi (RR 0,81, 95% CI 0,68–0,97); tai-chi yiqilish xavfini RR 0,71 gacha tushiradi. Xitoy maʼlumotlarida yiqilish 65 yoshdan oshganlarda jarohatdan oʻlimning birinchi sababi, 2018-yilgi kuzatuvda keksalar yiqilishining 55,97% uy ichida boʻlgan
 - Dalil darajasi: A
@@ -123,7 +123,7 @@ Bu bobga faqat tashqi sabablardan kelib chiqadigan oʻlim, dalili eng mustahkam 
 
 ### 14. Gepatit B markerlarini tekshiring; antitana boʻlmasa, emlaning
 <!-- teglar: pul=kam vaqt=kam iroda=yoq qaytim=katta olcham=umr -->
-- Sarf: tahlil bir necha oʻn ming soʻm; kattalar uchun 3 doza vaksina hammasi boʻlib bir necha yuz ming soʻm, olti oyda tugaydi
+- Sarf: Tahlil bir necha oʻn ming soʻm; kattalar uchun 3 doza vaksina hammasi boʻlib bir necha yuz ming soʻm, olti oyda tugaydi
 - Oddiy tilda: Bir marta tahlil topshirasiz — arzon. Chindonda (Xitoy) 30 yil davomida kuzatilgan tadqiqotda tugʻilishi bilan gepatit B vaksinasini olganlarda keyinchalik birlamchi jigar saratoni 84% kam uchragan, virus tashuvchilik esa 72% kam. Kattalarda antitana chiqmasa, olti oy ichida uch doza emlanadi. Oʻzbekistonda chaqaloqlarni gepatit B dan emlash butun mamlakat boʻylab 2001-yil oktabridan yoʻlga qoʻyilgan — yaʼni undan oldin tugʻilganlarning koʻpi emlanmagan.
 - Qaytimi: Chindondagi klaster-tasodifiy tadqiqot, 30 yillik kuzatuv: chaqaloqlikda gepatit B emlash birlamchi jigar saratonini 84% ga kamaytirgan (95% CI 23%–97%), HBsAg musbatlik darajasini 72% ga (95% CI 68%–75%). Xitoyda umumaholida HBsAg tarqalishi 1992–2014 yillarda 52% ga, 5 yoshgacha bolalarda 97% ga kamaygan. Oʻzbekistonda 2022-yilgi umummilliy tekshiruvda 1–3-sinf oʻquvchilarida HBsAg tarqalishi 0,20% (95% CI 0,09%–0,38%), emlashdan oldingi davr koʻrsatkichlari esa 5,51%–13,1% boʻlgan
 - Dalil darajasi: A
@@ -132,7 +132,7 @@ Bu bobga faqat tashqi sabablardan kelib chiqadigan oʻlim, dalili eng mustahkam 
 
 ### 15. Mix yoki yogʻoch parchasi sanchilsa, yaraga tuproq tegsa — oʻsha kuni shifokorga boring va qoqshol emlashini soʻrang
 <!-- teglar: pul=kam vaqt=kam iroda=yoq qaytim=katta olcham=umr -->
-- Sarf: qabul va yaraga ishlov berish bir necha oʻn ming soʻm; kerak boʻlsa, vaksina yoki immunoglobulin bir necha oʻn mingdan bir necha yuz ming soʻmgacha
+- Sarf: Qabul va yaraga ishlov berish bir necha oʻn ming soʻm; kerak boʻlsa, vaksina yoki immunoglobulin bir necha oʻn mingdan bir necha yuz ming soʻmgacha
 - Oddiy tilda: Qoqshol boshlansa, taxminan har 10 bemordan 1 tasi oʻladi. Eng xavflisi — chuqur va tuproq tekkan yaralar. Oʻsha kuni borib yaraga ishlov berdirish arzon; shishib chiqqanini kutib oʻtirmang.
 - Qaytimi: AQShdagi qoqshol holatlarining taxminan har 10 tasidan 1 tasi oʻlim bilan tugaydi; chuqur, tuproq bilan ifloslangan yaralarda xavf yuqoriroq
 - Dalil darajasi: B
@@ -150,7 +150,7 @@ Bu bobga faqat tashqi sabablardan kelib chiqadigan oʻlim, dalili eng mustahkam 
 
 ### 17. Ayollar 40 yoshdan boshlab har ikki yilda bir marta mammografiya qilsin
 <!-- teglar: pul=kam vaqt=kam iroda=yoq qaytim=orta olcham=umr -->
-- Sarf: mammografiya bir marta bir necha yuz ming soʻm; har ikki yilda yarim kun vaqt
+- Sarf: Mammografiya bir marta bir necha yuz ming soʻm; har ikki yilda yarim kun vaqt
 - Oddiy tilda: 40 dan 74 yoshgacha har ikki yilda bir marta mammografiya — AQShning rasmiy skrining tavsiyasida aniq koʻrsatilgan yoʻl. 75 yoshdan oshganlar uchun, shuningdek zich koʻkrak toʻqimasiga qoʻshimcha UTT va MRT qilish boʻyicha rasmiy xulosa bitta: dalil hali yetarli emas. Tekshiruv paketlarida buni qoʻshimcha pulga taklif qilishsa, olmasangiz ham boʻladi.
 - Qaytimi: AQSh Profilaktik xizmatlar ishchi guruhining amaldagi tavsiyasi: "40 dan 74 yoshgacha boʻlgan ayollarga har ikki yilda bir marta skrining mammografiyasi tavsiya etiladi", tavsiya darajasi B; 75 yosh va undan katta ayollar hamda zich koʻkrak toʻqimasiga qoʻshimcha UTT va MRT boʻyicha "mavjud dalillar yetarli emas" deb baholangan
 - Dalil darajasi: A
@@ -168,7 +168,7 @@ Bu bobga faqat tashqi sabablardan kelib chiqadigan oʻlim, dalili eng mustahkam 
 
 ### 19. 45–50 yoshdan boshlab yoʻgʻon ichak saratoni skriningi: najas tahlili yoki kolonoskopiya
 <!-- teglar: pul=kam vaqt=orta iroda=yoq qaytim=orta olcham=umr -->
-- Sarf: najasning immunokimyoviy tahlili bir necha oʻn ming soʻm, har 1–2 yilda bir marta; kolonoskopiya bir necha yuz mingdan bir-ikki million soʻmgacha, natija toza boʻlsa 10 yilda bir marta, bir kun ichakni tayyorlash kerak
+- Sarf: Najasning immunokimyoviy tahlili bir necha oʻn ming soʻm, har 1–2 yilda bir marta; kolonoskopiya bir necha yuz mingdan bir-ikki million soʻmgacha, natija toza boʻlsa 10 yilda bir marta, bir kun ichakni tayyorlash kerak
 - Oddiy tilda: Bir-ikki yilda bir marta arzon najas tahlilidan oʻtgan odamda yoʻgʻon ichak saratonidan oʻlish ehtimoli taxminan 16% kam, har bir bosqichni qoldirmay oʻtganlarda 25% kam. Bir marta kolonoskopiyadan oʻtsangiz, keyingi oʻn yilda yoʻgʻon ichak saratoni chiqishi 1,20% dan 0,98% ga tushadi.
 - Qaytimi: Cochrane meta-tahlili: najasda yashirin qon skriningi yoʻgʻon ichak saratonidan oʻlimni kamaytiradi — RR 0,84 (95% CI 0,78–0,90), kamida bir bosqichda qatnashganlarda RR 0,75. NordICC tasodifiy tadqiqoti: kolonoskopiyaga taklif qilish 10 yillik yoʻgʻon ichak saratoni kasallanishini 1,20% dan 0,98% ga tushirgan (RR 0,82, 95% CI 0,70–0,93)
 - Dalil darajasi: A
@@ -177,7 +177,7 @@ Bu bobga faqat tashqi sabablardan kelib chiqadigan oʻlim, dalili eng mustahkam 
 
 ### 20. Yurak-qon tomir kasalligi bor odamlar va keksalar har yili grippdan emlansin
 <!-- teglar: pul=kam vaqt=kam iroda=yoq qaytim=katta olcham=umr -->
-- Sarf: bir inʼeksiya taxminan yuz ming soʻm atrofida, har kuzda bir marta
+- Sarf: Bir inʼeksiya taxminan yuz ming soʻm atrofida, har kuzda bir marta
 - Oddiy tilda: Miokard infarktidan keyin gripp vaksinasi qilingan tadqiqotda bir yil ichida oʻlim 4,9% dan 2,9% ga tushgan. Yurak-qon tomir kasalligi bor odamlar va keksalar har kuzda bitta inʼeksiya qildirsa, xarajat kichkina, foyda katta.
 - Qaytimi: Miokard infarktidan keyingi tasodifiy qoʻsh-koʻr tadqiqot (2571 kishi): gripp vaksinasi olganlarda 12 oylik umumiy oʻlim 2,9%, platsebo guruhida 4,9% (HR 0,59, 95% CI 0,39–0,89), yurak-qon tomir sabablaridan oʻlim HR 0,59. Meta-tahlil: gripp vaksinasi asosiy yurak-qon tomir hodisalarini 5,4% dan 3,6% ga tushirgan (RR 0,66, 95% CI 0,53–0,83), yurak-qon tomir oʻlimi RR 0,74 (95% CI 0,42–1,30, statistik ahamiyatga ega emas)
 - Dalil darajasi: A
@@ -186,7 +186,7 @@ Bu bobga faqat tashqi sabablardan kelib chiqadigan oʻlim, dalili eng mustahkam 
 
 ### 21. 50 yoshdan keyin oʻrab oluvchi temiratki (gerpes zoster) vaksinasini oling
 <!-- teglar: pul=kop vaqt=kam iroda=yoq qaytim=orta olcham=umr -->
-- Sarf: rekombinant gerpes zoster vaksinasining ikki dozasi hammasi boʻlib bir necha million soʻm, toʻliq oʻz hisobingizdan
+- Sarf: Rekombinant gerpes zoster vaksinasining ikki dozasi hammasi boʻlib bir necha million soʻm, toʻliq oʻz hisobingizdan
 - Oddiy tilda: Uchinchi bosqich tadqiqotida bu vaksina oʻrab oluvchi temiratkining 97% ini toʻsib qolgan, hamma yosh guruhida deyarli bir xil. Kamchiligi — ikki inʼeksiya bir necha million soʻm turadi va toʻliq oʻz hisobingizdan; temiratkining oʻzi esa kamdan-kam hollarda oʻldiradi. Bu pulga siz asosan uzoq davom etadigan asab ogʻrigʻidan qutulasiz.
 - Qaytimi: 18 mamlakatda 15 400 kishi ishtirokidagi uchinchi bosqich tasodifiy nazorat tadqiqoti, oʻrtacha 3,2 yil kuzatuv: vaksina guruhida 6, platsebo guruhida 210 temiratki holati (har 1000 kishi-yiliga 0,3 ga 9,1), "vaksinaning oʻrab oluvchi temiratkiga qarshi umumiy samaradorligi 97,2% (95% CI 93,7–99,0, P<0,001)", yosh guruhlari boʻyicha samaradorlik 96,6% dan 97,9% gacha
 - Dalil darajasi: A
@@ -195,7 +195,7 @@ Bu bobga faqat tashqi sabablardan kelib chiqadigan oʻlim, dalili eng mustahkam 
 
 ### 22. 65 yoshdan oshganlar pnevmokokk vaksinasini olsin
 <!-- teglar: pul=kam vaqt=kam iroda=yoq qaytim=orta olcham=umr -->
-- Sarf: bir necha yuz ming soʻm; baʼzi joylarda keksalar uchun bepul boʻlishi mumkin — poliklinikadan soʻrang
+- Sarf: Bir necha yuz ming soʻm; baʼzi joylarda keksalar uchun bepul boʻlishi mumkin — poliklinikadan soʻrang
 - Oddiy tilda: 84 500 keksa qatnashgan tadqiqotda 13 valentli pnevmokokk vaksinasi oʻzi qamrab olgan turdagi pnevmoniyaning taxminan 46% ini, eng xavfli invaziv infeksiyaning 75% ini toʻsib qolgan. Ammo "har qanday sababli pnevmoniya" boʻyicha samara koʻrinmagan — undan hamma pnevmoniyani toʻxtatishini kutmang.
 - Qaytimi: Niderlandiyada 65 yoshdan oshgan 84 500 kishi ishtirokidagi tasodifiy nazorat tadqiqoti: 13 valentli pnevmokokk konyugat vaksinasining oʻzi qamrab olgan turdagi pnevmoniyaga qarshi samaradorligi 45,6% (95,2% CI 21,8–62,5), invaziv pnevmokokk kasalligiga qarshi 75,0% (95% CI 41,4–90,8); barcha sabablarga koʻra pnevmoniyaga taʼsir qilmagan
 - Dalil darajasi: A
@@ -213,7 +213,7 @@ Bu bobga faqat tashqi sabablardan kelib chiqadigan oʻlim, dalili eng mustahkam 
 
 ### 24. Koʻp chekadigan boʻlsangiz, yiliga bir marta koʻkrak qafasining past dozali KT tekshiruvidan oʻting
 <!-- teglar: pul=kam vaqt=kam iroda=yoq qaytim=katta olcham=umr -->
-- Sarf: bir marta 400 000 dan 700 000 soʻmgacha, 10 daqiqa; ustiga yolgʻon musbat natijadan keyingi qayta tekshiruvlar va asabiylik
+- Sarf: Bir marta 400 000 dan 700 000 soʻmgacha, 10 daqiqa; ustiga yolgʻon musbat natijadan keyingi qayta tekshiruvlar va asabiylik
 - Oddiy tilda: shartlarga toʻgʻri keladigan qattiq chekuvchi yiliga bir marta past dozali KT qilsa, oʻpka saratonidan oʻlish ehtimoli oddiy rentgenga qaraganda 20% ga, umumiy oʻlim ehtimoli 6,7% ga kam boʻladi. Buning evaziga yolgʻon musbat natijalar tufayli qoʻshimcha tekshiruvlar va bir muddat xavotirda yurish kerak boʻladi.
 - Qaytimi: AQShda oʻtkazilgan NLST tasodifiy tadqiqoti (53 454 kishi; 55 dan 74 yoshgacha, chekish tarixi 30 paket-yildan ortiq, tashlaganiga 15 yildan koʻp boʻlmagan): past dozali KT rentgenga nisbatan oʻpka saratonidan oʻlimni nisbiy 20,0% ga (95% CI 6,8 dan 26,7 gacha), umumiy oʻlimni nisbiy 6,7% ga (95% CI 1,2 dan 13,6 gacha) kamaytirgan
 - Dalil darajasi: A
@@ -229,10 +229,10 @@ Bu bobga faqat tashqi sabablardan kelib chiqadigan oʻlim, dalili eng mustahkam 
 - Manba: Zalsman G va boshq. (2016). Suicide prevention strategies revisited: 10-year systematic review. Lancet Psychiatry. <https://doi.org/10.1016/S2215-0366(16)30030-X> ; "Aholiga psixologik yordam koʻrsatish toʻgʻrisida"gi Oʻzbekiston Respublikasi Qonuni, 05.11.2024, OʻRQ-989-son. <https://lex.uz/uz/docs/-7196808> ; Tazyiq va zoʻravonlikdan himoya qilish uchun ishonch telefonlari (112 va 1146). <https://gov.uz/oz/advice/733/document/3440>
 - Izoh: vositalarni cheklash boʻyicha dalillarning koʻpi ekologik tadqiqotlar (siyosat joriy etilishidan oldingi va keyingi holatni taqqoslash), ishonch liniyasining oʻzi boʻyicha esa oʻlim koʻrsatkichiga oid dalil yoʻq — shuning uchun B. Oʻzbekistonda faqat oʻz joniga qasdning oldini olishga ixtisoslashgan, kecha-kunduz ishlaydigan alohida milliy liniya rasman eʼlon qilinmagan: 1146 (Ijtimoiy himoya milliy agentligi ishonch telefoni) orqali ijtimoiy, psixologik va huquqiy maslahat beriladi, 112 — yagona favqulodda raqam. Qoʻngʻiroq qilganda liniyaning ish vaqtini aniqlashtiring. Oʻz joniga qasd impulsi koʻpincha bir necha daqiqadan bir necha soatgacha davom etadi — oʻldiradigan narsani bir qadam narida saqlashning oʻzi aralashuv hisoblanadi. Shu vaqt oʻlchovi va urinishdan keyingi uzoq muddatli natijalar — shu bobning 30-bandida, qutqarib qolingandan keyin nima qoladi — shu bobning 31-bandida.
 
-### 26. Uyda oʻt oʻchirgich, yongʻin koʻrpasi, tutundan saqlovchi niqob va ilk yordam qutisi boʻlsin, yiliga bir marta tekshiring
+### 26. Uyda oʻt oʻchirgich, yongʻin koʻrpasi, tutundan saqlovchi niqob va tez yordam qutisi boʻlsin, yiliga bir marta tekshiring
 <!-- teglar: pul=kam vaqt=kam iroda=yoq qaytim=orta olcham=umr -->
-- Sarf: oʻt oʻchirgich, yongʻin koʻrpasi, har bir kishiga bittadan nafas niqobi va bitta ilk yordam qutisi — bir toʻplam bir necha yuz ming soʻm; bir marta olasiz, keyin yiliga oʻn daqiqa tekshirasiz
-- Oddiy tilda: oʻt oʻchirgich boshlangʻich yongʻinni oʻchiradi, yongʻin koʻrpasini ustingizga yopib chiqib ketish mumkin, filtrli nafas niqobi tutun ichidan chiqishga yordam beradi, ilk yordam qutisidagi qon toʻxtatuvchi vositalar va bint yarani bogʻlashga yaraydi. Uyga borib xavfsizlik boʻyicha maslahat bergan tadqiqotlarda jarohatlar taxminan toʻrtdan biriga kamaygan.
+- Sarf: Oʻt oʻchirgich, yongʻin koʻrpasi, har bir kishiga bittadan nafas niqobi va bitta tez yordam qutisi — bir toʻplam bir necha yuz ming soʻm; bir marta olasiz, keyin yiliga oʻn daqiqa tekshirasiz
+- Oddiy tilda: oʻt oʻchirgich boshlangʻich yongʻinni oʻchiradi, yongʻin koʻrpasini ustingizga yopib chiqib ketish mumkin, filtrli nafas niqobi tutun ichidan chiqishga yordam beradi, tez yordam qutisidagi qon toʻxtatuvchi vositalar va bint yarani bogʻlashga yaraydi. Uyga borib xavfsizlik boʻyicha maslahat bergan tadqiqotlarda jarohatlar taxminan toʻrtdan biriga kamaygan.
 - Qaytimi: 98 ta tadqiqot va 2 605 044 kishini qamragan Cochrane sharhi: uy xavfsizligi boʻyicha aralashuvlar jarohat darajasini IRR 0,89 (95% CI 0,78 dan 1,01 gacha), shundan uyga borib oʻtkazilganlari IRR 0,75 (95% CI 0,62 dan 0,91 gacha) darajasiga tushirgan. Oʻzbekistonda xususiy va davlat uy-joy fondidagi turar joylarda yongʻin xavfsizligini taʼminlash mulkdor (ijara shartnomasida koʻrsatilgan boʻlsa — ijarachi) zimmasida
 - Dalil darajasi: B
 - Manba: Kendrick D va boshq. (2012). Home safety education and provision of safety equipment for injury prevention. Cochrane Database of Systematic Reviews. <https://doi.org/10.1002/14651858.CD005014.pub3> ; Yongʻin xavfsizligi qoidalari, Vazirlar Mahkamasining 20.10.2020-dagi 649-son qarori bilan tasdiqlangan. <https://lex.uz/docs/-5056473> ; Yongʻin xavfsizligini taʼminlash va yongʻin oʻchirish vositalariga qoʻyiladigan talablar toʻgʻrisidagi texnik reglament, Vazirlar Mahkamasining 28.09.2022-dagi 536-son qarori. <https://lex.uz/uz/docs/-6212621>
@@ -240,7 +240,7 @@ Bu bobga faqat tashqi sabablardan kelib chiqadigan oʻlim, dalili eng mustahkam 
 
 ### 27. Siydikda koʻzga koʻrinadigan qon paydo boʻlsa, ogʻrimasa ham, ertasiga toza boʻlib qolsa ham, bir marta tekshiruvdan oʻting
 <!-- teglar: pul=kam vaqt=orta iroda=yoq qaytim=kichik olcham=umr -->
-- Sarf: siydik umumiy tahlili bir necha oʻn ming soʻm, siydik yoʻllari UTT tekshiruvi 100 000 dan 200 000 soʻmgacha; shifokor zarur deb topsa sistoskopiya — million soʻm atrofida
+- Sarf: Siydik umumiy tahlili bir necha oʻn ming soʻm, siydik yoʻllari UTT tekshiruvi 100 000 dan 200 000 soʻmgacha; shifokor zarur deb topsa sistoskopiya — million soʻm atrofida
 - Oddiy tilda: 60 yoshdan oshgan odamda bir marta koʻzga koʻrinadigan qonli siydik chiqsa, oxir-oqibat qovuq saratoni aniqlanish ehtimoli qariyb 2,8%, 40–59 yoshda esa 1,2% — koʻp emas, lekin bir marta tekshirtirishga majbur qiladigan darajada yuqori. Qonli siydik koʻpincha oʻzi toʻxtab qoladi; toʻxtagani "hammasi joyida" degani emas.
 - Qaytimi: Britaniya birlamchi tibbiy yordam elektron kasallik tarixlari boʻyicha keys-nazorat tadqiqoti, 4 915 ta qovuq saratoni holati va 21 718 ta nazorat: koʻzga koʻrinadigan qonli siydikning qovuq saratoni boʻyicha musbat bashorat qiymati 60 yoshdan oshganlarda 2,8% (95% CI 2,5 dan 3,1 gacha), 40 dan 59 yoshgacha 1,2% (0,6 dan 2,3 gacha); faqat mikroskop ostida koʻrinadigan qon ham ahamiyatli — nisbiy koʻrsatkich 20 (95% CI 12 dan 33 gacha), 60 yoshdan oshganlarda musbat bashorat qiymati 1,6% (1,2 dan 2,1 gacha)
 - Dalil darajasi: B
@@ -249,7 +249,7 @@ Bu bobga faqat tashqi sabablardan kelib chiqadigan oʻlim, dalili eng mustahkam 
 
 ### 28. Jinsiy aloqada boshidan oxirigacha prezervativdan foydalaning, birovning ignasini ishlatmang
 <!-- teglar: pul=kam vaqt=kam iroda=biroz qaytim=katta olcham=umr -->
-- Sarf: bittasi bir necha ming soʻm; qiyinchilik pulda emas — har safar va aloqaning boshidan foydalanishda
+- Sarf: Bittasi bir necha ming soʻm; qiyinchilik pulda emas — har safar va aloqaning boshidan foydalanishda
 - Oddiy tilda: har safar boshidan oxirigacha foydalanilsa, ayol va erkak oʻrtasida OIV yuqish ehtimoli qariyb yetmish foizdan ortiq kamayadi; "koʻpincha ishlataman" degan variantning natijasi esa umuman ishlatmaslikdan deyarli farq qilmaydi. Zahm, gonoreya kabi infeksiyalar ham shu bilan birga toʻsiladi.
 - Qaytimi: 25 ta tadqiqot va OIV boʻyicha serologik holati har xil 10 676 ta jinsiy juftlikni qamragan tizimli sharh va meta-tahlil: hech qachon foydalanmaydiganlarga nisbatan har safar prezervativ ishlatadiganlarda OIV yuqish xavfi RR 0,29 (95% CI 0,20 dan 0,43 gacha); tartibsiz foydalanadiganlarga nisbatan RR 0,23 (95% CI 0,13 dan 0,40 gacha). Mualliflar xulosasi: prezervativ mukammal boʻlmasa ham, "izchil foydalanish OIV yuqishini 70% dan ortiqqa kamaytiradi". Shu himoya zahm, gonoreya, xlamidiya kabi boshqa jinsiy yoʻl bilan yuqadigan infeksiyalarni ham qamrab oladi
 - Dalil darajasi: A

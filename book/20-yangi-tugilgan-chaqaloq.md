@@ -69,7 +69,7 @@ Oʻlcham: chaqaloq oʻlimi va pul. Bu bobda faqat taʼsiri katta va qattiq dalil
 
 ### 8. 3 oyga toʻlmagan chaqaloqning harorati 38 °C ga chiqsa toʻgʻri shifoxonaga boring, uyda kuzatib oʻtirmang
 <!-- teglar: pul=kam vaqt=kam iroda=yoq qaytim=katta olcham=umr -->
-- Sarf: qabul va tekshiruvlar — bir necha yuz ming soʻm
+- Sarf: Qabul va tekshiruvlar — bir necha yuz ming soʻm
 - Oddiy tilda: 3 oyga toʻlmagan bolaning harorati 38 °C ga chiqsa toʻgʻri shifoxonaga boring, uyda kuzatib oʻtirmang, avval isitma tushiruvchi berib «koʻrib turaylik» ham demang. Bu yoshdagi bola ogʻir bakterial infeksiyaga chalinsa ham faqat isitma bilan namoyon boʻlishi mumkin, «koʻrinishi durustga oʻxshaydi» degani uyda kutish uchun asos boʻlmaydi; 8 kunga toʻlmaganlar maxsus qoʻllanmalarga hatto kiritilmagan — ular yanada tezroq shifokorga koʻrinishi shart.
 - Qaytimi: Amerika Pediatriya Akademiyasi 8–60 kunlik, koʻrinishi durust boʻlgan muddatida tugʻilgan chaqaloqlar uchun maxsus qoʻllanma tayyorlagan, unda isitma «harorat ≥38,0 °C» deb belgilangan va 8–21, 22–28, 29–60 kunlik boʻlib uch bosqichda ish yuritish yoʻli berilgan; 8 kunga toʻlmagan chaqaloqlar esa umuman bu qoʻllanma doirasiga kirmaydi, yaʼni ularni yanada tezroq shifokorga koʻrsatish kerak.
 - Dalil darajasi: A
@@ -87,7 +87,7 @@ Oʻlcham: chaqaloq oʻlimi va pul. Bu bobda faqat taʼsiri katta va qattiq dalil
 
 ### 10. Taglikni brendiga emas, uch narsaga qarab tanlang: mos kelishi, tez-tez almashtirilishi va tekshiruvdan oʻtgan-oʻtmagani
 <!-- teglar: pul=kam vaqt=kam iroda=yoq qaytim=orta olcham=pul -->
-- Sarf: oyiga bir necha yuz ming soʻmdan bir necha million soʻmgacha
+- Sarf: Oyiga bir necha yuz ming soʻmdan bir necha million soʻmgacha
 - Oddiy tilda: Hech bir rasmiy idora «qaysi brend eng yaxshi» deb reyting tuzmagan. Qimmat boʻlsa — xavfsiz degani emas, chet eldan kelgan boʻlsa — sifatli degani emas. Avval kichik oʻrama olib bir hafta sinang, toʻsh (teri qizarishi) yoki iz qoldirmasa, keyin koʻproq oling. Toʻsh koʻproq kam almashtirish va havo oʻtmasligidan boʻladi, brendga bogʻliqligi oʻylagandan kam.
 - Qaytimi: Hech bir rasmiy idora brendlar reytingini eʼlon qilmagan, shu sabab bu kitob brend tavsiya qilmaydi. Amalda tekshirsa boʻladigan yagona maʼlumot — nazorat idoralarining mahsulot sifati boʻyicha tekshiruv (attestatsiya) natijalari va aniq holatlar boʻyicha rasmiy tergovlari.
 - Dalil darajasi: C
@@ -96,7 +96,7 @@ Oʻlcham: chaqaloq oʻlimi va pul. Bu bobda faqat taʼsiri katta va qattiq dalil
 
 ### 11. Yirik buyumlarni «qarzga olish, ishlatilganini olish, yangisini olish» tartibida koʻrib chiqing, hammasini bir yoʻla olmang
 <!-- teglar: pul=kam vaqt=kam iroda=biroz qaytim=orta olcham=pul -->
-- Sarf: tejaladigan pul odatda yuz minglab–millionlab soʻm bilan oʻlchanadi
+- Sarf: Tejaladigan pul odatda yuz minglab–millionlab soʻm bilan oʻlchanadi
 - Oddiy tilda: Bolalar aravachasi, chaqaloq karavoti, oʻrash koʻrpasi, oʻyinchoqlarning ishlatish muddati juda qisqa, ishlatilgan buyumlar bozorida taklif talabdan ancha koʻp; qarzga olish, ishlatilganini olish, yangisini olish tartibida borsangiz odatda anchagina pul tejaysiz. Xavfsizlik oʻrindigʻi va matrasni ishlatilgan holda olish tavsiya etilmaydi — oʻrindiq zarbadan keyin ichki shikast koʻz bilan koʻrinmaydi. Chilla xizmati markazi, erta rivojlantirish kurslari kabilar yirik, majburiy boʻlmagan xarajat — avval 24 soatlik sovuqqonlik muddatini oʻtkazing.
 - Qaytimi: Bolalar aravachasi, chaqaloq karavoti, oʻrash koʻrpasi, oʻyinchoqlarning ishlatish muddati juda qisqa, ishlatilgan buyumlar bozorida taklif talabdan ancha koʻp. Chindan ham tejab boʻlmaydigan va ishlatilgan holda olish tavsiya etilmaydigan narsalar — xavfsizlik oʻrindigʻi (zarbadan keyin ichki shikast koʻz bilan koʻrinmaydi) va matras.
 - Dalil darajasi: C

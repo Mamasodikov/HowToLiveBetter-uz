@@ -6,7 +6,7 @@ Bu bobda faqat vaqt hisobi yuritiladi: har kuni, har haftada, har yili qancha so
 
 ### 1. «Qilmoqchiman» degan niyatni «soat nechida, qayerda va nima boʻlganda nima qilaman» shakliga oʻtkazing
 <!-- teglar: pul=0 vaqt=kam iroda=yoq qaytim=katta olcham=vaqt -->
-- Sarf: har bir ish uchun 1–2 daqiqa sarflab bitta «agar... boʻlsa, ...» jumlasini yozish (masalan: «seshanba kuni ertalab soat 8 da stol boshiga oʻtirishim bilan avval kirish qismini yozaman»), pul ketmaydi
+- Sarf: Har bir ish uchun 1–2 daqiqa sarflab bitta «agar... boʻlsa, ...» jumlasini yozish (masalan: «seshanba kuni ertalab soat 8 da stol boshiga oʻtirishim bilan avval kirish qismini yozaman»), pul ketmaydi
 - Oddiy tilda: «Buni qilishim kerak» degan gapni «seshanba kuni ertalab soat 8 da stol boshiga oʻtirishim bilan avval kirish qismini yozaman» shaklida qayta yozing. 94 ta mustaqil sinovda shunday yozgan odamlarning maqsadga yetish darajasi sezilarli oshgan — taʼsir oʻrtachadan kattagacha. Oʻzgaradigani bor-yoʻgʻi bitta jumlaning shakli, na pul ketadi, na kuch.
 - Qaytimi: 94 ta mustaqil sinovni qamragan meta-tahlil: amalga oshirish niyatini (implementation intention) shakllantirganlarda maqsadga erishish darajasi oshgan, effekt hajmi d = 0,65 (oʻrtachadan katta); taʼsir ishni boshlash, chalgʻishga qarshi turish va muvaffaqiyatsiz yoʻldan chekinish bosqichlarini qamraydi
 - Dalil darajasi: A
@@ -15,7 +15,7 @@ Bu bobda faqat vaqt hisobi yuritiladi: har kuni, har haftada, har yili qancha so
 
 ### 2. Ishni boshlashdan oldin toʻxtash shartini yozib qoʻying
 <!-- teglar: pul=0 vaqt=kam iroda=biroz qaytim=katta olcham=vaqt -->
-- Sarf: ishni boshlashda 5 daqiqa ajratib «falon sanagacha falon koʻrsatkichga yetmasam, toʻxtayman» deb yozib qoʻyish, pul ketmaydi; toʻxtash paytida bir oz gʻururni yutish kerak boʻladi
+- Sarf: Ishni boshlashda 5 daqiqa ajratib «falon sanagacha falon koʻrsatkichga yetmasam, toʻxtayman» deb yozib qoʻyish, pul ketmaydi; toʻxtash paytida bir oz gʻururni yutish kerak boʻladi
 - Oddiy tilda: ishga kirishishdan oldin «falon oyning falon sanasigacha falon koʻrsatkichga yetmasam, toʻxtayman» deb yozib qoʻying. Xuddi shu turdagi tadqiqotlar koʻrsatishicha, bunday yozuv odamga muvaffaqiyatsizlikka mahkum ishdan chiqib ketishga ham yordam beradi. Tejaladigan narsa — aks holda yana ichiga tashlayverar edingiz, oʻsha butun vaqt.
 - Qaytimi: amalga oshirish niyati boʻyicha meta-tahlil koʻrsatishicha, oldindan tuzilgan «agar... boʻlsa, ...» shakli «muvaffaqiyatsiz yoʻldan chekinish»ga (disengagement from failing courses of action) ham yordam beradi; tejalgani — davom etsangiz yana sarflaydigan butun vaqtingiz
 - Dalil darajasi: B
@@ -24,7 +24,7 @@ Bu bobda faqat vaqt hisobi yuritiladi: har kuni, har haftada, har yili qancha so
 
 ### 3. Davom etish-etmaslikni hal qilganda faqat kelgusi sarf va kelgusi foydaga qarang, sarflab boʻlganingizga emas
 <!-- teglar: pul=0 vaqt=kam iroda=biroz qaytim=orta olcham=vaqt -->
-- Sarf: pul ketmaydi; «avvalgi vaqt allaqachon yoʻqolgan» degan haqiqatni qabul qilish kerak
+- Sarf: Pul ketmaydi; «avvalgi vaqt allaqachon yoʻqolgan» degan haqiqatni qabul qilish kerak
 - Oddiy tilda: ichiga tashlangan pul va vaqt odamni davom etishga undaydi — bu 98 ta maʼlumot toʻplamining umumlashmasida barqaror tasdiqlangan. Shuning uchun davom etish kerakmi degan qarorni faqat «bundan keyin yana qancha sarflayman va qancha qaytaraman» hisobi bilan chiqaring, sarflab boʻlganingizni hisobga qoʻshmang.
 - Qaytimi: sarflangan pul, kuch va vaqt odamni davom etishga moyil qiladi (sarflangan xarajat effekti); 98 ta effekt hajmini qamragan meta-tahlil effektning barqaror mavjudligini tasdiqlagan; undan qochib tejaladigan narsa — «behuda ketmasin» degan his bogʻlab turadigan keyingi vaqtingiz
 - Dalil darajasi: B
@@ -33,7 +33,7 @@ Bu bobda faqat vaqt hisobi yuritiladi: har kuni, har haftada, har yili qancha so
 
 ### 4. Muddatni rejaga qarab emas, oʻtmishdagi shunga oʻxshash ishning haqiqiy davomiyligiga qarab belgilang
 <!-- teglar: pul=0 vaqt=kam iroda=yoq qaytim=katta olcham=vaqt -->
-- Sarf: pul ketmaydi; baholashdan oldin bir necha daqiqa sarflab, shunga oʻxshash ish oʻtgan safar qancha choʻzilganini koʻrib chiqish kerak
+- Sarf: Pul ketmaydi; baholashdan oldin bir necha daqiqa sarflab, shunga oʻxshash ish oʻtgan safar qancha choʻzilganini koʻrib chiqish kerak
 - Oddiy tilda: talabalar diplom ishini 33,9 kunda tugataman deb hisoblashgan, aslida 55,5 kun ketgan; oʻz bahosiga muvofiq tugatganlar atigi 29,7% boʻlgan. Avval shunga oʻxshash ish oʻtgan safar qancha vaqt olganini eslashga majbur qilingan guruhda esa oʻz vaqtida tugatganlar ulushi 29,3% dan 60,0% ga koʻtarilgan.
 - Qaytimi: talabalar diplom ishini 33,9 kunda tugatishni rejalashtirgan, amalda 55,5 kun ketgan; oʻz bahosiga muvofiq oʻz vaqtida tugatganlar atigi 29,7%; oʻtmishdagi tajribani joriy vazifa bilan bogʻlashga undalgandan keyin oʻz vaqtida tugatganlar ulushi nazorat guruhidagi 29,3% dan 60,0% ga koʻtarilgan, optimistik ogʻish yoʻqolgan
 - Dalil darajasi: B
@@ -42,7 +42,7 @@ Bu bobda faqat vaqt hisobi yuritiladi: har kuni, har haftada, har yili qancha so
 
 ### 5. Yigʻilishdan oldin kun tartibini tarqating, kun tartibi yoʻq yigʻilishni oʻtkazmang; imkon boʻlsa tik turib oʻtkazing
 <!-- teglar: pul=0 vaqt=kam iroda=yoq qaytim=orta olcham=vaqt -->
-- Sarf: tashkilotchi yigʻilishdan oldin 5–10 daqiqa sarflab kun tartibini yozadi; tik turib oʻtkaziladigan yigʻilish uchun ishtirokchilarning roziligi kerak
+- Sarf: Tashkilotchi yigʻilishdan oldin 5–10 daqiqa sarflab kun tartibini yozadi; tik turib oʻtkaziladigan yigʻilish uchun ishtirokchilarning roziligi kerak
 - Oddiy tilda: kun tartibi bor yigʻilishni ishtirokchilar samaraliroq deb baholaydi; tajribada oʻtirib oʻtkazilgan yigʻilish tik turib oʻtkazilganidan 34% uzoqroq choʻzilgan, qaror sifatida esa farq boʻlmagan.
 - Qaytimi: ikkita soʻrovda (958 kishi va 292 kishi) kun tartibidan foydalanish yigʻilish samaradorligi hissiyotining ishonchli bashoratchisi boʻlib chiqqan; tajribada oʻtirib yigʻilgan 55 ta guruhning yigʻilishi tik turib yigʻilgan 56 ta guruhnikidan 34% uzoqroq davom etgan, qaror sifati farq qilmagan
 - Dalil darajasi: B
@@ -51,7 +51,7 @@ Bu bobda faqat vaqt hisobi yuritiladi: har kuni, har haftada, har yili qancha so
 
 ### 6. Yigʻilishlar sonini qisqartiring; yozishma orqali hal boʻladigan masalaga yigʻilish chaqirmang
 <!-- teglar: pul=0 vaqt=kam iroda=biroz qaytim=katta olcham=vaqt -->
-- Sarf: hamkasblar va rahbarning roziligi kerak; fikrni ogʻzaki aytgandan koʻra tushunarli qilib yozish biroz koʻproq kuch talab qiladi
+- Sarf: Hamkasblar va rahbarning roziligi kerak; fikrni ogʻzaki aytgandan koʻra tushunarli qilib yozish biroz koʻproq kuch talab qiladi
 - Oddiy tilda: bir kunda qancha koʻp yigʻilish boʻlsa, odam shuncha koʻp charchaydi va ish yuki ogʻirroq tuyuladi. Bitta yigʻilishni olib tashlasangiz, tejaladigan vaqt aynan oʻsha yigʻilishning davomiyligiga teng — bir daqiqa ham kam emas.
 - Qaytimi: haftasiga 35 soatdan koʻp ishlaydigan xodimlar orasida (676 kishilik va 304 kishilik ikkita soʻrov) yigʻilishlarga ketadigan vaqt talabining ishga munosabat va farovonlik bilan bogʻliqligi yigʻilish sifati hamda vazifaning boshqalarga bogʻliqlik darajasi orqali oʻzgaradi; bir haftalik kundalik yuritish tadqiqoti shuni koʻrsatdiki, kun davomida yigʻilish qancha koʻp boʻlsa, charchoq va subyektiv ish yuki shuncha yuqori boʻladi. Tejaladigan vaqt — olib tashlangan yigʻilish davomiyligining oʻzi
 - Dalil darajasi: B
@@ -60,7 +60,7 @@ Bu bobda faqat vaqt hisobi yuritiladi: har kuni, har haftada, har yili qancha so
 
 ### 7. Katta vazifani kichik boʻlaklarga ajrating, keyin muddat belgilang va ishga tushing
 <!-- teglar: pul=0 vaqt=kam iroda=yoq qaytim=orta olcham=vaqt -->
-- Sarf: boʻlaklarga ajratishning oʻzi 5–15 daqiqa oladi, pul ketmaydi
+- Sarf: Boʻlaklarga ajratishning oʻzi 5–15 daqiqa oladi, pul ketmaydi
 - Oddiy tilda: odam muddatni chamalaganda vazifani oʻz-oʻzidan boʻlaklarga ajratib hisoblamaydi; avval kichik boʻlaklarni roʻyxatga olib, keyin chamalasangiz, kam baholash ancha kamayadi. Boʻlaklarga ajratilgandan keyin har bir qadamni shu zahoti boshlash mumkin — demak, ishni ortga surish ham osonlikcha boʻlmaydi.
 - Qaytimi: odamlar muddatni chamalaganda koʻp qirrali vazifani oʻz ixtiyori bilan kichik boʻlaklarga (adabiyot sharhini yozish, muhokamani yozish, manbalarni tartibga solish va h.k.) ajratmaydi; avval kichik boʻlaklarni roʻyxatlab, soʻng chamalash rejalashtirish xatosini kamaytiradi; boʻlaklarga ajratilgandan keyin har bir kichik qadam darhol boshlash mumkin boʻlgan harakatga aylanadi va bu ishni ortga surishni ham kamaytiradi (ortga surishning kuchli bashoratchilari orasida vazifadan koʻngil qolishi va vazifaning kechiktirilishi bor)
 - Dalil darajasi: B
@@ -69,7 +69,7 @@ Bu bobda faqat vaqt hisobi yuritiladi: har kuni, har haftada, har yili qancha so
 
 ### 8. Tashqi muddati yoʻq ishga oʻzingiz sana belgilang
 <!-- teglar: pul=0 vaqt=kam iroda=biroz qaytim=katta olcham=vaqt -->
-- Sarf: pul ketmaydi; belgilagan sanangizni tan olishingiz kerak, aks holda belgilamagan bilan barobar
+- Sarf: Pul ketmaydi; belgilagan sanangizni tan olishingiz kerak, aks holda belgilamagan bilan barobar
 - Oddiy tilda: tashqi muddati bor talabalarning 80,6% shu muddatgacha ishni tugatgan, oʻzi chamalagan vaqtda tugatganlar esa atigi 38,7% boʻlgan. Ish qachon tugashini deyarli muddat hal qiladi, shaxsiy chamaning unga aloqasi kam — shuning uchun muddati yoʻq ishga oʻzingiz sana qoʻying va uni jiddiy qabul qiling.
 - Qaytimi: tashqi muddati bor talabalarning 80,6% muddatgacha tugatgan, oʻzi chamalagan vaqtda tugatganlar esa atigi 38,7%; tugatish vaqti muddat bilan kuchli bogʻlangan (r = 0,82), shaxsiy chama bilan esa faqat kuchsiz bogʻlangan
 - Dalil darajasi: B
@@ -78,7 +78,7 @@ Bu bobda faqat vaqt hisobi yuritiladi: har kuni, har haftada, har yili qancha so
 
 ### 9. Qaysi uy yumushini pul evaziga boshqaga topshirishni oʻz soatlik daromadingizga qarab hal qiling
 <!-- teglar: pul=kop vaqt=kam iroda=yoq qaytim=katta olcham=vaqt -->
-- Sarf: xizmat haqi (tozalash, kir yuvish, ovqat yetkazish va h.k.); avval bir marta hisob-kitob qilib olish kerak
+- Sarf: Xizmat haqi (tozalash, kir yuvish, ovqat yetkazish va h.k.); avval bir marta hisob-kitob qilib olish kerak
 - Oddiy tilda: uy yumushi kam vaqt olmaydi — Xitoyda oʻtkazilgan yirik tadqiqotda aholi kuniga oʻrtacha 1 soat 17 daqiqa, amalda uy ishini bajaradiganlar esa 1 soat 59 daqiqa sarflagan. Pulga vaqt sotib oladiganlarning hayotdan qoniqishi yuqoriroq boʻladi, ayni bir pulga vaqt sotib olish narsa sotib olishdan koʻra oʻsha ondayoq koʻproq quvontiradi.
 - Qaytimi: Xitoyda aholi uy yumushiga kuniga oʻrtacha 1 soat 17 daqiqa, uy ishini bajaradiganlar 1 soat 59 daqiqa sarflaydi (2024-yilgi tadqiqot, 38,5 ming xonadon, 107 ming kishi); toʻrt mamlakatdan 6271 kishilik tanlanmada pulga vaqt sotib olganlarning hayotdan qoniqishi yuqoriroq chiqqan, dala tajribasida esa vaqt sotib olishga qilingan bir martalik xarajat narsa sotib olishdan koʻra oʻsha ondagi baxt hissini koʻproq oshirgan
 - Dalil darajasi: B
@@ -87,7 +87,7 @@ Bu bobda faqat vaqt hisobi yuritiladi: har kuni, har haftada, har yili qancha so
 
 ### 10. Qisqa videolar va maqsadsiz varaqlashga qatʼiy chegara qoʻying
 <!-- teglar: pul=0 vaqt=kam iroda=katta qaytim=katta olcham=vaqt -->
-- Sarf: iroda koʻp kerak; bildirishnomalarni oʻchirish, ilovani oʻchirib tashlash yoki ilovaga vaqt cheklovi qoʻyish talab qilinadi
+- Sarf: Iroda koʻp kerak; bildirishnomalarni oʻchirish, ilovani oʻchirib tashlash yoki ilovaga vaqt cheklovi qoʻyish talab qilinadi
 - Oddiy tilda: internet vaqti eng katta teshik. Xitoyda aholi kuniga oʻrtacha 5 soat 37 daqiqa, internetdan foydalanadiganlar esa 6 soat 3 daqiqa onlayn boʻlgan; 2018-yilda xuddi shu oʻlchovda bu koʻrsatkich atigi 2 soat 42 daqiqa edi. Oʻzbekistonda ham internet deyarli hamma uchun kundalik hodisaga aylandi: 2025-yilning yanvar–avgust oylarida aholining 94,2 foizi internetdan foydalangan. Bu bobdagi eng katta raqam shu — undan bir soatini qaytarib olsangiz, bir yilda 365 soat qoʻlga kiradi.
 - Qaytimi: Xitoyda aholi internetga kuniga oʻrtacha 5 soat 37 daqiqa, foydalanuvchilar oʻrtacha 6 soat 3 daqiqa sarflaydi, qamrov 92,9% (2024-yil); 2018-yilda xuddi shu oʻlchovda 2 soat 42 daqiqa edi. Oʻzbekistonda internetdan foydalanuvchilar ulushi 2021-yildagi 76,6 foizdan 2025-yil yanvar–avgustida 94,2 foizga chiqqan. Bu bobdagi eng katta raqam: kuniga bir soatni qaytarib olish yiliga 365 soat demakdir
 - Dalil darajasi: C
@@ -96,7 +96,7 @@ Bu bobda faqat vaqt hisobi yuritiladi: har kuni, har haftada, har yili qancha so
 
 ### 11. Televizor va toʻxtovsiz yangilik oqimini koʻrmang, kerakli maʼlumotni belgilangan vaqtda bir yoʻla koʻring
 <!-- teglar: pul=0 vaqt=kam iroda=biroz qaytim=katta olcham=vaqt -->
-- Sarf: oʻrtacha iroda; baʼzi tezkor xabarlarni oʻtkazib yuborishingiz mumkin
+- Sarf: Oʻrtacha iroda; baʼzi tezkor xabarlarni oʻtkazib yuborishingiz mumkin
 - Oddiy tilda: AQSHda 15 yoshdan katta aholi kuniga 2,6 soat televizor koʻradi — bu butun boʻsh vaqtning yarmi. Xitoyda bu koʻrsatkich oʻrtacha 1 soat 40 daqiqa, 75–84 yoshdagilarda esa 3 soat 16 daqiqa. Kerakli maʼlumotni kuniga belgilangan bir vaqtda bir yoʻla koʻring — tejaladigani ana shu butun boʻlak.
 - Qaytimi: AQSHda 15 yoshdan katta aholi kuniga 2,6 soat televizor koʻradi, bu butun boʻsh vaqtning (5,2 soat) yarmi (2025-yil); Xitoyda aholi kuniga oʻrtacha 1 soat 40 daqiqa, 75–84 yoshdagilar 3 soat 16 daqiqa televizor koʻradi (2018-yil)
 - Dalil darajasi: C
@@ -105,7 +105,7 @@ Bu bobda faqat vaqt hisobi yuritiladi: har kuni, har haftada, har yili qancha so
 
 ### 12. Bir marta vaqt ajratib, doim ishlatadigan dasturlarning klaviatura qisqartmalari va avtomatlashtirishini oʻrganing
 <!-- teglar: pul=0 vaqt=orta iroda=biroz qaytim=orta olcham=vaqt -->
-- Sarf: bir martalik sarmoya — bir necha soatdan bir necha oʻn soatgacha; boshida sichqonchada ishlagandan sekinroq boʻlasiz
+- Sarf: Bir martalik sarmoya — bir necha soatdan bir necha oʻn soatgacha; boshida sichqonchada ishlagandan sekinroq boʻlasiz
 - Oddiy tilda: matn muharririni koʻp yillardan beri ishlatib kelayotganlarning koʻpchiligi hamon asboblar panelini bosib yuradi, nazorat ostidagi tajribada esa klaviatura qisqartmalari uchta usul ichida eng tezi boʻlib chiqqan. Bir marta oʻrganib olasiz — bu bir martalik xarajat; keyin har kuni, har bir amalda qaytib keladi. Bir xil ish bilan qancha uzoq shugʻullansangiz, shuncha koʻp yutasiz.
 - Qaytimi: tajribali 251 nafar matn muharriri foydalanuvchisining koʻpchiligi samaraliroq qisqartmalarni deyarli ishlatmagan, asosan belgi-tugmalar panelida qolgan; nazorat ostidagi tajriba qisqartmalar uchta usul ichida eng tezi ekanini tasdiqlagan. Qaytgan vaqt har kunlik amallar soniga qarab toʻplanadi, uzoq yillar bir xil ish qiladiganlar eng koʻp yutadi
 - Dalil darajasi: B
@@ -114,7 +114,7 @@ Bu bobda faqat vaqt hisobi yuritiladi: har kuni, har haftada, har yili qancha so
 
 ### 13. Uy tanlashda birinchi navbatda yoʻl vaqtini hisoblang — bir tomonlama qatnovni qisqartiring
 <!-- teglar: pul=kop vaqt=orta iroda=yoq qaytim=katta olcham=vaqt -->
-- Sarf: yuqori — koʻpincha ijara qimmatroq yoki uy kichikroq boʻlib qoladi, koʻchishning oʻzi ham vaqt va pul oladi
+- Sarf: Yuqori — koʻpincha ijara qimmatroq yoki uy kichikroq boʻlib qoladi, koʻchishning oʻzi ham vaqt va pul oladi
 - Oddiy tilda: qatnov qancha uzoq boʻlsa, odam oʻzini shuncha kam baxtli his qiladi, bu yoʻqotish esa na maoshda, na uy sharoitida qoplanadi. Bir tomonga 30 daqiqa kam yursangiz, bir haftada 5 soat qoʻlingizda qoladi.
 - Qaytimi: Germaniya boʻyicha uzoq yillik panel maʼlumotlari koʻrsatishicha, qatnov vaqti uzayganda subyektiv baxt hissi tizimli ravishda pasayadi va bu pasayish daromad yoki uy-joy sifati bilan qoplanmaydi; sharhlovchi tadqiqot esa qatnovdan qoniqish yoʻl uzayishi bilan kamayishini, bu transport turiga bogʻliq emasligini tasdiqlaydi. Bir tomonga 30 daqiqa kam yoʻl — haftasiga taxminan 5 soat tejaladi. Taqqoslash uchun: Xitoyda 2024-yilgi milliy vaqt-byudjeti soʻrovi boʻyicha aholining yoʻlda oʻtkazadigan vaqti kuniga oʻrtacha 50 daqiqa, bevosita qatnashganlar boʻyicha 1 soat 2 daqiqa
 - Dalil darajasi: B

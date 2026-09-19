@@ -15,7 +15,7 @@ Bu yerdagi oʻlchov — pul qaytimi va vaqt xarajati, 2-band esa alohida oʻlcho
 
 ### 2. "Oʻqishning foydasi bormi" degan savolni oʻlim xavfi hisobiga ham qoʻshing: har qoʻshimcha oʻquv yili kattalardagi oʻlim xavfini ~1,9% ga kamaytiradi
 <!-- teglar: pul=0 vaqt=kop iroda=katta qaytim=katta olcham=umr -->
-- Sarf: qoʻshimcha oʻqilgan yillarning vaqti va kuchi; oʻquv toʻlovi qismi uchun shu bobning 4-bandiga qarang
+- Sarf: Qoʻshimcha oʻqilgan yillarning vaqti va kuchi; oʻquv toʻlovi qismi uchun shu bobning 4-bandiga qarang
 - Oddiy tilda: 59 mamlakat, 603 ta tadqiqot va oʻn mingdan ortiq kuzatuv nuqtasini birlashtirgan natija shuni koʻrsatadi: taʼlim yillari va oʻlim xavfi oʻrtasida "doza" bogʻliqligi bor — har qoʻshimcha oʻqilgan yil kattalikdagi oʻlim xavfini oʻrtacha ~1,9% ga kamaytiradi. Bu 18–49 yoshda eng aniq (har yil uchun ~2,9%), 70 yoshdan keyin ~0,8% ga tushadi. Erkak-ayol yoki kambagʻal-boy davlatlar oʻrtasida farq koʻrinmagan. Yaʼni oʻrta maktabgacha oʻqigan bilan faqat toʻqqizinchini bitirgan odam oʻrtasidagi farq faqat ish haqi emas.
 - Qaytimi: tizimli sharh va meta-tahlil, 1980-yil yanvaridan 2023-yil mayigacha qidiruv, yakunda 603 tadqiqot, 59 mamlakatning 70 hududi, 10 355 kuzatuv: taʼlim va umumiy kattalar oʻlimi oʻrtasida doza-javob bogʻliqligi; har qoʻshimcha oʻquv yili oʻlim xavfini oʻrtacha 1,9% ga pasaytiradi (95% noaniqlik oraligʻi 1,8–2,0); 18–49 yoshda har yil uchun 2,9% (2,8–3,0), 70 yoshdan katta guruhda 0,8% (0,6–1,0); jins yoki ijtimoiy-demografik indeks boʻyicha farq topilmagan
 - Dalil darajasi: A (bahsli)
@@ -114,7 +114,7 @@ Bu yerdagi oʻlchov — pul qaytimi va vaqt xarajati, 2-band esa alohida oʻlcho
 
 ### 13. Bir xil pul va vaqtga darhol ishga kirish imkonini beradigan qisqa muddatli dasturni tanlang
 <!-- teglar: pul=kam vaqt=orta iroda=biroz qaytim=orta olcham=pul -->
-- Sarf: qisqa muddatli kursning oʻqish haqi va vaqti
+- Sarf: Qisqa muddatli kursning oʻqish haqi va vaqti
 - Oddiy tilda: Davlat siyosati ham qisqa muddatda ishga joylashtiradigan «qisqa va aniq» oʻqishni va kasb-hunar muassasalaridagi qisqa kurslarni ragʻbatlantiradi. Dasturni tanlashda faqat bitta mezonga qarang: oʻqib boʻlgach, aniq bir ish oʻrniga rezyume tashlash imkoni bormi? Bir-ikki yil oʻqib, bitirgach yana «tajriba orttirish kerak» deydigan dasturning amaldagi vaqti belgilangandan ancha koʻp. Ishni boshlashdan oldin chiqish shartini yozib qoʻying: qaysi darajaga yetganda ish topilmasa, toʻxtatasiz.
 - Qaytimi: Davlat siyosati ham shunga mos: ishsiz va band boʻlmagan fuqarolar uchun monomarkazlarda qisqa muddatli oʻqish tashkil etilib, tugatganlarga qisqa muddatli oʻqishdan oʻtganlik toʻgʻrisida sertifikat beriladi; bu koʻnikmani darhol ishga aylantirishga qaratilgan
 - Dalil darajasi: C

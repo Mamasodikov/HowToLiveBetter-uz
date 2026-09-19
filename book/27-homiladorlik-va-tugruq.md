@@ -8,7 +8,7 @@ Jahon sogʻliqni saqlash tashkiloti (JSST) maʼlumoti: 2023-yilda dunyoda taxmin
 
 ### 1. Homiladorlikka tayyorgarlikdanoq har kuni 0,4 mg foliy kislotasi iching, homilaning ilk 3 oyi toʻlguncha davom eting
 <!-- teglar: pul=0 vaqt=kam iroda=biroz qaytim=katta olcham=umr -->
-- Sarf: arzon, bir shishasi bir necha ming soʻm; homiladorlarga birlamchi tibbiy yordam boʻgʻinida temir va foliy kislotasi berilishi ham yoʻlga qoʻyilgan. Har kuni bitta tabletka — esdan chiqarmaslik kerak
+- Sarf: Arzon, bir shishasi bir necha ming soʻm; homiladorlarga birlamchi tibbiy yordam boʻgʻinida temir va foliy kislotasi berilishi ham yoʻlga qoʻyilgan. Har kuni bitta tabletka — esdan chiqarmaslik kerak
 - Oddiy tilda: homiladorlikdan oldin va keyin har kuni bitta foliy kislotasi tabletkasi ichsangiz, bolada asab nayi nuqsonlari (bosh miyaning boʻlmasligi, umurtqa yorigʻi kabi) paydo boʻlish ehtimoli taxminan 70 foizga kamayadi; ilgari shunday nuqsonli bola koʻrgan ayolda takroran yuzaga kelish ehtimoli ham qariyb uchdan biriga tushadi.
 - Qaytimi: Cochrane tizimli sharhi (5 tadqiqot, 6708 tugʻruq, yuqori sifatli dalil): homiladorlik atrofida har kuni foliy kislotasi qabul qilish homilada asab nayi nuqsonlari xavfini RR 0,31 (95% CI 0,17–0,58) ga, yaʼni taxminan 70 foizga kamaytiradi; ilgari asab nayi nuqsonli bola koʻrganlarda takroriy xavf RR 0,34 (95% CI 0,18–0,64). Kichik guruh tahlili shuni koʻrsatdiki, 0,4 mg va undan yuqori doza oʻrtasida farq yoʻq, faqat foliy kislotasi ichish bilan kompleks vitamin ichish oʻrtasida ham farq yoʻq
 - Dalil darajasi: A
@@ -44,7 +44,7 @@ Jahon sogʻliqni saqlash tashkiloti (JSST) maʼlumoti: 2023-yilda dunyoda taxmin
 
 ### 5. Preeklampsiya boʻyicha yuqori xavfli boʻlsangiz, homilaning 12-haftasidan keyin har kuni bir dona kichik dozali aspirin
 <!-- teglar: pul=kam vaqt=kam iroda=biroz qaytim=orta olcham=umr -->
-- Sarf: bir necha ming soʻm; har kuni bitta, tugʻruqqacha davom etadi
+- Sarf: Bir necha ming soʻm; har kuni bitta, tugʻruqqacha davom etadi
 - Oddiy tilda: yuqori xavfli boʻlgan bir necha toifadagilar homilaning 12-haftasidan har kuni bir dona kichik dozali aspirin ichsa, preeklampsiya ehtimoli qariyb 15 foizga, erta tugʻruq qariyb 20 foizga, chaqaloqning perinatal davrda oʻlishi ehtimoli qariyb 20 foizga kamayadi. Bu toifalarga kirmasangiz, oʻzboshimchalik bilan ichmang.
 - Qaytimi: AQSh Profilaktik xizmatlar boʻyicha ishchi guruhining (USPSTF) B darajali tavsiyasi: preeklampsiya boʻyicha yuqori xavfli guruh uchun homilaning 12-haftasidan keyin kichik dozali aspirin (81 mg/kun) profilaktik dori sifatida boshlanadi. Jamlangan taʼsir: preeklampsiya RR 0,85 (95% CI 0,75–0,95, 16 tadqiqot), erta tugʻruq RR 0,80 (95% CI 0,67–0,95, 13 tadqiqot), perinatal oʻlim RR 0,79 (95% CI 0,66–0,96, 11 tadqiqot), homila yoshiga nisbatan kichik / bachadon ichi oʻsish tanqisligi RR 0,82 (95% CI 0,68–0,99, 16 tadqiqot)
 - Dalil darajasi: A
@@ -53,7 +53,7 @@ Jahon sogʻliqni saqlash tashkiloti (JSST) maʼlumoti: 2023-yilda dunyoda taxmin
 
 ### 6. Homilaning 24-haftasi va undan keyin bir marta homiladorlik diabetini tekshirtiring, «shakarli suv ichish»dan erinmang
 <!-- teglar: pul=kam vaqt=kam iroda=yoq qaytim=orta olcham=umr -->
-- Sarf: bir necha ming — bir necha oʻn ming soʻm; nahorda bir necha marta qon topshiriladi, yarim ertalab ketadi
+- Sarf: Bir necha ming — bir necha oʻn ming soʻm; nahorda bir necha marta qon topshiriladi, yarim ertalab ketadi
 - Oddiy tilda: 24-haftadan keyin yarim ertalak sarflab bir marta shakarli suv ichib qon topshirsangiz, homiladorlik diabetini aniqlab olasiz. Tekshirmasa, eʼtibor bermasa — yirik homila, qiyin tugʻruq, kesar tilinishi, preeklampsiya va chaqaloq qandi pastligi xavfi koʻtariladi.
 - Qaytimi: AQSh Profilaktik xizmatlar boʻyicha ishchi guruhi (USPSTF) B darajali tavsiya: alomatsiz homilador ayollarda homiladorlik diabetini homilaning 24-haftasi va undan keyin skrining qilish, bir martalik skrining 24-hafta va undan keyin oʻtkazilishi kerak. 24-haftagacha skrining boʻyicha ishchi guruhining xulosasi — mavjud dalil foyda-zararni baholashga yetarli emas (I daraja). Homiladorlik diabeti nazorat qilinmasa, yirik homila, qiyin tugʻruq, kesar kesish, preeklampsiya va chaqaloq qandi pastligi xavfini oshiradi
 - Dalil darajasi: A
@@ -80,7 +80,7 @@ Jahon sogʻliqni saqlash tashkiloti (JSST) maʼlumoti: 2023-yilda dunyoda taxmin
 
 ### 9. Ogʻriqsiz tugʻruq istasangiz, toʻgʻridan-toʻgʻri ayting — u kesar kesish xavfini oshirmaydi
 <!-- teglar: pul=kam vaqt=kam iroda=biroz qaytim=orta olcham=vaqt -->
-- Sarf: bir necha yuz ming soʻmdan yuqoriroq, muassasaga qarab har xil; oldindan shifoxona va anesteziologiya boʻlimi bilan qilish mumkinligini aniqlab olish kerak
+- Sarf: Bir necha yuz ming soʻmdan yuqoriroq, muassasaga qarab har xil; oldindan shifoxona va anesteziologiya boʻlimi bilan qilish mumkinligini aniqlab olish kerak
 - Oddiy tilda: ogʻriqsiz tugʻruq (epidural anesteziya) boshqa ogʻriq qoldirish usullaridan koʻra taʼsirliroq, ustiga-ustak sizni kesar kesishga koʻproq olib bormaydi; «ogʻriqsiz qilsang umr boʻyi bel ogʻriydi» degani ham asossiz.
 - Qaytimi: Cochrane tizimli sharhi xulosasi: epidural anesteziya tugʻruq ogʻrigʻini kamaytirish va ayolning ogʻriq qoldirishdan qoniqishini oshirishda epidural boʻlmagan usullardan taʼsirliroq, hamda «epidural anesteziya kesar kesish xavfiga va uzoq muddatli bel ogʻrigʻiga taʼsir qilmaydi»; asbob bilan tugʻdirishning koʻpayishi 2005-yildan keyingi tadqiqotlarda kuzatilmaydi
 - Dalil darajasi: A
@@ -116,7 +116,7 @@ Jahon sogʻliqni saqlash tashkiloti (JSST) maʼlumoti: 2023-yilda dunyoda taxmin
 
 ### 13. Chaqaloqning tovonidan qon olish va eshitish tekshiruvidan bosh tortmang
 <!-- teglar: pul=kam vaqt=kam iroda=yoq qaytim=katta olcham=umr -->
-- Sarf: koʻp hududda davlat dasturi doirasida bepul; tugʻruqdan keyin bir marta tovondan qon olinadi
+- Sarf: Koʻp hududda davlat dasturi doirasida bepul; tugʻruqdan keyin bir marta tovondan qon olinadi
 - Oddiy tilda: Bir marta tovondan qon olinadi va bir marta eshitish tekshiruvi qilinadi — bola tashqaridan butunlay sogʻlom koʻringan paytda ham qalqonsimon bez yetishmovchiligini (gipotireoz), fenilketonuriyani va eshitish nuqsonini aniqlab beradi. Alomatlar koʻzga tashlanganda aql-idrokka yetgan zarar allaqachon qaytmas boʻladi.
 - Qaytimi: Oʻzbekistonda yangi tugʻilgan chaqaloqlar skriningi davlat dasturi doirasida "Ona va bola skrining" markazlari orqali oʻtkaziladi. Skrining fenilketonuriya, konjenital gipotireoz, adrenogenital sindrom, galaktozemiya, mukovistsidoz kabi tugʻma va irsiy kasalliklarni aniqlaydi. Bu kasalliklarning umumiy xususiyati — erta bosqichda tashqaridan hech qanday alomat bermasligi; alomat koʻringanda aqliy zarar qaytmas boʻlib qoladi, erta aniqlab davolash (qalqonsimon bez gormoni, maxsus parhez sut aralashmasi, eshitish apparati yoki koxlear implant) esa juda samarali.
 - Dalil darajasi: A

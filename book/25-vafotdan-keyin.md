@@ -74,7 +74,7 @@ Muhim ogohlantirish: Oʻzbekistonda dafn marosimi asosan diniy urf-odatlar va ma
 
 ### 9. Har joyga tarqalgan pulni birma-bir olib chiqing: jamgʻarib boriladigan pensiya, olinmay qolgan pensiya, dafn nafaqasi, mehnat jarohati toʻlovlari
 <!-- teglar: pul=0 vaqt=orta iroda=yoq qaytim=katta olcham=pul -->
-- Sarf: bir necha idorani aylanish; oʻlim guvohnomasi va qarindoshlik hujjatlarini tayyorlash
+- Sarf: Bir necha idorani aylanish; oʻlim guvohnomasi va qarindoshlik hujjatlarini tayyorlash
 - Oddiy tilda: Vafot etgan shaxsning **jamgʻarib boriladigan pensiya** hisobidagi mablagʻi merosxoʻrlarga oʻtadi — bu pul bank hisobida emasligi uchun koʻpincha eʼtibordan chetda qoladi. **Olinmay qolgan pensiya** (vafot oyigacha tegishli boʻlib, olinmagan pul) merosga kirmasdan, u bilan birga yashagan yoki boquvchisini yoʻqotganlik nafaqasiga haqli oila aʼzolariga toʻlanadi. **Dafn nafaqasi** — bazaviy hisoblash miqdorining toʻrt baravari miqdorida, dafnni oʻtkazgan qarindosh yoki boshqa shaxsga beriladi; unga vafotdan keyin belgilangan muddat ichida murojaat qilish kerak. Mehnat jarohati oqibatida vafot boʻyicha toʻlovlar — 19-bobda.
 - Qaytimi: Fuqarolarning jamgʻarib boriladigan pensiya hisobidagi mablagʻi merosxoʻrlarga meros tartibida oʻtadi. Pensioner olishi lozim boʻlgan, vafoti tufayli olinmay qolgan pensiya meros tarkibiga kiritilmasdan boquvchisini yoʻqotganlik nafaqasiga haqli oila aʼzolariga (ota-ona, er/xotin, u bilan birga yashagan aʼzolar) toʻlanadi. Dafn nafaqasi bazaviy hisoblash miqdorining 4 baravari miqdorida beriladi.
 - Dalil darajasi: B

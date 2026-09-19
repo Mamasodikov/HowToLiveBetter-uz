@@ -42,7 +42,7 @@ Oʻlcham: pul va vaqt. 10-bob singari, bu yerda faqat hisob ochiladi, xulosa chi
 
 ### 5. Pul hisobini uch bosqichga boʻling: 0–3 yosh, majburiy taʼlim, taʼlimdan keyin
 <!-- teglar: pul=kop vaqt=orta iroda=biroz qaytim=katta olcham=pul -->
-- Sarf: shahar va tanlovga qarab keskin farq qiladi
+- Sarf: Shahar va tanlovga qarab keskin farq qiladi
 - Oddiy tilda: 0–3 yoshda asosiy xarajat — bolani kim boqishi (oʻzingiz, keksalar yoki yollangan odam); majburiy taʼlim bosqichida — uy-joy va darsdan tashqari mashgʻulotlar; undan keyin — taʼlim yoʻnalishini tanlash. Uch bosqichning xarajat tuzilishi butunlay boshqacha; ularni aralashtirsangiz, faqat qoʻrqinchli umumiy raqam chiqadi. Avval aniq keladigan pullarni (nafaqalar, tugʻish nafaqasi, tibbiy sugʻurta qoplamalari) hisobga qoʻshing, keyin qancha yetishmayotganini koʻring.
 - Qaytimi: real xarajatni bosqichma-bosqich, aniq koʻrish
 - Dalil darajasi: C

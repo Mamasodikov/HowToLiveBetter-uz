@@ -6,7 +6,7 @@ Bu bobning oʻlchovi — pul: tejaladigan ulush, yillik qaytim farqi, kutilma qi
 
 ### 1. Barcha avtomatik toʻlovlarni oʻchiring, obunani muddati tugagach qoʻlda uzaytiring
 <!-- teglar: pul=0 vaqt=kam iroda=yoq qaytim=orta olcham=pul -->
-- Sarf: bir martalik 10–20 daqiqa: bank ilovasidagi «avtomatik toʻlov»lar roʻyxatini, toʻlov ilovalaridagi (Payme, Click, Uzum va boshqalar) saqlangan obunalarni, Apple va Google hisobingizdagi obunalarni bir boshdan koʻrib chiqasiz; keyin har safar uzaytirishda bitta qoʻshimcha tugma bosiladi
+- Sarf: Bir martalik 10–20 daqiqa: bank ilovasidagi «avtomatik toʻlov»lar roʻyxatini, toʻlov ilovalaridagi (Payme, Click, Uzum va boshqalar) saqlangan obunalarni, Apple va Google hisobingizdagi obunalarni bir boshdan koʻrib chiqasiz; keyin har safar uzaytirishda bitta qoʻshimcha tugma bosiladi
 - Oddiy tilda: tejaladigan pul — allaqachon ishlatmayotgan, lekin har oy kartangizdan yechilib turgan obunalar. Ularni topishning yagona yoʻli — roʻyxatni ochib koʻrish, bu 20 daqiqadan koʻp vaqt olmaydi. Obunani oʻchirish kartani bloklash emas: Apple va Google obunalarini oʻz hisobingizdan, bankdagi avtomatik toʻlovlarni bank ilovasidan bir necha bosishda bekor qilasiz
 - Qaytimi: tejaladigan summa — «endi ishlatilmayotgan, lekin pul yechilayotgan» obunalarning yigʻindisiga teng, bu har kimda har xil. Obunani bekor qilish uchun qoʻshimcha toʻlov olinmaydi va u darhol amalga oshadi, faqat joriy davr oxirigacha xizmat ochiq qoladi
 - Dalil darajasi: C
@@ -45,7 +45,7 @@ Manbadagi band Xitoydagi majburiy uy-joy jamgʻarma fondiga tegishli edi: ish ha
 
 ### 6. «Yuqori daromad», «kafolatlangan foyda», «xavf-xatarsiz» degan gaplarni eshitsangiz — ketavering
 <!-- teglar: pul=0 vaqt=kam iroda=yoq qaytim=katta olcham=pul -->
-- Sarf: yoʻq; faqat shu soʻzlarni eshitganda toʻxtash kerak
+- Sarf: Yoʻq; faqat shu soʻzlarni eshitganda toʻxtash kerak
 - Oddiy tilda: taqqoslash nuqtangiz — Markaziy bankning asosiy stavkasi va banklarning omonat stavkalari. Ulardan bir necha barobar yuqori daromad «kafolat» bilan vaʼda qilinayotgan boʻlsa, bu moliyaviy mahsulot emas. Ikkinchi belgi yanada aniq: daromadingiz yangi odam olib kelishingizga bogʻliq boʻlsa — bu piramida. Bunday faoliyat Oʻzbekistonda jinoyat hisoblanadi
 - Qaytimi: mulkiy manfaat berish majburiyatini olgan holda pul mablagʻlarini va (yoki) boshqa mol-mulkni jalb etishga doir noqonuniy faoliyat — yaʼni oldingi ishtirokchilarga yangi jalb qilingan mablagʻ hisobidan toʻlab turish — jinoiy javobgarlikka olib keladi; jazo jarimadan boshlanib, ogʻirlashtiruvchi holatlarda oʻn yilgacha ozodlikdan mahrum qilishgacha boradi. Bu faoliyatni reklama qilish ham javobgarlik doirasiga kiradi. Lekin jinoyat ishi qoʻzgʻatilgani pulingiz qaytadi degani emas: amalda mablagʻning katta qismi qaytmaydi
 - Dalil darajasi: B
@@ -54,7 +54,7 @@ Manbadagi band Xitoydagi majburiy uy-joy jamgʻarma fondiga tegishli edi: ish ha
 
 ### 7. Kartadagi qarzni toʻliq yoping; isteʼmol uchun boʻlib toʻlash yoki kredit olmang
 <!-- teglar: pul=0 vaqt=kam iroda=biroz qaytim=orta olcham=pul -->
-- Sarf: yoʻq; hisob-kitob kunigacha toʻliq toʻlashga yetadigan naqd pulni ajratib qoʻyish kerak
+- Sarf: Yoʻq; hisob-kitob kunigacha toʻliq toʻlashga yetadigan naqd pulni ajratib qoʻyish kerak
 - Oddiy tilda: «boʻlib toʻlash» va «minimal toʻlov» imtiyoz emas, kredit. Oʻzbekistonda solishtirish uchun yagona toʻgʻri raqam — kreditning toʻliq qiymati (KTQ): unda foizdan tashqari komissiyalar, sugʻurta va boshqa majburiy toʻlovlar ham hisobga olinadi. Bank shartnoma tuzilgunga qadar sizga yillik nominal stavkani ham, murojaat qilgan sanadagi kreditning toʻliq qiymatini ham yozma taqdim etishi shart. Oylik toʻlovga emas, shu ikki raqamga qarang
 - Qaytimi: bank kredit shartnomasi tuzilgunga qadar isteʼmolchiga foiz stavkasining yillik nominal qiymatini, oʻzgaruvchan stavka qoʻllansa uni aniqlash tartibini va kreditning toʻliq qiymatini taqdim etishga majbur; kreditning toʻliq qiymati isteʼmolchi-jismoniy shaxs bilan tuziladigan shartnomada ham koʻrsatiladi. Isteʼmol krediti shartnomasida kreditning umumiy summasi, foizlar, qaytarish jadvali va majburiyatlarni taʼminlash usuli kabi muhim shartlar yozilishi shart. Shu raqamlarni solishtirib, bir xil xariddagi ortiqcha toʻlovning sezilarli qismidan voz kechish mumkin
 - Dalil darajasi: B
@@ -63,7 +63,7 @@ Manbadagi band Xitoydagi majburiy uy-joy jamgʻarma fondiga tegishli edi: ish ha
 
 ### 8. Jonli efirga «sovgʻa», oʻyin ichidagi xaridlar va shoshilinch buyurtmalarga pul sarflamang
 <!-- teglar: pul=0 vaqt=kam iroda=biroz qaytim=orta olcham=pul -->
-- Sarf: yoʻq; bir marta bir necha daqiqa vaqt ketadi — parolsiz toʻlovni oʻchirish, bitta operatsiya va kunlik limit belgilash, platformalarga bogʻlangan kartani uzish
+- Sarf: Yoʻq; bir marta bir necha daqiqa vaqt ketadi — parolsiz toʻlovni oʻchirish, bitta operatsiya va kunlik limit belgilash, platformalarga bogʻlangan kartani uzish
 - Oddiy tilda: bu xarajatlarning umumiy xususiyati — qaytarib boʻlmasligi. Katta yoshli odam oʻz ixtiyori bilan yuborgan «sovgʻa» yoki qilgan xarid boʻyicha pulni qaytarish uchun qonuniy asos deyarli yoʻq. Shuning uchun eng kam kuch talab qiladigan himoya — pulni yuborishdan oldingi bosqichda toʻsiq qoʻyish: parolsiz toʻlovni oʻchirish, limit belgilash, kartani oʻyin va platforma hisobidan uzish. Shoshilinch xaridlar uchun sodda qoida: savatga solib qoʻying va bir kechani oʻtkazing
 - Qaytimi: qaytarib boʻlmaydigan xarajatlar yoʻnalishini toʻliq yopadi; aniq summa har kimda har xil, chunki u faqat sizning oʻz sarfingizga bogʻliq
 - Dalil darajasi: C
@@ -90,7 +90,7 @@ Manbadagi band Xitoydagi majburiy uy-joy jamgʻarma fondiga tegishli edi: ish ha
 
 ### 11. Elektronika uchun qoʻshimcha («kengaytirilgan») kafolat sotib olmang
 <!-- teglar: pul=0 vaqt=kam iroda=yoq qaytim=orta olcham=pul -->
-- Sarf: yoʻq; kafolat muddati tugagandan keyin taʼmirni oʻz hisobingizdan toʻlash ehtimolini boʻyningizga olasiz
+- Sarf: Yoʻq; kafolat muddati tugagandan keyin taʼmirni oʻz hisobingizdan toʻlash ehtimolini boʻyningizga olasiz
 - Oddiy tilda: qoʻshimcha kafolat odatda mahsulot narxining 10–50 foiziga sotiladi, uning ustamasi esa oddiy tovarnikidan oʻnlab barobar yuqori. AQShdagi Best Buy tarmogʻida 2003-yilda savdo hajmining atigi 3–4 foizini tashkil qilgan qoʻshimcha kafolat sof foydaning yarmidan koʻpini bergan. Shu farq — sizning ortiqcha toʻlovingiz
 - Qaytimi: qoʻshimcha kafolat narxi odatda tovar narxining 10–50 foizini tashkil qiladi; tadqiqotda keltirilgan soha baholariga koʻra uning oʻrtacha yalpi rentabelligi 50–60 foiz, yaʼni oddiy tovarnikidan taxminan 18 barobar yuqori; 2003-yilda qoʻshimcha kafolat Best Buy savdo tushumining atigi 3–4 foizini tashkil qilgan boʻlsa-da, foydaning 50 foizdan koʻpini bergan (AQSh, 2000-yillar chakana savdo maʼlumotlari)
 - Dalil darajasi: B
@@ -112,7 +112,7 @@ Bu band Oʻzbekistonda mavjud boʻlmagan institutga tegishli edi: bizda fuqaroni
 
 ### 14. Quvur suvini qaynatib iching, har kuni qadoqlangan suv sotib olmang
 <!-- teglar: pul=0 vaqt=kam iroda=yoq qaytim=orta olcham=pul -->
-- Sarf: choynak yoki qozon, oz miqdorda gaz/elektr va suvni qaynatish vaqti
+- Sarf: Choynak yoki qozon, oz miqdorda gaz/elektr va suvni qaynatish vaqti
 - Oddiy tilda: aholi uchun quvur suvining tarifi 1 m³ (1 000 litr) uchun bir necha ming soʻm — yaʼni litri taxminan 4—5 soʻm. Doʻkondagi 1,5 litrlik qadoqlangan suv 4 000—5 000 soʻm boʻlsa, litri ~3 000 soʻm chiqadi: farq yuzlab barobar. Quvur suvi davlat nazoratidagi standart boʻyicha yetkaziladi; odatdagi kunda uni qaynatib ichish yetarli. Suvdan hid kelsa yoki u loyqa/sargʻish boʻlsa — bu "yana besh daqiqa qaynatib" hal boʻladigan muammo emas: ishlatishni toʻxtating va xabar bering.
 - Qaytimi: Jizzax viloyatida aholi uchun ichimlik suvi tarifi 1 m³ uchun 4 500 soʻm (QQSsiz), oqova suv — 2 000 soʻm (2026-yil 10-apreldagi qaror, 1-ilova). 4 500 soʻm/m³ = litriga 4,5 soʻm. Qadoqlangan suvni litriga 3 000 soʻmdan hisoblasak, farq ~650 barobar. Ichimlik suvining sifati va belgilangan talablarga muvofiqligi ustidan davlat nazorati amalga oshiriladi, sifat OʻzMSt 133:2024 "Ichimlik suvi. Gigiyenik talablar va sifatini nazorat qilish" milliy standarti boʻyicha baholanadi (Oʻzbekiston, 2022—2026-yillardagi hujjatlar)
 - Dalil darajasi: B
@@ -121,7 +121,7 @@ Bu band Oʻzbekistonda mavjud boʻlmagan institutga tegishli edi: bizda fuqaroni
 
 ### 15. Aksiyalarni tez-tez oldi-sotdi qilmang
 <!-- teglar: pul=0 vaqt=kam iroda=biroz qaytim=katta olcham=pul -->
-- Sarf: nol; faqat "yangilikni koʻrdim — darrov savdo qilay" degan turtkini tiyish kerak
+- Sarf: Nol; faqat "yangilikni koʻrdim — darrov savdo qilay" degan turtkini tiyish kerak
 - Oddiy tilda: AQShda 66 ming hisobvaraq oʻrganilganda, eng koʻp savdo qilgan guruhning yillik daromadi 11,4% boʻlgan, oʻsha davrda bozorniki 17,9% edi. Yoʻqotilgan olti foizdan ortiq farqni deyarli butunlay savdo xarajatlari yegan — ikkala guruhning "yalpi" daromadi deyarli bir xil boʻlgan, farq har qoʻl tekkizganda tushgan.
 - Qaytimi: AQShdagi diskont-brokerning 66 465 ta uy xoʻjaligi hisobvaragʻi (1991—1996) boʻyicha tadqiqot: eng koʻp savdo qilgan guruhda yillik daromad 11,4%, oʻsha davrda bozor 17,9%, oʻrtacha uy xoʻjaligi 16,4%; oʻrtacha yillik aylanma 75%. Koʻp va kam savdo qilgan guruhlarning yalpi daromadi orasidagi farq juda kichik — tafovut asosan savdo xarajatlaridan kelib chiqqan (AQSh, 1991—1996-yillar)
 - Dalil darajasi: A
@@ -130,7 +130,7 @@ Bu band Oʻzbekistonda mavjud boʻlmagan institutga tegishli edi: bizda fuqaroni
 
 ### 16. Qarz olib investitsiya qilmang, "yelka" (kredit) ishlatmang, tushunmagan narsangizni sotib olmang
 <!-- teglar: pul=0 vaqt=kam iroda=biroz qaytim=katta olcham=pul -->
-- Sarf: nol; bozor koʻtarilayotganda "biroz qarz olib koʻproq ishlab olay" degan vasvasaga chidash kerak
+- Sarf: Nol; bozor koʻtarilayotganda "biroz qarz olib koʻproq ishlab olay" degan vasvasaga chidash kerak
 - Oddiy tilda: qarzga olingan pul bilan sotib olsangiz, narx tushib garov darajasidan pastga oʻtganda va qoʻshimcha pul topa olmaganingizda pozitsiya majburan yopiladi: "qogʻozdagi" zarar oʻsha zahoti haqiqiy zararga aylanadi va "koʻtarilishini kutaman" degan imkoniyat ham qolmaydi. Yevropa nazorat organining maʼlumotiga koʻra, yelka bilan savdo qiladigan chakana mijoz hisobvaraqlarining 74—89 foizi pul yoʻqotadi.
 - Qaytimi: yelka zararni kattalashtiradi — qarz hisobiga olingan aktiv qiymati garov chegarasidan pastga tushsa va qoʻshimcha taʼminot kiritilmasa, pozitsiya majburan yopiladi. Yevropa qimmatli qogʻozlar va bozorlar boshqarmasi (ESMA) milliy nazorat organlari tahliliga tayanib, farq shartnomalari (CFD) bilan savdo qiladigan chakana hisobvaraqlarning 74—89 foizi pul yoʻqotishini, mijoz boshiga oʻrtacha zarar 1 600 yevrodan 29 000 yevrogacha yetishini aniqladi va shu sababli chakana mijozlar uchun yelkani cheklab, binar opsionlarni umuman taqiqladi (Yevropa Ittifoqi, 2018-yil)
 - Dalil darajasi: B
@@ -148,7 +148,7 @@ Bu band Oʻzbekistonda mavjud boʻlmagan institutga tegishli edi: bizda fuqaroni
 
 ### 18. Bir turdagi fondlar ichidan haqi pastrogʻini tanlang
 <!-- teglar: pul=0 vaqt=kam iroda=yoq qaytim=katta olcham=pul -->
-- Sarf: nol; sotib olishdan oldin "boshqaruv haqi + saqlash haqi + sotuv xizmati haqi" qatorlariga bir marta koʻz yugurtirish
+- Sarf: Nol; sotib olishdan oldin "boshqaruv haqi + saqlash haqi + sotuv xizmati haqi" qatorlariga bir marta koʻz yugurtirish
 - Oddiy tilda: yillik haq 1 foiz punktga yuqori boʻlsa, 20 yildan keyin qoʻlingizga ~18% kam, 30 yildan keyin ~26% kam tegadi. Bir turdagi fondlar ichida haqi pastrogʻini tanlash — bu ishdagi yagona oldindan aniq bilsa boʻladigan oʻzgaruvchi.
 - Qaytimi: haq farqi murakkab foiz boʻyicha yeyiladi: yillik haq 1 foiz punktga yuqori boʻlsa, 20 yildan keyingi yakuniy summa 0,99^20 ≈ 18,2% kam, 30 yildan keyin ~26% kam boʻladi
 - Dalil darajasi: C
@@ -157,7 +157,7 @@ Bu band Oʻzbekistonda mavjud boʻlmagan institutga tegishli edi: bizda fuqaroni
 
 ### 19. Pulni bitta aksiyaga, bitta platformaga, bitta uyga tikmang
 <!-- teglar: pul=0 vaqt=kam iroda=biroz qaytim=katta olcham=pul -->
-- Sarf: nol; "eng koʻp daromad keltiradiganini aynan topa olmayman" degan haqiqatga koʻnish
+- Sarf: Nol; "eng koʻp daromad keltiradiganini aynan topa olmayman" degan haqiqatga koʻnish
 - Oddiy tilda: bir necha aktiv bir vaqtda bir xil koʻtarilib-tushmasa, pulni ajratib qoʻyish kutilayotgan daromadni kamaytirmagan holda tebranishni pasaytiradi. Aksincha, pul butunlay bitta aksiyada, bitta platformada yoki bitta uyda boʻlsa, oʻsha bittasi yiqilsa — hammasi yiqilgan boʻladi.
 - Qaytimi: bir necha aktiv toʻliq bir xil harakat qilmasa, pulni ajratib qoʻyganda kutilayotgan daromad oʻzgarmaydi, tebranish esa kamayadi — bu Markowitz 1952-yilda taklif qilgan va keyingi oʻn yilliklarda qoʻllanib kelingan portfel tanlashning asosiy xulosasi; aksincha, pul bitta aksiyada yoki bitta platformada boʻlsa, oʻsha aktivning dispersiyasi sizning butun dispersiyangizga aylanadi va yiqilganda hech qanday qoplama qolmaydi
 - Dalil darajasi: B
@@ -175,7 +175,7 @@ Bu band Oʻzbekistonda mavjud boʻlmagan institutga tegishli edi: bizda fuqaroni
 
 ### 21. Sport zaliga bir martalik yoki qisqa muddatli toʻlov qiling — bir yildan ortiq muntazam yurgan boʻlsangizgina yillik abonement oling
 <!-- teglar: pul=kam vaqt=kam iroda=yoq qaytim=orta olcham=pul -->
-- Sarf: bir martalik narx abonementning oʻrtacha narxidan qimmat; oʻzingizning haqiqiy borish chastotangizni halol baholash kerak
+- Sarf: Bir martalik narx abonementning oʻrtacha narxidan qimmat; oʻzingizning haqiqiy borish chastotangizni halol baholash kerak
 - Oddiy tilda: AQShdagi uch yillik kuzatuvda oyiga 70 dollardan qimmat shartnoma tanlagan aʼzolar oʻrtacha oyiga atigi 4,3 marta borgan — bu har tashrif uchun 17 dollardan ortiq, holbuki 10 ta tashrifli karta bilan bitta tashrif 10 dollarga tushardi; ular aʼzolik davomida oʻrtacha 600 dollar ortiqcha toʻlagan. Bir yildan ortiq muntazam borib turganingizni isbotlay olmasangiz, bir martalik yoki qisqa muddatli toʻlov arzonroq.
 - Qaytimi: AQShdagi 3 ta sport klubining 7 752 aʼzosi boʻyicha 3 yillik maʼlumotlar tadqiqoti: oylik toʻlovi 70 dollardan yuqori shartnomani tanlaganlar oʻrtacha oyiga 4,3 marta kelgan, yaʼni har tashrif 17 dollardan qimmatga tushgan, vaholanki 10 tashrifli karta bilan tashrif narxi 10 dollar edi; bu mijozlar aʼzolik davrida oʻrtacha 600 dollar ortiqcha toʻlagan. Oylik toʻlaydiganlar orasida bir yildan keyin ham aʼzolikni bekor qilmaganlar ulushi yillik toʻlaganlarnikidan 17% yuqori chiqqan (AQSh, uch yillik panel maʼlumotlari)
 - Dalil darajasi: B
@@ -193,7 +193,7 @@ Bu band Oʻzbekistonda mavjud boʻlmagan institutga tegishli edi: bizda fuqaroni
 
 ### 23. Katta va shoshilinch boʻlmagan xaridga 24 soatlik «sovish muddati» qoʻying, onlayn xaridda qaytarish huquqingizni biling
 <!-- teglar: pul=0 vaqt=kam iroda=biroz qaytim=orta olcham=pul -->
-- Sarf: xohishni bir kunga kechiktirish; tovarni qaytarish yoki almashtirishda yetkazib berish xarajati odatda oʻz choʻntagingizdan
+- Sarf: Xohishni bir kunga kechiktirish; tovarni qaytarish yoki almashtirishda yetkazib berish xarajati odatda oʻz choʻntagingizdan
 - Oddiy tilda: sovish muddati ertasi kuni kerak boʻlmay qoladigan narsalarning pulini tejaydi. Oʻzbekistonda esa foydalanilmagan, maqbul sifatli noozuqaviy tovarni sotib olgan kundan boshlab 10 kalendar kun ichida almashtirib olish huquqingiz bor — tovar koʻrinishi, isteʼmol xususiyatlari, fabrika yorliqlari saqlangan boʻlsa. Shunday tovar sotuvda boʻlmasa, pul tovoni beriladi va u qanday shaklda toʻlagan boʻlsangiz, oʻsha shaklda qaytariladi: karta bilan toʻlagan boʻlsangiz — kartaga. Ozuqa mahsulotlari uchun muddat atigi 24 soat, almashtirilmaydigan tovarlarning alohida roʻyxati esa hukumat qarori bilan tasdiqlangan.
 - Qaytimi: isteʼmolchi maqbul sifatli noozuqaviy tovarni harid qilgan kunidan eʼtiboran oʻn kun ichida uni sotib olingan joydagi sotuvchidan aynan shunday tovarga almashtirib olishga haqli; shunday tovar boʻlmasa — pul tovoni oladi. Tovardan foydalanilmagan, u shikastlanmagan, qadogʻi bilan qaytarilgan, isteʼmol xususiyatlari saqlangan va aynan shu sotuvchidan olingani tasdiqlansa, almashtirish yoki qaytarib olish talabi qanoatlantirilishi lozim; toʻlangan pul summasi haq toʻlash qanday shaklda amalga oshirilgan boʻlsa, xuddi shunday shaklda qaytariladi. Ozuqa mahsulotlari uchun muddat — 24 soat. Almashtirilmaydigan tovarlar roʻyxati (dori va tibbiy buyumlar, shaxsiy gigiena predmetlari, parfyumeriya-kosmetika, metr bilan sotiladigan matolar va boshqalar) chakana savdo qoidalari bilan birga tasdiqlangan
 - Dalil darajasi: C
@@ -202,7 +202,7 @@ Bu band Oʻzbekistonda mavjud boʻlmagan institutga tegishli edi: bizda fuqaroni
 
 ### 24. «Chizib tashlangan narx» va katta chegirma uchun zaxira qilib olmang
 <!-- teglar: pul=0 vaqt=kam iroda=biroz qaytim=orta olcham=pul -->
-- Sarf: baʼzi haqiqiy chegirmalardan voz kechasiz; doim oladigan tovarlaringizning odatdagi narxini eslab yurish kerak
+- Sarf: Baʼzi haqiqiy chegirmalardan voz kechasiz; doim oladigan tovarlaringizning odatdagi narxini eslab yurish kerak
 - Oddiy tilda: odam bir narsaning qimmat yoki arzonligini eng avval koʻrgan raqamga qarab baholaydi, keyin qancha tuzatsa ham yetarli boʻlmaydi. Shuning uchun «asl narxi 999 000, hozir 499 000» degan yozuv arzonlik darajasini tizimli ravishda oshirib koʻrsatadi. Oʻzbekistonda «asl narx» qanday hisoblanishi (masalan, aksiyadan oldingi shu doʻkondagi eng past narx boʻlishi) boʻyicha aniq meʼyor yoʻq — lekin adashtiradigan reklamaning oʻzi taqiqlanadi. Amalda buni isbotlash sizning zimmangizda qoladi, shuning uchun eng ishonchli himoya — chegirmaga emas, oʻzingiz bilgan odatdagi narxga qarash.
 - Qaytimi: baho eng avval koʻrilgan raqamga bogʻlanadi va keyingi tuzatish odatda yetarli boʻlmaydi, shuning uchun «asl narxi 999 000, hozir 499 000» koʻrinishidagi taqdimot arzonlik darajasi haqidagi bahoingizni tizimli ravishda koʻtaradi (laboratoriya tajribalari). Oʻzbekistonda ishonchsiz (insofsiz, bila turib yolgʻon) reklama — aniqmaslik, ikki maʼnolilik, boʻrttirish, muhim maʼlumotni yashirish yoki tarqatish vaqti, joyi va usuliga doir talablarni buzish natijasida reklama foydalanuvchilarini adashtiradigan yoki adashtirishi mumkin boʻlgan reklama — nomuvofiq reklama hisoblanadi va taqiqlanadi
 - Dalil darajasi: C
@@ -211,7 +211,7 @@ Bu band Oʻzbekistonda mavjud boʻlmagan institutga tegishli edi: bizda fuqaroni
 
 ### 25. Sugʻurtada avval xavf sugʻurtasini oling, «qaytariladigan» va «jamgʻariladigan» qismini kafolatlanmagan deb hisoblang
 <!-- teglar: pul=0 vaqt=kam iroda=biroz qaytim=katta olcham=pul -->
-- Sarf: xavf sugʻurtasining muddati tugaganda pul qaytmaydi va psixologik jihatdan «bekorga ketgandek» tuyuladi; jamgʻarishni oʻzingiz tashkil qilishingizga toʻgʻri keladi
+- Sarf: Xavf sugʻurtasining muddati tugaganda pul qaytmaydi va psixologik jihatdan «bekorga ketgandek» tuyuladi; jamgʻarishni oʻzingiz tashkil qilishingizga toʻgʻri keladi
 - Oddiy tilda: sugʻurtaning vazifasi — sizni sindiradigan hodisadan himoya qilish, pul koʻpaytirish emas. «Muddat oxirida pulingiz qaytadi» yoki «foyda ham qoʻshiladi» deyilgan polislarda ortiqcha toʻlanadigan badal aslida sugʻurta tashkilotiga ishonib topshirilgan jamgʻarma: uning daromadi shartnomada qanday yozilgan boʻlsa, oʻshancha, olib chiqish esa qiyin. Shuning uchun avval arzon xavf sugʻurtasini oling, jamgʻarmani alohida saqlang. Shartnomani imzolashdan oldin qaysi raqam kafolatlangan, qaysi biri «boʻlishi mumkin» ekanini yozma ravishda aniqlang.
 - Qaytimi: qonunga koʻra hayotni sugʻurta qilish sugʻurta summalarining sugʻurta shartnomasida koʻrsatib oʻtilgan oshirilgan foizni oʻz ichiga oluvchi bir martalik yoki davriy toʻlovlarini qamrab oladi — yaʼni sizga nima tegishi shartnoma matnidan kelib chiqadi; sugʻurtaning umumiy shartlari va tartibi esa sugʻurta qoidalari bilan belgilanadi
 - Dalil darajasi: C
@@ -220,7 +220,7 @@ Bu band Oʻzbekistonda mavjud boʻlmagan institutga tegishli edi: bizda fuqaroni
 
 ### 26. Majburiy avtosugʻurta bilan cheklanmang: limitdan ortigʻi sizning choʻntagingizdan chiqadi
 <!-- teglar: pul=kop vaqt=kam iroda=yoq qaytim=katta olcham=pul -->
-- Sarf: majburiy polis tarifi (Vazirlar Mahkamasi belgilaydi, har yili oʻzgaradi) ustiga ixtiyoriy qoʻshimcha javobgarlik sugʻurtasi uchun yiliga qoʻshimcha toʻlov
+- Sarf: Majburiy polis tarifi (Vazirlar Mahkamasi belgilaydi, har yili oʻzgaradi) ustiga ixtiyoriy qoʻshimcha javobgarlik sugʻurtasi uchun yiliga qoʻshimcha toʻlov
 - Oddiy tilda: Oʻzbekistonda transport vositasi egasi fuqarolik javobgarligini sugʻurta qilishi shart. Lekin sugʻurta summasi cheklangan va u hayot-sogʻliq hamda mol-mulk zarariga alohida ulushlarda boʻlingan — odamni urib yuborsangiz, bu chegara juda tez tugaydi. Bir hodisada bir nechta jabrlanuvchi boʻlsa, toʻlov ular orasida ulushga qarab boʻlinadi. Chegaradan yuqorisi uchun sizning oʻzingiz javob berasiz: avtomobil — yuqori xavf manbai, uning egasi yetkazilgan zararni aybi boʻlmasa ham qoplaydi (faqat yengib boʻlmaydigan kuch yoki jabrlanuvchining qasddan qilgan harakati bundan mustasno).
 - Qaytimi: majburiy sugʻurta summasi Vazirlar Mahkamasi qarori bilan belgilanadi va amaldagi tahrirda 80 million soʻmni tashkil etadi. Jabrlanuvchining hayoti yoki sogʻligʻiga zarar yetkazilganda sugʻurta tovoni sugʻurta summasining 65 foizidan, mol-mulkiga zarar yetkazilganda 35 foizidan oshmaydi; bir necha jabrlanuvchi boʻlganda toʻlov har birining ulushiga mutanosib ravishda amalga oshiriladi. Limitdan ortiqcha zarar sugʻurta hisobidan qoplanmaydi — u Fuqarolik kodeksining umumiy qoidalari boʻyicha zarar yetkazgan tomondan, yuqori xavf manbai egasidan toʻliq hajmda undiriladi
 - Dalil darajasi: A
@@ -229,7 +229,7 @@ Bu band Oʻzbekistonda mavjud boʻlmagan institutga tegishli edi: bizda fuqaroni
 
 ### 27. Avval 3–6 oylik turmush xarajati miqdorida zaxira pul yigʻing, uni istalgan vaqtda olsa boʻladigan joyda saqlang
 <!-- teglar: pul=0 vaqt=kam iroda=biroz qaytim=katta olcham=pul -->
-- Sarf: pul ketmaydi, lekin bu mablagʻ yuqori daromaddan voz kechadi — u talab qilib olinadigan hisobda yoki istalgan vaqtda yechib olinadigan omonatda turishi kerak
+- Sarf: Pul ketmaydi, lekin bu mablagʻ yuqori daromaddan voz kechadi — u talab qilib olinadigan hisobda yoki istalgan vaqtda yechib olinadigan omonatda turishi kerak
 - Oddiy tilda: 3–6 oylik turmush xarajatingiz istalgan vaqtda olinadigan joyda tursa, ishsiz qolganingizda yoki kasal boʻlganingizda qimmat isteʼmol krediti olishga ham, investitsiyani zarariga sotishga ham majbur boʻlmaysiz. Bankdagi pulingiz davlat kafolati ostida: bank tugatilsa, bir bankdagi bir omonatchiga 200 million soʻmgacha tovon toʻlanadi. Qonun kuchga kirgunga qadar ochilgan muddatli va jamgʻarma omonatlari esa summasidan qatʼi nazar toʻliq kafolatlangan. Kafolat faqat bank tugatilgan holatda ishlaydi — qolgan paytda bank oʻz majburiyatlarini shartnoma boʻyicha bajaraveradi.
 - Qaytimi: zaxira puli boʻlsa, ishsizlik yoki kasallik paytida qarz olish (isteʼmol krediti va minimal toʻlovning yillik stavkalari — shu bobning 7-bandida) yoki investitsiyani zarariga sotish shart emas. Banklardagi omonatlar kafolat obyekti hisoblanadi va kafolat hodisasi yuz berganda Omonatlarni kafolatlash agentligi tovon toʻlaydi; kafolatlangan miqdor — bir bankdagi bir omonatchi uchun 200 million soʻm. 200 million soʻmlik cheklov bankning omonatchi oldidagi qolgan majburiyatini bekor qilmaydi — qolgan summani omonatchi bankdan talab qilishda davom etadi
 - Dalil darajasi: C
@@ -238,7 +238,7 @@ Bu band Oʻzbekistonda mavjud boʻlmagan institutga tegishli edi: bizda fuqaroni
 
 ### 28. Kreditni muddatidan oldin yopishdan avval bir marta hisob-kitob qiling, tuygʻuga ishonmang
 <!-- teglar: pul=0 vaqt=kam iroda=yoq qaytim=katta olcham=pul -->
-- Sarf: yarim soatlik hisob; oʻzingiz haqiqatan ola oladigan barqaror sof daromad stavkasini halol baholash kerak
+- Sarf: Yarim soatlik hisob; oʻzingiz haqiqatan ola oladigan barqaror sof daromad stavkasini halol baholash kerak
 - Oddiy tilda: kreditni muddatidan oldin yopish sizga aniq daromad beradi va uning kattaligi kredit stavkangizga teng. Demak, javob berish kerak boʻlgan savol bitta: uzoq muddat davomida barqaror ola oladigan sof daromadingiz kredit stavkasidan yuqorimi? Yuqori boʻlsa — yopmang; past yoki noaniq boʻlsa — yoping. Qonun sizga bu huquqni beradi: kreditni muddatidan ilgari qaytarishingiz mumkin va foizlar kreditdan haqiqatda foydalangan muddat uchungina hisoblanadi. Bank ilovasidagi hisob-kitob vositasi yoki bankdan olingan yangi jadval aniq raqamni koʻrsatadi.
 - Qaytimi: algoritm: shartnomangizdagi yillik foiz stavkasi r va muqobil investitsiyaning soliqdan keyingi barqaror yillik daromadi g. Muddatidan oldin qaytarishning aniq daromad stavkasi — bu r. Agar g barqaror ravishda r dan yuqori boʻlsa, pulni investitsiyada qoldirish foydali; g past boʻlsa yoki noaniq boʻlsa, muddatidan oldin qaytarish xavfsiz r ni qulflaydi. Qonunga koʻra isteʼmolchi olingan isteʼmol krediti summasini qaytarishni va unga hisoblangan foizlarni toʻlashni muddatidan ilgari amalga oshirishga haqli, bunda foizlar kreditdan haqiqatda foydalanilgan muddat uchun toʻlanadi. Yoʻnaltiruvchi raqam sifatida: Markaziy bankning asosiy stavkasi 2026-yil 29-iyul holatiga yillik 14 foiz darajasida saqlab qolingan; ipoteka stavkasi esa bank va dasturga qarab shartnomada belgilanadi
 - Dalil darajasi: C
@@ -247,7 +247,7 @@ Bu band Oʻzbekistonda mavjud boʻlmagan institutga tegishli edi: bizda fuqaroni
 
 ### 29. Onlayn xaridda blogerga va «yaxshi sharh»larga emas, shartnoma shartlari va qonunga qarang
 <!-- teglar: pul=0 vaqt=kam iroda=biroz qaytim=orta olcham=pul -->
-- Sarf: pul ketmaydi; buyurtma berishdan oldin qaytarish shartlarini oʻqishga bir necha daqiqa, tovarni olgach buyurtma, chek, eʼlon skrinshoti va yozishmalarni saqlashga yana bir necha daqiqa
+- Sarf: Pul ketmaydi; buyurtma berishdan oldin qaytarish shartlarini oʻqishga bir necha daqiqa, tovarni olgach buyurtma, chek, eʼlon skrinshoti va yozishmalarni saqlashga yana bir necha daqiqa
 - Oddiy tilda: onlayn savdoda sizni himoya qiladigan narsa — reklama emas, qonun va yozma dalil. Sotuvchi tovar haqida toʻliq axborot berishi shart; notoʻgʻri yoki toʻliq boʻlmagan axborot tufayli kerak boʻlmagan narsani olgan boʻlsangiz, shartnomani bekor qilib, zararingizni qoplatishingiz mumkin. Tovar nuqsonli chiqsa — yetti kun ichida almashtirish, tekshirish kerak boʻlsa yigirma kun ichida; yoki nuqsonni bepul tuzatish, narxni kamaytirish, pulni qaytarish talablaridan birini tanlaysiz. Pul qaytarish kechiktirilsa, har bir kechiktirilgan kun uchun penya hisoblanadi. Shuning uchun har bir bosqichda dalil toʻplang: eʼlon sahifasi, vaʼda qilingan shartlar, chek va yozishmalar.
 - Qaytimi: nuqsonli tovar sotilganda isteʼmolchi oʻz xohishiga koʻra almashtirish, nuqsonni bepul bartaraf etish, xarid narxini mutanosib kamaytirish yoki shartnomani bekor qilib pulini qaytarib olishni talab qilishga haqli; sotuvchi nuqsonli tovarni yetti kunlik muddatda, qoʻshimcha tekshirish zarur boʻlganda yigirma kunlik muddatda almashtirib berishi shart. Elektron tijoratda ham sotuvchi nuqsonli tovarni yetti kun ichida almashtiradi, aynan shunday tovar boʻlmasa — bir oy ichida; qaytarilishi lozim boʻlgan pul oʻz vaqtida qaytarilmasa, sotuvchi har bir kechiktirilgan kun uchun summaning bir foizi miqdorida neustoyka (penya) toʻlaydi va penya asosiy qarz summasidan oshmaydi. Sotuvchi tovar (ish, xizmat) toʻgʻrisida toʻliq axborot berishi shart; notoʻliq yoki ishonchsiz axborot tufayli kerakli xususiyatga ega boʻlmagan tovar olingan boʻlsa, isteʼmolchi shartnomani bekor qilishni va zararni qoplashni talab qila oladi. Huquqi buzilganligi tufayli yetkazilgan maʼnaviy zararni aybdor shaxs qoplaydi, uning miqdorini sud belgilaydi
 - Dalil darajasi: A
@@ -265,7 +265,7 @@ Bu band Oʻzbekistonda mavjud boʻlmagan institutga tegishli edi: bizda fuqaroni
 
 ### 31. Katta texnika olishdan oldin muvofiqlik sertifikatini, raqamli tamgʻani va energiya samaradorligi sinfini tekshiring
 <!-- teglar: pul=0 vaqt=kam iroda=yoq qaytim=orta olcham=pul -->
-- Sarf: pul ketmaydi; bir necha daqiqa — sertifikat reyestrini, qutidagi tamgʻani va energiya yorligʻini koʻrib chiqish
+- Sarf: Pul ketmaydi; bir necha daqiqa — sertifikat reyestrini, qutidagi tamgʻani va energiya yorligʻini koʻrib chiqish
 - Oddiy tilda: uchta oddiy tekshiruv koʻp muammodan saqlaydi. Birinchisi — muvofiqlik sertifikati yoki deklaratsiyasi: ular reyestrda roʻyxatdan oʻtkaziladi, sotuvchidan hujjat raqamini soʻrang. Ikkinchisi — muvofiqlik belgisi: majburiy tasdiqlashdan oʻtmagan mahsulotni bu belgi bilan tamgʻalashga yoʻl qoʻyilmaydi. Uchinchisi — maishiy texnikaning majburiy raqamli tamgʻasi (ASL BELGISI) va energiya samaradorligi sinfi; past sinfdagi maishiy elektr priborlarini mamlakatga olib kirishning oʻzi taqiqlangan, shuning uchun yorligʻi yoʻq tovar allaqachon shubhali.
 - Qaytimi: muvofiqlik sertifikati va muvofiqlik toʻgʻrisidagi deklaratsiyalar reyestrda roʻyxatdan oʻtkazilishi lozim; muvofiqlik belgisi obyektning texnik jihatdan tartibga solish sohasidagi meʼyoriy hujjatlar talablariga muvofiqligini tasdiqlaydi va majburiy tasdiqlashdan oʻtmagan mahsulotni bu belgi bilan tamgʻalashga yoʻl qoʻyilmaydi; xavf darajasi yuqori mahsulot davlat roʻyxatidan oʻtkaziladi. Maishiy texnika mahsulotlari majburiy raqamli markirovkalanadi. Energiya samaradorligi darajasini belgilash akkreditatsiya qilingan organlarda sertifikatlashtirishda majburiy hisoblanadi; 2022-yil 1-yanvardan energiya samaradorligi «B» va undan quyi toifadagi energiya sarflovchi maishiy elektr priborlarini Oʻzbekiston hududiga olib kirish taqiqlangan
 - Dalil darajasi: B

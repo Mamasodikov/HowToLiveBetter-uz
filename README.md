@@ -4,7 +4,7 @@
 
 Eng kam pul, vaqt va kuch evaziga eng koʻp umr, pul va shaxsiy erkinlik.
 
-Uzoq umr va kasallikning oldini olish, baxtsiz hodisa va ilk yordam, pulni tejash va moliya, firibgarlik va qonun chegaralari, ishsizlik davri, tadbirkorlik xavflari, oila, chet el va koʻnikmalar.<br>
+Uzoq umr va kasallikning oldini olish, baxtsiz hodisa va tez yordam, pulni tejash va moliya, firibgarlik va qonun chegaralari, ishsizlik davri, tadbirkorlik xavflari, oila, chet el va koʻnikmalar.<br>
 522 ta maslahat — har birida nima sarflanishi, nima qaytishi va dalili qanchalik kuchli ekani yozilgan. Manba sifatida faqat ilmiy jurnal maqolalari va rasmiy hujjatlar keltirilgan.
 
 **[Onlayn qidiruv sahifasini oching](https://mamasodikov.github.io/HowToLiveBetter-uz/)** · [Mundarija](#bu-kitob-qanday-savollarga-javob-beradi) · [Atamalar](#raqamlarni-tushunish)
@@ -13,7 +13,7 @@ Uzoq umr va kasallikning oldini olish, baxtsiz hodisa va ilk yordam, pulni tejas
 
 ---
 
-> **Bu qanday kitob.** Bu — xitoy tilidagi ochiq (Unlicense, public domain) [「高性价比人生指南」](https://github.com/eternity4719/HowToLiveBetter) loyihasining oʻzbek tiliga tarjimasi va Oʻzbekistonga moslashtirilgan koʻrinishi. Tibbiyot, ovqatlanish, ilk yordam va psixologiyaga oid bandlar asl xalqaro manbalari (NEJM, Lancet, Cochrane, JSST va boshqalar) bilan tarjima qilingan. Qonun, sugʻurta, nafaqa, litsenziya va davlat xizmatlariga oid bandlar esa Oʻzbekiston qonunchiligiga koʻra qaytadan yozilgan va [lex.uz](https://lex.uz/) hamda rasmiy davlat manbalariga tayangan.
+> **Bu qanday kitob.** Bu — xitoy tilidagi ochiq (Unlicense, public domain) [「高性价比人生指南」](https://github.com/eternity4719/HowToLiveBetter) loyihasining oʻzbek tiliga tarjimasi va Oʻzbekistonga moslashtirilgan koʻrinishi. Tibbiyot, ovqatlanish, tez yordam va psixologiyaga oid bandlar asl xalqaro manbalari (NEJM, Lancet, Cochrane, JSST va boshqalar) bilan tarjima qilingan. Qonun, sugʻurta, nafaqa, litsenziya va davlat xizmatlariga oid bandlar esa Oʻzbekiston qonunchiligiga koʻra qaytadan yozilgan va [lex.uz](https://lex.uz/) hamda rasmiy davlat manbalariga tayangan.
 >
 > ⚠️ Bu kitob tibbiy yoki yuridik maslahat emas — batafsil [Cheklovlar va ogohlantirish](#cheklovlar-va-ogohlantirish) boʻlimida.
 
@@ -70,7 +70,7 @@ Har bir band shunday koʻrinishda boʻladi:
 ```markdown
 ### 5. Uydagi osh tuzini past natriyli (kaliyli) tuzga almashtiring
 <!-- teglar: pul=kam vaqt=kam iroda=yoq qaytim=katta olcham=umr -->
-- Sarf: har bir paketi bir necha ming soʻmga qimmat
+- Sarf: Har bir paketi bir necha ming soʻmga qimmat
 - Oddiy tilda: yigirma ming kishi qatnashgan tasodifiy tadqiqotda uydagi tuzni past natriyli tuzga almashtirgan odamlarda besh yil ichida oʻlim ehtimoli taxminan 12% past, insult ehtimoli taxminan 14% past chiqdi. Bu tasodifiy guruhlash orqali olingan natija, shuning uchun oddiy kuzatuv maʼlumotlaridan ishonchliroq.
 - Qaytimi: insult 14% kamayadi, yurak-qon tomir hodisalari 13% kamayadi, umumiy oʻlim 12% kamayadi
 - Dalil darajasi: A
@@ -98,7 +98,7 @@ Har bir maslahat ikkita savolga javob beradi: nima sarflanadi (pul / vaqt / kuch
 
 Bosqichlar bir-biriga qoʻshib hisoblanmaydi; toʻrtinchi bosqich haqida yozilganda foyda ham, xavf ham birga yoziladi.
 
-Ilk yordam haqidagi bobni ham shu koʻz bilan oʻqing. Xitoyda qayd etilgan 38 227 ta shifoxonadan tashqari yurak toʻxtashi holatining 79.2% uyning ichida sodir boʻlgan — demak, koʻkrak qafasini bosishni oʻrganish avvalo oʻz yaqiningizga yordam berish uchun kerak. «Choʻkayotgan odamni koʻrsangiz oʻzingiz suvga tushmang», «mushtlashuvga qoʻl aralashtirmang» kabi qoidalar esa oʻz-oʻzini himoya qoidalari: ular sizni guvohdan ikkinchi jabrlanuvchiga aylanib qolishdan saqlaydi. Notanish odamga qoʻl choʻzish-choʻzmaslik — oʻzingiz qaror qiladigan masala; bandlarda javobgarlikdan ozod qiluvchi qoidalar, oʻzingizni asrash harakatlari va xavf tomonlari ochiq yoziladi, lekin buni «albatta qilish shart» degan xulosaga aylantirib bermaymiz.
+Tez yordam haqidagi bobni ham shu koʻz bilan oʻqing. Xitoyda qayd etilgan 38 227 ta shifoxonadan tashqari yurak toʻxtashi holatining 79.2% uyning ichida sodir boʻlgan — demak, koʻkrak qafasini bosishni oʻrganish avvalo oʻz yaqiningizga yordam berish uchun kerak. «Choʻkayotgan odamni koʻrsangiz oʻzingiz suvga tushmang», «mushtlashuvga qoʻl aralashtirmang» kabi qoidalar esa oʻz-oʻzini himoya qoidalari: ular sizni guvohdan ikkinchi jabrlanuvchiga aylanib qolishdan saqlaydi. Notanish odamga qoʻl choʻzish-choʻzmaslik — oʻzingiz qaror qiladigan masala; bandlarda javobgarlikdan ozod qiluvchi qoidalar, oʻzingizni asrash harakatlari va xavf tomonlari ochiq yoziladi, lekin buni «albatta qilish shart» degan xulosaga aylantirib bermaymiz.
 
 Oʻlim koʻrsatkichlari, vaqt va kuch, pul hamda huquqiy oqibatlar alohida oʻlchovlarda beriladi — ular bir-biriga aylantirilmaydi. Shu toʻrt resurs qidiruv sahifasidagi toʻrtta «nima qaytadi» oʻlchoviga mos keladi va ular oʻzaro taqqoslanmaydi.
 

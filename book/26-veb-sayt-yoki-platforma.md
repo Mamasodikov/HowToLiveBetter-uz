@@ -15,7 +15,7 @@ Bu bob bitta savolga javob beradi: siz qilmoqchi boʻlgan veb-sayt yoki ilova hu
 
 ### 2. Pul oladigan sayt uchun operator maqomi va roʻyxatga olish talab etiladi; bepul sayt uchun bunday litsenziya shart emas
 <!-- teglar: pul=kop vaqt=kop iroda=yoq qaytim=katta olcham=erkinlik -->
-- Sarf: veb-saytning oʻzi uchun umumiy «pullik sayt litsenziyasi» Oʻzbekistonda yoʻq; elektron tijorat bilan shugʻullansangiz — kompaniya yoki YaTT sifatida roʻyxatdan oʻtish va elektron tijorat subyektlari reyestriga kirish talab qilinadi
+- Sarf: Veb-saytning oʻzi uchun umumiy «pullik sayt litsenziyasi» Oʻzbekistonda yoʻq; elektron tijorat bilan shugʻullansangiz — kompaniya yoki YaTT sifatida roʻyxatdan oʻtish va elektron tijorat subyektlari reyestriga kirish talab qilinadi
 - Oddiy tilda: Xitoydagidek «pul oladigan har qanday sayt alohida telekom litsenziyasi oladi» degan tartib Oʻzbekistonda yoʻq — buni izlab vaqt sarflamang. Ammo agar saytingiz orqali tovar/xizmat sotilsa yoki savdo bogʻlansa, siz elektron tijorat operatori boʻlasiz: bu faoliyat yuridik shaxs yoki yakka tartibdagi tadbirkor (YaTT) tomonidan yuritiladi va elektron tijorat subyektlari reyestrida qayd etiladi. Vakolatli organ — Raqamli texnologiyalar vazirligi
 - Qaytimi: qonunga koʻra elektron savdo maydonchasi operatori — xaridorni identifikatsiyalash, toʻlovni qabul qilish, ofertalar va bitimlar toʻgʻrisidagi maʼlumotlarni saqlashni hisobga olgan holda tovar (ish, xizmat) sotish imkonini beruvchi yuridik shaxs yoki YaTT; u umumiy operator majburiyatlaridan tashqari maxsus majburiyatlarni ham bajaradi (12-, 13-moddalar) (butun mamlakat)
 - Dalil darajasi: B
@@ -51,7 +51,7 @@ Bu bob bitta savolga javob beradi: siz qilmoqchi boʻlgan veb-sayt yoki ilova hu
 
 ### 6. Foydalanuvchi joylagan kontent uchun javob berasiz: taqiqlangan maʼlumotni darhol toʻxtating va yozib qoldiring
 <!-- teglar: pul=kam vaqt=kop iroda=katta qaytim=katta olcham=erkinlik -->
-- Sarf: kontent nazorati (moderatsiya) — platformaning eng katta uzoq muddatli xarajati; shikoyat/murojaat kanali va choralar tarixi izini saqlang
+- Sarf: Kontent nazorati (moderatsiya) — platformaning eng katta uzoq muddatli xarajati; shikoyat/murojaat kanali va choralar tarixi izini saqlang
 - Oddiy tilda: foydalanuvchi joylagan narsani platforma boshqaradi. Sayt yoki sahifa egasi, jumladan bloger, oʻzining resursida taqiqlangan maʼlumotni (zoʻravonlik va shafqatsizlikni targʻib qilish, pornografiya, oʻz joniga qasd qilishga undash, konstitutsiyaviy tuzumga qarshi, terrorizm/ekstremizmni targʻib qiluvchi va h.k.) tarqatishga yoʻl qoʻymasligi shart. Bunday maʼlumot topilsa — tarqatishni toʻxtating, yozib qoldiring va vakolatli organga xabar bering. Moderatsiya kuchi eng katta doimiy xarajat boʻladi
 - Qaytimi: sayt/sahifa egasi (jumladan bloger) taqiqlangan ommaga oshkor maʼlumotni tarqatishga yoʻl qoʻymaydi; vakolatli organ taqiqlangan kontentli saytga kirishni cheklaydi; taqiqlangan kontentga asoslar 12-1-moddada sanab oʻtilgan (butun mamlakat)
 - Dalil darajasi: A
@@ -60,7 +60,7 @@ Bu bob bitta savolga javob beradi: siz qilmoqchi boʻlgan veb-sayt yoki ilova hu
 
 ### 7. Maʼlumot joylash, xabar almashish xizmati bersangiz, foydalanuvchi shaxsini aniqlash talab etilishi mumkin
 <!-- teglar: pul=kam vaqt=orta iroda=yoq qaytim=orta olcham=erkinlik -->
-- Sarf: identifikatsiya kanaliga (masalan telefon raqami orqali) ulanish; mahsulotni «orqa tizimda shaxs aniq, oldinda ixtiyoriy» tamoyili boʻyicha loyihalang
+- Sarf: Identifikatsiya kanaliga (masalan telefon raqami orqali) ulanish; mahsulotni «orqa tizimda shaxs aniq, oldinda ixtiyoriy» tamoyili boʻyicha loyihalang
 - Oddiy tilda: maʼlumot joylash yoki xabar almashish xizmatida foydalanuvchi shaxsini aniqlash (masalan, telefon raqami orqali) talab qilinishi mumkin. Mahsulotni orqa tizimda haqiqiy shaxs aniqlanadigan, foydalanuvchiga esa oldinda majburiy koʻrsatilmaydigan qilib tuzing. Shaxsiy maʼlumotlarni toʻplaganda «Shaxsga doir maʼlumotlar toʻgʻrisida»gi qonun talablariga (rozilik, Oʻzbekistonda saqlash) rioya qiling
 - Qaytimi: TEKSHIRILMAGAN — oʻzbek birlamchi manbasi topilmadi, mustaqil tasdiqlang
 - Dalil darajasi: C
@@ -96,7 +96,7 @@ Bu bob bitta savolga javob beradi: siz qilmoqchi boʻlgan veb-sayt yoki ilova hu
 
 ### 11. Serverni avval «uzilish»ga chiday olasizmi deb tanlang, keyin kim boshqaradi, eng oxirida narx solishtiring
 <!-- teglar: pul=kam vaqt=orta iroda=yoq qaytim=orta olcham=pul -->
-- Sarf: boshlangʻich VPS oyiga bir necha oʻn ming soʻm; haqiqiy trafikka chidaydigan bulutli server oyiga bir necha yuz mingdan bir necha million soʻmgacha; alohida serverni joylashtirish (colocation) yiliga bir necha million soʻmdan boshlanadi va temirni oʻzingiz sotib olasiz
+- Sarf: Boshlangʻich VPS oyiga bir necha oʻn ming soʻm; haqiqiy trafikka chidaydigan bulutli server oyiga bir necha yuz mingdan bir necha million soʻmgacha; alohida serverni joylashtirish (colocation) yiliga bir necha million soʻmdan boshlanadi va temirni oʻzingiz sotib olasiz
 - Oddiy tilda: Uch bosqichning farqi narxda emas, ish chatoq boʻlgan kuni qoʻlingizda nima borligida. Yirik bulut provayderlarida hujjatlar ochiq, nosozlikda eʼlon va zarar qoplash sharti bor; kichik provayder ikki barobar arzon boʻlishi mumkin, lekin haddan tashqari sotib yuborsa, gʻoyib boʻlsa yoki yuqori bogʻlanish uzilsa, arz qiladigan odamingiz boʻlmaydi. Alohida server joylashtirish faqat kanal va temir aniq arzonga tushsa va oʻzingizda uni boshqaradigan odam boʻlsagina foydali. Foydalanuvchi maʼlumoti yoʻq statik saytga oyiga bir necha oʻn ming soʻmlik VPS yetadi; roʻyxatdan oʻtish va toʻlov boʻlsa, elastik kengayadigan va zaxira nusxa (snapshot) oladigan bulutli serverni tanlang, zaxirani ikki joyda saqlang.
 - Qaytimi: Uch bosqichning farqi narxda emas, ish chatoq boʻlgan kuni qoʻlingizda nima borligida. Yirik provayderda hujjatlar oshkora, nosozlikda eʼlon va zarar qoplash sharti bor, odam topib gaplasha olasiz; kichik provayder narxni ikki barobar tushirishi mumkin, lekin haddan sotish, gʻoyib boʻlish yoki yuqori bogʻlanish uzilishida arz qiladigan tomon yoʻq — narx haqida gaplashishdan avval uning aloqa xizmati koʻrsatish litsenziyasi borligini tekshiring; colocation faqat kanal yoki temir aniq arzon boʻlib, oʻzingizda uni boshqaradigan odam boʻlgandagina foydali. Maʼlumotsiz statik saytga eng arzon VPS yetarli, foydalanuvchi roʻyxati va toʻlovi boʻlsa elastik kengayadigan, snapshot oladigan bulutli serverni oling, zaxirani kamida ikki joyda saqlang
 - Dalil darajasi: C

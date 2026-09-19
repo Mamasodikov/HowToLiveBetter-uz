@@ -89,7 +89,7 @@ Oʻzbekistonda tibbiy yordamning asosiy qoidalari «Fuqarolar sogʻligʻini saql
 
 ### 10. Nogironlikni davolanish tugagandan keyin belgilating — erta murojaat guruhni past baholatadi
 <!-- teglar: pul=kam vaqt=orta iroda=biroz qaytim=katta olcham=pul -->
-- Sarf: ekspertiza davlat xizmati; asosiy sarf — vaqt: davolanish tugashi yoki holat barqarorlashuvini kutish (koʻpincha jarohatdan keyin bir necha oy)
+- Sarf: Ekspertiza davlat xizmati; asosiy sarf — vaqt: davolanish tugashi yoki holat barqarorlashuvini kutish (koʻpincha jarohatdan keyin bir necha oy)
 - Oddiy tilda: nogironlik guruhi va imtiyozlar tananing davolanishdan keyin qolgan funksional buzilishiga qarab belgilanadi. Suyak hali bitmasdan, plastina olinmasdan ekspertizaga borsangiz, oʻsha paytdagi holat baholanadi — bu guruhni oʻzingiz pasaytirib qoʻyish demakdir. Shuning uchun tibbiy-ijtimoiy ekspertizaga davolanish yakunlangach yoki klinik holat barqarorlashgach murojaat qiling.
 - Qaytimi: nogironlik va hayot faoliyati cheklanishi darajasi tibbiy-ijtimoiy ekspertiza (MSEK/TMEK) orqali klinik-funksional holatga qarab belgilanadi; ekspertizaga yoʻllashdan oldin oʻtilishi kerak boʻlgan davolanish muddatlari roʻyxati rasman belgilangan
 - Dalil darajasi: B

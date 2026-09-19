@@ -33,7 +33,7 @@ Bu bobning oʻlchovi — pul va shaxsiy erkinlik; bir nechta band esa toʻgʻrid
 
 ### 4. Xorijdagi tibbiy yordam va tibbiy evakuatsiyani qamrab oladigan sugʻurta oling, faqat reys kechikish sugʻurtasi bilan cheklanmang
 <!-- teglar: pul=kam vaqt=kam iroda=yoq qaytim=katta olcham=pul -->
-- Sarf: qisqa muddatli xorijiy sayohat sugʻurtasi — bir necha yuz ming soʻm atrofida
+- Sarf: Qisqa muddatli xorijiy sayohat sugʻurtasi — bir necha yuz ming soʻm atrofida
 - Oddiy tilda: Chet elda davolanish puli oʻz choʻntagingizdan chiqadi, Oʻzbekiston tibbiy tizimi uni deyarli qoplamaydi, elchixona ham toʻlamaydi. Oilani chindan choʻktiradigan narsa ambulatoriya emas — ogʻir jarohatdan keyingi statsionar va bemorni Vatanga olib qaytish; buning uchun maxsus reys yoki tibbiy hamrohlik kerak boʻladi. Sugʻurta olayotganda ikki summaga qarang: xorijdagi tibbiy xarajatlar va shoshilinch tibbiy evakuatsiya/qaytarish.
 - Qaytimi: Xorijdagi davolanish xarajati oʻz zimmangizda; ogʻir jarohatdan keyingi statsionar va bemorni davlatdan Vatanga koʻchirish (maxsus reys yoki tibbiy hamrohlik) — oʻz hisobingizdagi eng qimmat toifadagi xarajat. Sugʻurta tanlashda avvalo ikki limitga eʼtibor bering: xorijdagi tibbiy xarajatlar limiti va shoshilinch tibbiy evakuatsiya/qaytarish limiti
 - Dalil darajasi: C

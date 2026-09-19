@@ -6,7 +6,7 @@ Bu bobga «arzon ham, foydali ham koʻrinadigan», lekin birlamchi dalillarga ko
 
 ### 1. Uzoq umr koʻrish yoki yurak-qon tomir kasalligidan saqlanish uchun multivitamin ichmang
 <!-- teglar: pul=0 vaqt=kam iroda=yoq qaytim=orta olcham=pul -->
-- Sarf: kuniga bir necha ming soʻm, yiliga taxminan bir million soʻm atrofida; ustiga «har kuni dori ichib turibman» degan psixologik bogʻlanish
+- Sarf: Kuniga bir necha ming soʻm, yiliga taxminan bir million soʻm atrofida; ustiga «har kuni dori ichib turibman» degan psixologik bogʻlanish
 - Oddiy tilda: 14 ming nafar erkak shifokor oʻn bir yil davomida multivitamin ichdi — yurak-qon tomir hodisalarida ham, oʻlimda ham hech qanday farq chiqmadi; 9 ta sinovni, 50 mingdan ortiq odamni birga qoʻshib qaralganda ham oʻlimga taʼsiri koʻrinmadi. Tejaladigani — yiliga bir million soʻmga yaqin pul. Tekshiruvda moddalar tanqisligi aniqlangan odamlar va folat kislotasi ichayotgan homiladorlar bu bandga kirmaydi.
 - Qaytimi: PHS II (14 641 erkak shifokor, kuzatuv medianasi 11,2 yil): asosiy yurak-qon tomir hodisalari HR 1,01 (95% CI 0,91–1,10), umumiy oʻlim HR 0,94 (0,88–1,02); USPSTF 2022 jamlanmasi (9 ta RCT, 51 550 kishi): multivitamin bilan umumiy oʻlim oʻrtasida bogʻliqlik yoʻq, baho — I daraja (dalil yetarli emas); foydali koʻrinishining sababi — «bitta tabletka barcha moddani qoplaydi» degan tuygʻu va dona narxining arzonligi
 - Dalil darajasi: A
@@ -15,7 +15,7 @@ Bu bobga «arzon ham, foydali ham koʻrinadigan», lekin birlamchi dalillarga ko
 
 ### 2. Yurak-qon tomir kasalligining oldini olish uchun oddiy baliq yogʻi ichmang
 <!-- teglar: pul=0 vaqt=kam iroda=yoq qaytim=orta olcham=pul -->
-- Sarf: kuniga bir necha ming soʻm, yiliga bir-ikki million soʻm
+- Sarf: Kuniga bir necha ming soʻm, yiliga bir-ikki million soʻm
 - Oddiy tilda: ikki sinovda (26 ming kishi va 15 ming diabetli bemor) kuniga 1 gramm baliq yogʻi yurak-qon tomir hodisalarini ham, oʻlimni ham oʻzgartirmadi. «Baliq yeyish foydali» degani «baliq yogʻi kapsulasi foydali» degani emas; tejaladigani — yiliga bir-ikki million soʻm.
 - Qaytimi: VITAL (25 871 kishi, kuniga 1 g, kuzatuv medianasi 5,3 yil): asosiy yurak-qon tomir hodisalari HR 0,92 (95% CI 0,80–1,06), umumiy oʻlim HR 1,02 (0,90–1,15); ASCEND (15 480 diabetli bemor, kuniga 1 g, oʻrtacha kuzatuv 7,4 yil): jiddiy qon tomir hodisalari RR 0,97 (0,87–1,08), umumiy oʻlim RR 0,95 (0,86–1,05); foydali koʻrinishining sababi — «baliq foydali» degan gap toʻgʻridan-toʻgʻri «baliq yogʻi kapsulasi foydali» ga tenglashtirilgani
 - Dalil darajasi: A
@@ -24,7 +24,7 @@ Bu bobga «arzon ham, foydali ham koʻrinadigan», lekin birlamchi dalillarga ko
 
 ### 3. Vitamin D tanqisligi yoʻq odamga uzoq umr uchun vitamin D bermang
 <!-- teglar: pul=0 vaqt=kam iroda=yoq qaytim=orta olcham=pul -->
-- Sarf: kuniga ming soʻm atrofida, yiliga bir necha yuz ming soʻm; puli koʻp emas, asosiy zarari — «profilaktikani qilib qoʻydim» degan aldanish
+- Sarf: Kuniga ming soʻm atrofida, yiliga bir necha yuz ming soʻm; puli koʻp emas, asosiy zarari — «profilaktikani qilib qoʻydim» degan aldanish
 - Oddiy tilda: ikki sinovda (26 ming kishi 5 yil, 21 ming keksa odam 5 yil) aslida tanqisligi boʻlmagan odamlarga vitamin D berilganda saraton ham, yurak-qon tomir kasalligi ham, oʻlim ham oʻzgarmadi: oʻlim koʻrsatkichi 5,3% va 5,1%. Tanqisligi aniqlangan, suyagi siyraklashgan yoki uzoq vaqt quyosh koʻrmaydigan odamlar bu bandga kirmaydi — ular shifokor koʻrsatmasi bilan qabul qiladi.
 - Qaytimi: VITAL (25 871 kishi, kuniga 2000 IU, kuzatuv medianasi 5,3 yil): invaziv saraton HR 0,96 (95% CI 0,88–1,06), asosiy yurak-qon tomir hodisalari HR 0,97 (0,85–1,12), umumiy oʻlim HR 0,99 (0,87–1,12); D-Health (60 yoshdan oshgan 21 315 avstraliyalik, oyiga 60 000 IU, 5 yil): umumiy oʻlim HR 1,04 (0,93–1,18), oʻlim koʻrsatkichi 5,3% va 5,1%; foydali koʻrinishining sababi — kuzatuv tadqiqotlarida vitamin D darajasi past odamlarda oʻlim yuqori chiqqani «demak, qoʻshimcha ichish foyda qiladi» deb notoʻgʻri oʻqilgani
 - Dalil darajasi: A
@@ -33,7 +33,7 @@ Bu bobga «arzon ham, foydali ham koʻrinadigan», lekin birlamchi dalillarga ko
 
 ### 4. Saratondan saqlanish uchun antioksidant qoʻshimchalar (beta-karotin, vitamin E, vitamin A) ichmang
 <!-- teglar: pul=0 vaqt=kam iroda=yoq qaytim=orta olcham=umr -->
-- Sarf: kuniga bir necha ming soʻm; chekadigan odam uchun esa sarf — oʻpka saratoni xavfining ortishi
+- Sarf: Kuniga bir necha ming soʻm; chekadigan odam uchun esa sarf — oʻpka saratoni xavfining ortishi
 - Oddiy tilda: bu band shunchaki «foydasi yoʻq» degani emas: 78 ta sinov, 300 mingga yaqin odam jamlanganda antioksidant qoʻshimchalar oʻlimni biroz koʻtargan; chekuvchilar ustida oʻtkazilgan ikki yirik sinovda beta-karotin oʻpka saratonini 18 foizdan 28 foizgacha, umumiy oʻlimni 8 foizdan 17 foizgacha oshirgan. Chekadiganlar va asbest bilan ishlaganlar buni ayniqsa ichmasin.
 - Qaytimi: Cochrane sharhi (78 ta RCT, 296 707 kishi): antioksidant qoʻshimchalarda umumiy oʻlim RR 1,02 (95% CI 0,98–1,05), xolislik xavfi past sinovlarda RR 1,04 (1,01–1,07), beta-karotin RR 1,05 (1,01–1,09), vitamin E RR 1,03 (1,00–1,05); ATBC (29 133 chekuvchi erkak, kuniga 20 mg): oʻpka saratoni uchrashi 18% ga (3%–36%), umumiy oʻlim 8% ga (1%–16%) koʻtarilgan; CARET (18 314 chekuvchi va asbestga duch kelgan kishi): oʻpka saratoni RR 1,28 (1,04–1,57), umumiy oʻlim RR 1,17 (1,03–1,33); foydali koʻrinishining sababi — «antioksidant = qarishga qarshi = saratondan himoya» zanjirining har bir boʻgʻini sogʻlom fikrga oʻxshab tuyulishi
 - Dalil darajasi: A
@@ -42,7 +42,7 @@ Bu bobga «arzon ham, foydali ham koʻrinadigan», lekin birlamchi dalillarga ko
 
 ### 5. Glyukozamin/xondroitin tizza artrozini davolaydi deb umid qilmang
 <!-- teglar: pul=0 vaqt=kam iroda=yoq qaytim=orta olcham=pul -->
-- Sarf: kuniga bir necha ming soʻm, yiliga bir-uch million soʻm
+- Sarf: Kuniga bir necha ming soʻm, yiliga bir-uch million soʻm
 - Oddiy tilda: 1 583 kishi 24 hafta davomida qabul qildi: platsebo (soxta dori) guruhida ham 60,1% odam ogʻriq yengillashganini aytgan, glyukozamin undan atigi 3,9 foiz punktga, xondroitin 5,3 foiz punktga yuqori chiqqan — ikkalasi ham statistik ahamiyatga yetmagan. Yiliga bir-uch million soʻmga sotib olinayotgani, asosan, oʻsha oltmish foizlik platsebo taʼsiri.
 - Qaytimi: GAIT (tizza osteoartriti boʻlgan 1 583 bemor, 24 hafta): ogʻriq yengillashgani platsebo guruhida 60,1%, glyukozamin platsebodan 3,9 foiz punkt yuqori (P=0,30), xondroitin 5,3 foiz punkt yuqori (P=0,17), ikkalasi birga berilganda 6,5 foiz punkt yuqori (P=0,09) — hech biri ahamiyatli emas; taqqoslash uchun olingan selekoksib esa 10,0 foiz punkt yuqori (P=0,008); foydali koʻrinishining sababi — «togʻayning xomashyosini beryapman» degan gap toʻgʻridan-toʻgʻri sababga taʼsir qilayotgandek eshitilishi va platsebo javobining oʻzi oltmish foiz boʻlishi
 - Dalil darajasi: A
@@ -51,7 +51,7 @@ Bu bobga «arzon ham, foydali ham koʻrinadigan», lekin birlamchi dalillarga ko
 
 ### 6. Shamollashning oldini olish uchun vitamin C ga ishonmang
 <!-- teglar: pul=0 vaqt=kam iroda=yoq qaytim=kichik olcham=pul -->
-- Sarf: shipuchi tabletkaning donasi bir-ikki ming soʻm, yiliga yarim milliondan bir million soʻmgacha
+- Sarf: Shipuchi tabletkaning donasi bir-ikki ming soʻm, yiliga yarim milliondan bir million soʻmgacha
 - Oddiy tilda: 29 ta taqqoslama, 11 306 kishi: har kuni vitamin C ichish shamollash sonini deyarli kamaytirmaydi; shamollagandan keyin ichib boshlaganda ham barqaror taʼsir koʻrinmagan. U kasallik davrini taxminan 8% ga qisqartiradi — yaʼni bir marta shamollaganda yarim kunga kam azob; yiliga sarflanadigan yarim-bir million soʻmga shu arziydimi, oʻzingiz hisoblang. Marafonchilar va sovuqda yurish qiladigan harbiylar istisno: ularda shamollash ehtimoli qariyb ikki barobar kamayadi.
 - Qaytimi: Cochrane sharhi (29 ta taqqoslama, 11 306 kishi): oddiy aholida muntazam vitamin C qabul qilganda shamollash uchrashi RR 0,97 (95% CI 0,94–1,00), yaʼni kasallanish soni deyarli kamaymaydi; shamollagandan keyin boshlangan qabul boʻyicha «davo sinovlarida barqaror taʼsir koʻrinmagan»; foydali koʻrinishining sababi — arzonligi, nordon-shirin taʼmi va «vitamin C shamollashdan saqlaydi» degan gapning yarim asr yurgani
 - Dalil darajasi: A
@@ -60,7 +60,7 @@ Bu bobga «arzon ham, foydali ham koʻrinadigan», lekin birlamchi dalillarga ko
 
 ### 7. Hech qanday shikoyatingiz yoʻq boʻlsa, «butun tana PET-KT» yoki «oʻsma markerlari paketi» qildirmang
 <!-- teglar: pul=0 vaqt=kam iroda=yoq qaytim=orta olcham=umr -->
-- Sarf: bir marta butun tana PET-KT — bir necha million soʻm va ustiga ionlashtiruvchi nurlanish; oʻsma markerlari paketi — bir necha yuz ming soʻm; asl xarajat esa yolgʻon musbat natijadan keyingi qayta tekshiruv, biopsiya va operatsiya
+- Sarf: Bir marta butun tana PET-KT — bir necha million soʻm va ustiga ionlashtiruvchi nurlanish; oʻsma markerlari paketi — bir necha yuz ming soʻm; asl xarajat esa yolgʻon musbat natijadan keyingi qayta tekshiruv, biopsiya va operatsiya
 - Oddiy tilda: shikoyati yoʻq odamni tekshirganda asosiy natija — yolgʻon musbatlar: shikoyatsiz 1 192 kishiga butun tana KT si qilinganda 86% ida kamida bitta «oʻzgarish» topilgan, 37% i qoʻshimcha tekshiruvga chaqirilgan, ammo ularning katta qismi xavfsiz chiqqan. Tuxumdon saratoni markerlari boʻyicha oʻtkazilgan yirik sinovda skrining guruhida oʻlim hatto biroz yuqori chiqqan; 0,2 foizdan 3,25 foizgacha odam yolgʻon musbat natija tufayli operatsiya stoliga tushgan, ularning 15% igacha jiddiy jarrohlik asoratini koʻrgan. Bitta tekshiruv bir necha million soʻm, ustiga nurlanish. Dalili bor bir nechta skrining esa — butunlay boshqa masala.
 - Qaytimi: USPSTF shikoyatsiz ayollarda CA-125 va ultratovush bilan tuxumdon saratonini skrining qilishga D daraja bergan (qilmaslik tavsiya etiladi): PLCO sinovida tuxumdon saratonidan oʻlim skrining guruhida 0,34%, odatiy kuzatuv guruhida 0,29% (RR 1,18, 95% CI 0,82–1,71) — foyda yoʻq; yolgʻon musbat natija tufayli operatsiya qilinganlar ulushi turli sinovlarda 0,2%–3,25%, ularning 15% igacha jiddiy jarrohlik asorati boʻlgan; butun tana KT skriningida 1 192 shikoyatsiz kishining 86% ida kamida bitta «oʻzgarish» topilgan, 37% iga qoʻshimcha tekshiruv tavsiya etilgan, ammo «topilmalarning koʻpchiligi tavsifiga koʻra xavfsiz» boʻlgan; foydali koʻrinishining sababi — «bir marta butun tanani tekshiraman, erta topsam erta davolayman» degan fikrning mantiqqa oʻxshab turishi
 - Dalil darajasi: A
@@ -69,7 +69,7 @@ Bu bobga «arzon ham, foydali ham koʻrinadigan», lekin birlamchi dalillarga ko
 
 ### 8. Bilaguzuk yoki soatdagi harakat hisobi vazn tashlashga yordam beradi deb kutmang
 <!-- teglar: pul=0 vaqt=kam iroda=yoq qaytim=orta olcham=pul -->
-- Sarf: bir necha yuz ming soʻmdan bir necha million soʻmgacha turadigan qurilma, ustiga har kuni maʼlumotga qarab ketadigan diqqat
+- Sarf: Bir necha yuz ming soʻmdan bir necha million soʻmgacha turadigan qurilma, ustiga har kuni maʼlumotga qarab ketadigan diqqat
 - Oddiy tilda: ortiqcha vaznli 471 kishi bir xil turmush tarzi dasturini bajardi: qurilma taqqan guruh ikki yilda 3,5 kilo, taqmagan guruh esa 5,9 kilo tashladi. Vazn tashlashga qurilma emas, harakatning oʻzi yordam beradi.
 - Qaytimi: IDEA sinovi (ortiqcha vaznli/semiz 471 nafar kattalar, 24 oy): bir xil turmush tarzi dasturi ustiga taqiladigan qurilma ishlatgan guruh 3,5 kg (95% CI 2,6–4,5), qurilmasiz guruh esa aksincha 5,9 kg (5,0–6,8) tashlagan, farq 2,4 kg (1,0–3,7, P=0,002); foydali koʻrinishining sababi — «oʻlchamasang, boshqara olmaysan» degan gap va qurilmaga bir marta pul toʻlanishi
 - Dalil darajasi: B
@@ -78,7 +78,7 @@ Bu bobga «arzon ham, foydali ham koʻrinadigan», lekin birlamchi dalillarga ko
 
 ### 9. «Sogʻlomroq» degan umidda organik mahsulotga ustama toʻlamang
 <!-- teglar: pul=0 vaqt=kam iroda=yoq qaytim=orta olcham=pul -->
-- Sarf: odatda oddiy mahsulot narxidan 1–3 barobar qimmat
+- Sarf: Odatda oddiy mahsulot narxidan 1–3 barobar qimmat
 - Oddiy tilda: odamlar ustida oʻtkazilgan 17 ta tadqiqot va 223 ta tarkib tahlili birga koʻrilganda organik oziq-ovqat koʻproq toʻyimli ekaniga ishonchli dalil topilmagan; haqiqiy sogʻliq yakunini faqat 3 tasi oʻlchagan va ularda ham farq chiqmagan. Organik mahsulotda pestitsid qoldigʻi topilishi 30 foiz punktga kam — ammo «topildi» degani «meʼyordan oshdi» degani emas. Sabzavot-mevani koʻp yeyishning oʻzi foydali va bunga mahsulot organikmi-yoʻqmi degani taʼsir qilmaydi.
 - Qaytimi: tizimli sharh (odamlar ishtirokidagi 17 ta tadqiqot, 223 ta oziq-ovqat tarkibi tahlili): «organik oziq-ovqat odatdagisidan sezilarli darajada toʻyimliroq ekanini koʻrsatadigan ishonchli dalil yoʻq»; klinik yakunni (allergiya, belgili infeksiya) atigi 3 ta tadqiqot oʻlchagan va guruhlar oʻrtasida ahamiyatli farq boʻlmagan; organik mahsulotda pestitsid qoldigʻi topilishi xavfi 30 foiz punktga past, ammo topilishi meʼyordan oshganini anglatmaydi; foydali koʻrinishining sababi — «pestitsidsiz = xavfsizroq = sogʻlomroq» zanjirining har bir boʻgʻini sogʻlom fikrdek tuyulishi
 - Dalil darajasi: B
@@ -87,7 +87,7 @@ Bu bobga «arzon ham, foydali ham koʻrinadigan», lekin birlamchi dalillarga ko
 
 ### 10. «Organizmni tiklash» uchun qimmatbaho biologik faol qoʻshimchalar, mojun va «quvvatlantiruvchi» vositalarga katta pul sarflamang
 <!-- teglar: pul=0 vaqt=kam iroda=yoq qaytim=katta olcham=pul -->
-- Sarf: bir necha yuz mingdan bir necha million soʻmgacha; sovgʻabop qadoqqa solingach, narx koʻpincha bir necha barobar oshadi
+- Sarf: Bir necha yuz mingdan bir necha million soʻmgacha; sovgʻabop qadoqqa solingach, narx koʻpincha bir necha barobar oshadi
 - Oddiy tilda: Oʻzbekistonda biologik faol qoʻshimcha (BFQ) reklamasi qonun boʻyicha «Ushbu mahsulot dori vositasi emas» degan ogohlantirish bilan berilishi shart, unda mahsulot kasallikni davolaydi degan taassurot uygʻotish esa taqiqlanadi — yaʼni bu mahsulotlarni nazorat qiladigan idoraning oʻzi ularni davo vositasi deb tan olmaydi. Eng koʻp sotiladigan tarkiblar (multivitamin, baliq yogʻi, D vitamini, antioksidantlar, glyukozamin, C vitamini) shu bobning avvalgi olti bandida birma-bir tekshirildi — hech birida sezilarli farq chiqmadi. Lekin bu pul koʻpincha shifo uchun emas, ota-onaga sovgʻa qilish yoki qoʻlda koʻtarib borish uchun sarflanadi. Niyatning oʻzida hech qanday yomonlik yoʻq, muammo faqat shundaki, mol notoʻgʻri. Oʻsha pulni quyidagilarga almashtiring — har birining manbasi kitobda bor: keksa odamni kerakli emlashlarga olib boring (yillik gripp emlashi — 1-bob 20-band, 50 yoshdan keyin oʻrab oluvchi temiratki emlashi — 21-band, 65 yoshdan katta odamga pnevmokokk emlashi — 22-band); tonometr olib bering va qon bosimi dorisini shifokor aytganidek toʻliq ichishini kuzatib turing (1-bob 7-band); hammom bilan zinani xavfsiz qiling, u bilan muvozanat va oyoq kuchi mashqlarini bajaring (1-bob 13-band); yoshiga mos saraton skriningiga birga boring (1-bob 17–19-band); uzoq yotib qolgan bemorda yotoq yaralari va parvarish masalalari — 17-bob 7 va 8-band. Qoʻlda biror narsa koʻtarib bormoqchi boʻlsangiz, meva, un-guruch, uning yoqtirgan taomi mojundan koʻra ancha foydaliroq.
 - Qaytimi: «Reklama toʻgʻrisida»gi Qonunning 35-moddasiga koʻra, ovqatga qoʻshiladigan biologik faol qoʻshimchalar reklamasi har safar «Ushbu mahsulot dori vositasi emas» mazmunidagi ogohlantirish bilan berilishi shart; ularning dori vositasi ekani yoki davolash xususiyatiga egaligi haqida taassurot uygʻotish, davolangan odamlarning hikoyalari va minnatdorchiliklariga havola qilish taqiqlanadi. Raqobat qoʻmitasi ham «biologik faol qoʻshimchalar kasalliklarni davolovchi vosita emas» deb takrorlaydi va bunday reklamalarni efirdan olib tashlash choralarini koʻradi — yaʼni tartibga soluvchi organning oʻzi ularning davolash samarasini tan olmaydi; shu bobning avvalgi 6 bandida eng keng tarqalgan tarkiblarning (multivitamin, baliq yogʻi, D vitamini, antioksidantlar, glyukozamin, C vitamini) tasodifiy nazorat sinovlaridagi natijalari keltirilgan; foydali koʻrinishining sababi: «davolamaydi, lekin organizmni tiklaydi» degan daʼvoni inkor qilib boʻlmaydi, sovgʻa holatida esa xarid qarori dalil bilan emas, hurmat va koʻngil yuzasidan qabul qilinadi
 - Dalil darajasi: C
@@ -96,7 +96,7 @@ Bu bobga «arzon ham, foydali ham koʻrinadigan», lekin birlamchi dalillarga ko
 
 ### 11. Ichak bilan muammo boʻlmasa, probiotikni doimiy ichib yurmang
 <!-- teglar: pul=0 vaqt=kam iroda=yoq qaytim=kichik olcham=pul -->
-- Sarf: kuniga bir necha ming soʻm, yiliga bir-ikki million soʻmgacha
+- Sarf: Kuniga bir necha ming soʻm, yiliga bir-ikki million soʻmgacha
 - Oddiy tilda: Sogʻlom kattalar ustida oʻtkazilgan 45 ta sinov umumlashtirilganda maʼlum boʻldiki, probiotik ichak mikroflorasini uzoq muddatga oʻzgartirmaydi — ichishni toʻxtatsangiz, hammasi eskisiga qaytadi; qon yogʻlari ham yaxshilanmagan. Antibiotikdan keyingi ich ketish kabi aniq holatlar boʻyicha alohida dalillar bor, bu band ularga tegishli emas.
 - Qaytimi: sogʻlom kattalar ustidagi 45 ta sinovni umumlashtirgan sharh «probiotik ichak mikroflorasida barqaror oʻzgarish keltirib chiqarishini ham, sogʻlom kattalarda qon yogʻlari koʻrsatkichini yaxshilashini ham tasdiqlay olmadi»; mikroflora oʻzgarishi vaqtinchalik, qabul toʻxtagach yoʻqoladi; foydali koʻrinishining sababi: «ichak sogʻligʻi» tushunchasi juda keng va kunlik narx arzon tuyuladi
 - Dalil darajasi: B
@@ -105,7 +105,7 @@ Bu bobga «arzon ham, foydali ham koʻrinadigan», lekin birlamchi dalillarga ko
 
 ### 12. «Immunitetni mustahkamlash» uchun oʻzingizni sovuq suvda choʻmilishga majburlamang
 <!-- teglar: pul=0 vaqt=kam iroda=yoq qaytim=kichik olcham=pul -->
-- Sarf: pul 0; kuniga 30–90 soniya noqulaylik, qishda davom ettirish iroda talab qiladi; yurak-qon tomir kasalligi bor odam uchun sovuq qoʻzgʻatuvchi xavfli
+- Sarf: Pul 0; kuniga 30–90 soniya noqulaylik, qishda davom ettirish iroda talab qiladi; yurak-qon tomir kasalligi bor odam uchun sovuq qoʻzgʻatuvchi xavfli
 - Oddiy tilda: 3 018 kishilik sinovda sovuq suvda yuvinganlarning kasallik sababli ishga chiqmagan holatlari 29% kam boʻlgan, ammo ishga chiqilmagan kunlarning umumiy soni farq qilmagan — bu «kam kasal boʻlish»dan koʻra «kasal boʻlsa ham ishga borish»ga oʻxshaydi. 2025-yilgi 11 ta sinovni umumlashtirgan tahlil: sovuq suvdan keyin yalligʻlanish koʻrsatkichlari aksincha qisqa vaqtga koʻtarilgan, immunitet koʻrsatkichlari esa oʻzgarmagan. Yoqsa — choʻmilavering, faqat buni sogʻliqqa kiritilgan sarmoya deb hisoblamang.
 - Qaytimi: Niderlandiyadagi RCT (3 018 kishi, issiq dushni 30/60/90 soniya sovuq suv bilan yakunlash) kasallik sababli ishga chiqmaslik holatlarini 29% kamaytirgan (IRR 0,71), ammo «ishga chiqilmagan kunlar sonida guruhlararo sezilarli farq boʻlmagan»; hayot sifati, ish samaradorligi va xavotir darajasida klinik ahamiyatli farq yoʻq; 2025-yilgi tizimli sharh (11 ta RCT, 3 177 kishi) sovuq suvga choʻmishdan soʻng darhol va 1 soatdan keyin yalligʻlanish koʻrsatkichlari aksincha koʻtarilganini, immunitet koʻrsatkichlari oʻzgarmaganini, stress esa faqat 12-soat nuqtasida pasayganini koʻrsatgan; mualliflar dalilni «RCT lar kamligi va tanlamalarning kichikligi bilan cheklangan» deb baholaydi; foydali koʻrinishining sababi: bepul va «qiynalsang — foyda beradi» degan tuygʻu
 - Dalil darajasi: B
@@ -114,7 +114,7 @@ Bu bobga «arzon ham, foydali ham koʻrinadigan», lekin birlamchi dalillarga ko
 
 ### 13. «Toksin chiqarish», ichak tozalash, «ferment» ichimliklari va ishqoriy suv kabi mahsulotlarni sotib olmang
 <!-- teglar: pul=0 vaqt=kam iroda=yoq qaytim=orta olcham=pul -->
-- Sarf: bir necha yuz mingdan bir necha million soʻmgacha; ochlikka asoslangan «tozalash» qon qandining pasayishi va ozuqa yetishmovchiligini ham keltirib chiqarishi mumkin
+- Sarf: Bir necha yuz mingdan bir necha million soʻmgacha; ochlikka asoslangan «tozalash» qon qandining pasayishi va ozuqa yetishmovchiligini ham keltirib chiqarishi mumkin
 - Oddiy tilda: Sharhning aynan soʻzlari: detoks sanoati shuncha katta boʻlsa ham, uni qoʻllab-quvvatlaydigan klinik dalil juda kam, tijorat detoks parhezlari boʻyicha esa umuman tasodifiy nazorat sinovi oʻtkazilmagan. «Organizmning kislotaliligi saraton keltirib chiqaradi» degan qarash boʻyicha 8 278 ta maqola koʻrib chiqilib, faqat bittasi mezonga tushgan, unda ham hech qanday bogʻliqlik topilmagan. Ochlik bilan «tozalanish» qandni tushirib, ozuqa yetishmovchiligiga olib kelishi mumkin.
 - Qaytimi: sharh xulosasi: «detoks sanoati gullab-yashnayotganiga qaramay, bu parhezlarni qoʻllab-quvvatlovchi klinik dalillar juda kam» va «tijorat detoks parhezlari boʻyicha tasodifiy nazorat sinovlari oʻtkazilmagan»; ishqoriy parhez/ishqoriy suv va saraton oʻrtasidagi bogʻliqlik boʻyicha tizimli sharhda 8 278 ta maqola saralanib, faqat 1 tasi kiritish mezoniga javob bergan va unda bogʻliqlik aniqlanmagan, mualliflar «saratonning oldini olish yoki uni davolash uchun ishqoriy parhez va ishqoriy suvni omma orasida targʻib qilish asossiz» deydi; foydali koʻrinishining sababi: «tanada chiqarilishi kerak boʻlgan zahar bor» va «kislotali organizm saraton keltiradi» degan ikki shart fiziologiyaga oʻxshab eshitiladi
 - Dalil darajasi: C
@@ -123,7 +123,7 @@ Bu bobga «arzon ham, foydali ham koʻrinadigan», lekin birlamchi dalillarga ko
 
 ### 14. «Kuniga 8 stakan suv» meʼyorini toʻldirish uchun oʻzingizni suv ichishga majburlamang
 <!-- teglar: pul=0 vaqt=kam iroda=yoq qaytim=kichik olcham=pul -->
-- Sarf: pul 0; oz miqdorda vaqt va kuch, kechasi tez-tez hojatga turish
+- Sarf: Pul 0; oz miqdorda vaqt va kuch, kechasi tez-tez hojatga turish
 - Oddiy tilda: «Kuniga 8 stakan» degan raqamning manbasi izlab koʻrilganda, uni qoʻllab-quvvatlovchi birorta tadqiqot topilmagan; aksincha, bir necha ming kishining ovqat va suyuqlik isteʼmoli boʻyicha soʻrovlar shuncha koʻp suv kerak emasligini koʻrsatadi, chunki ovqat va boshqa ichimliklar allaqachon koʻp suyuqlik beradi. Chanqasangiz iching, siydik rangiga qarang — shuning oʻzi yetarli. Issiqda ishlaydiganlar, ogʻir jismoniy mashq qiladiganlar, buyrak toshi boʻlganlar va chanqoq sezgisi susaygan keksalar suyuqlikni ataylab koʻpaytirishi kerak.
 - Qaytimi: «8×8» (kuniga 8 stakan, har biri 8 untsiya) qoidasi boʻyicha adabiyot sharhida «8×8 ni qoʻllab-quvvatlovchi hech qanday ilmiy tadqiqot topilmadi», aksincha «bir necha ming kattalarning ovqat va suyuqlik isteʼmoli boʻyicha soʻrovlar shunchalik katta miqdor kerak emasligini kuchli darajada koʻrsatadi», chunki ovqat va boshqa ichimliklar koʻp suyuqlik beradi; foydali koʻrinishining sababi: suv tekin, raqam chiroyli va «koʻproq suv iching» degan maslahat har qanday vaziyatda zararsizdek tuyuladi
 - Dalil darajasi: C
@@ -132,7 +132,7 @@ Bu bobga «arzon ham, foydali ham koʻrinadigan», lekin birlamchi dalillarga ko
 
 ### 15. Qaror qabul qilish uchun folbinga, taroga yoki munajjimlar bashoratiga pul toʻlamang
 <!-- teglar: pul=0 vaqt=kam iroda=yoq qaytim=orta olcham=pul -->
-- Sarf: pul 0; qaror qabul qilishning bir «qisqa yoʻli»dan voz kechasiz
+- Sarf: Pul 0; qaror qabul qilishning bir «qisqa yoʻli»dan voz kechasiz
 - Oddiy tilda: Klassik sinf tajribasida talabalarga tarqatilgan «shaxsiy xarakter tahlili» aslida hammada bir xil matn boʻlgan, shunga qaramay koʻpchilik uni «juda toʻgʻri» deb baholagan — folbinlik doim aniq tuyulishining sababi ana shu. Haqiqiy narx esa bir necha oʻn ming soʻm bilan tugamaydi: «duo qildiraman», «isitib beraman», «koʻzdan qaytaraman» degan vaʼda bilan pul olish — Jinoyat kodeksining 168-moddasiga koʻra firibgarlik, va pulni oʻz qoʻlingiz bilan bergan boʻlsangiz ham javobgarlik bekor boʻlmaydi; bunday holatda ariza bilan ichki ishlar organlariga yoki prokuraturaga murojaat qilinadi. Bir necha oʻn ming soʻmni koʻngilxushlik uchun sarflash boshqa masala; ishdan boʻshash, turmush qurish yoki pul tikish qarorini shunga tayanib qabul qilish — mana shu yerda pul ketadi.
 - Qaytimi: klassik sinf tajribasi: shaxsiyat testidan soʻng talabalarga berilgan «shaxsiy tahlil» aslida hammada bir xil boʻlgan, shunga qaramay koʻpchilik uni juda toʻgʻri deb topgan, muallif xulosasi — «talqinning shaxsning oʻzi yoki tahlilchi tomonidan qabul qilinishi uning toʻgʻriligini isbotlamaydi», bu folbinlik nega doim aniq tuyulishini tushuntiradi (Barnum effekti); astrologiyaning qoʻsh-koʻr sinovi: «tugʻilish xaritasi sinaluvchining xarakterini aniq tasvirlay oladimi» degan savol ikki guruhli qoʻsh-koʻr tekshiruvda sinalgan va natija Nature jurnalida chop etilgan; huquqiy tomoni: Jinoyat kodeksining 168-moddasiga koʻra aldash yoki ishonchni suiisteʼmol qilish yoʻli bilan oʻzganing mol-mulkini yoxud mol-mulkka boʻlgan huquqini qoʻlga kiritish firibgarlik hisoblanadi, mulk tashqaridan qaraganda jabrlanuvchining oʻz ixtiyori bilan berilgani javobgarlikni bekor qilmaydi; bu toifadagi ishlar boʻyicha sud amaliyoti Oliy sud Plenumining 2023-yil 23-iyundagi 17-son qarorida umumlashtirilgan
 - Dalil darajasi: B
