@@ -169,7 +169,7 @@ async function main(){
       for (const n of chapters){
         const d = data[n];
         const a = document.createElement('a'); a.className='ch'; a.style.setProperty('--c',cat.c);
-        a.href = `index.html?sec=${n}`;
+        a.href = `index.html?sec=${String(n).padStart(2,'0')}`;
         a.dataset.text = (d.title + ' ' + d.items.join(' ')).toLowerCase();
         const topics = d.items.slice(0,5).map(shorten);
         a.innerHTML = `<div class="ch-t"><span class="num">${n}.</span><span>${d.title}</span></div>`
